@@ -3,6 +3,8 @@ SWEN30006 Assignment 2 2017 University of Melbourne
 
 **Project Group Members**: Tin Bao, Richard Sun, Victor Phan
 
+The *core folder* contains all of the source code used in the train simulation and the *desktop project folder* contains the desktop application that renders the simulation.
+
 Implementation Checklist:
 
 1. **State Machine Diagram** for the existing Train class
