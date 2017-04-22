@@ -33,7 +33,12 @@ enum TrainState {
 	
 	ON_ROUTE {
 		public TrainState entering(Train t) throws Exception {
-			return null;
+			// Checkout if we have reached the new station
+			if(t.getPos().distance(t.getStation().position) < 10 ){
+				return WAITING_ENTRY;
+			} else {
+				return ON_ROUTE;
+			}
 		}
 		
 	}, 
@@ -65,6 +70,7 @@ enum TrainState {
 			}
 			return FROM_DEPOT;
 		}
+		
 	};
 
 	abstract TrainState entering(Train t) throws Exception;

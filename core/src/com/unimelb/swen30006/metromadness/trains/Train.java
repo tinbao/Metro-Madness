@@ -144,7 +144,7 @@ public class Train {
 					this.station = next;
 
 				} catch (Exception e) {
-//					e.printStackTrace();
+					e.printStackTrace();
 				}
 				this.track.enter(this);
 				this.state = TrainState.ON_ROUTE;
@@ -155,12 +155,14 @@ public class Train {
 				logger.info(this.name+ " enroute to "+this.station.name+" Station!");
 			}
 			
-			// Checkout if we have reached the new station
-			if(this.pos.distance(this.station.position) < 10 ){
-				this.state = TrainState.WAITING_ENTRY;
-			} else {
+			try {
+				state = state.entering(this);
+			} catch (Exception e) {
+				e.printStackTrace();
+			} finally {
 				move(delta);
 			}
+			
 			break;
 		case WAITING_ENTRY:
 			if(hasChanged){
