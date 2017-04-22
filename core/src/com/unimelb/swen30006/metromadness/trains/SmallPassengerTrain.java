@@ -27,7 +27,7 @@ public class SmallPassengerTrain extends Train {
 			float percentage = this.passengers.size()/10f;
 			renderer.setColor(col.cpy().lerp(Color.MAROON, percentage));
 			// We also get slightly bigger with passengers
-			renderer.circle(this.pos.x, this.pos.y, TRAIN_WIDTH*(1+percentage));
+			renderer.circle(getPos().x, getPos().y, TRAIN_WIDTH*(1+percentage));
 		}
 	}
 

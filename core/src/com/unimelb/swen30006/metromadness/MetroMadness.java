@@ -15,25 +15,23 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType;
 import com.badlogic.gdx.math.MathUtils;
 
 public class MetroMadness extends ApplicationAdapter {
-	
-	
 
 	// The width of the world in unitless dimensions
-    static final int WORLD_WIDTH = 1200;
-    static final int WORLD_HEIGHT = 1200;
+    public static final int WORLD_WIDTH = 1200;
+    public static final int WORLD_HEIGHT = 1200;
 
     // Viewport state
-    int VIEWPORT_WIDTH=200;
-	float viewport_width;
+    private int VIEWPORT_WIDTH=200;
+	private float viewport_width;
 
 	// Data for simluation, rendering and camera.
-	Simulation sim;
-	ShapeRenderer shapeRenderer;
-	OrthographicCamera camera;
+	private Simulation sim;
+	private ShapeRenderer shapeRenderer;
+	private OrthographicCamera camera;
 	
 	// Font
-	BitmapFont smaller;
-	BitmapFont header;
+	private BitmapFont smaller;
+	private BitmapFont header;
 
 	@Override
 	public void resize(int width, int height) {
