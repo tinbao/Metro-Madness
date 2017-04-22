@@ -40,7 +40,8 @@ public class Train {
 	// Station and track and position information
 	private Station station; 
 
-	public Track track;
+	private Track track;
+
 	private Point2D.Float pos;
 
 	public Point2D.Float getPos() {
@@ -52,13 +53,12 @@ public class Train {
 	}
 
 	// Direction and direction
-	public boolean forward;
+	private boolean forward;
 	private TrainState state;
 
 	// State variables
 	public int numTrips;
 	private boolean disembarked;
-	
 	
 	public TrainState previousState = null;
 
@@ -113,12 +113,7 @@ public class Train {
 				} else {
 					// We are ready to depart, find the next track and wait until we can enter 
 					try {
-						boolean endOfLine = this.trainLine.endOfLine(this.station);
-						if(endOfLine){
-							this.forward = !this.forward;
-						}
-						track = this.trainLine.nextTrack(this.station, this.forward);
-						this.state = TrainState.READY_DEPART;
+						state.trainMove(this);
 						break;
 					} catch (Exception e){
 						// Massive error.
@@ -256,6 +251,22 @@ public class Train {
 
 	public void setStation(Station station) {
 		this.station = station;
+	}
+	
+	public boolean isForward() {
+		return forward;
+	}
+
+	public void setForward(boolean forward) {
+		this.forward = forward;
+	}
+	
+	public Track getTrack() {
+		return track;
+	}
+
+	public void setTrack(Track track) {
+		this.track = track;
 	}
 	
 }
