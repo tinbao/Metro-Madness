@@ -91,7 +91,7 @@ public class Train {
 			}
 			
 			try {
-				state.entering(this);
+				state = state.entering(this);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -113,7 +113,13 @@ public class Train {
 				} else {
 					// We are ready to depart, find the next track and wait until we can enter 
 					try {
-						state.trainMove(this);
+						//state.trainMove(this);
+						boolean endOfLine = this.trainLine.endOfLine(this.station);
+						if(endOfLine){
+							this.forward = !this.forward;
+						}
+						this.track = this.trainLine.nextTrack(this.station, this.forward);
+						this.state = TrainState.READY_DEPART;
 						break;
 					} catch (Exception e){
 						// Massive error.
@@ -164,13 +170,7 @@ public class Train {
 			// Waiting to enter, we need to check the station has room and if so
 			// then we need to enter, otherwise we just wait
 			try {
-				if(this.station.canEnter(this.trainLine)){
-					this.track.leave(this);
-					this.pos = (Point2D.Float) this.station.position.clone();
-					this.station.enter(this);
-					this.state = TrainState.IN_STATION;
-					this.disembarked = false;
-				}
+				state = state.entering(this);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

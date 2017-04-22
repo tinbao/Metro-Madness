@@ -4,7 +4,13 @@ import java.awt.geom.Point2D;
 
 //The state that a train can be in 
 enum TrainState {
-	IN_STATION /*{
+	
+	IN_STATION {
+		
+		public TrainState entering(Train t) throws Exception{
+			return null;
+		}
+		/*
 		public TrainState trainMove(Train t) throws Exception{
 			boolean endOfLine = t.getTrainLine().endOfLine(t.getStation());
 			if(endOfLine){
@@ -14,8 +20,39 @@ enum TrainState {
 			return READY_DEPART;
 		
 		}
-	}*/, READY_DEPART, ON_ROUTE, WAITING_ENTRY, 
+		*/
 		
+	}, 
+	
+	READY_DEPART {
+		public TrainState entering(Train t) throws Exception {
+			return null;
+		}
+		
+	}, 
+	
+	ON_ROUTE {
+		public TrainState entering(Train t) throws Exception {
+			return null;
+		}
+		
+	}, 
+	
+	WAITING_ENTRY {
+		
+		public TrainState entering(Train t) throws Exception {
+			if(t.getStation().canEnter(t.getTrainLine())){
+				t.getTrack().leave(t);
+				t.setPos((Point2D.Float) t.getStation().position.clone());
+				t.getStation().enter(t);
+				t.setDisembarked(false);
+				return IN_STATION;
+			}
+			return WAITING_ENTRY;
+		}
+		
+	}, 
+	
 	FROM_DEPOT {
 			
 		public TrainState entering(Train t) throws Exception{
@@ -30,15 +67,8 @@ enum TrainState {
 		}
 	};
 
+	abstract TrainState entering(Train t) throws Exception;
 	
-	public TrainState entering(Train t) throws Exception{
-		if(t.getStation().canEnter(t.getTrainLine())){
-			t.getStation().enter(t);
-			t.setPos((Point2D.Float) t.getStation().position.clone());
-			t.setDisembarked(false);
-		}
-		return FROM_DEPOT;
-	}
 	/*
 	public TrainState trainMove(Train t) throws Exception{
 		boolean endOfLine = t.getTrainLine().endOfLine(t.getStation());
