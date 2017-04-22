@@ -5,6 +5,7 @@ import java.awt.geom.Point2D;
 //The state that a train can be in 
 enum TrainState {
 	
+	/* The state of train that is currently docked at a station */
 	IN_STATION {
 		
 		public TrainState entering(Train t) throws Exception{
@@ -24,13 +25,29 @@ enum TrainState {
 		
 	}, 
 	
+	/* The state of train that is ready to depart the station */
 	READY_DEPART {
-		public TrainState entering(Train t) throws Exception {
-			return null;
+		public TrainState entering(Train t){
+
+			if(t.getTrack().canEnter(t.isForward())){
+				try {
+					// Find the next
+					t.setNextStation(t.getTrainLine().nextStation(t.getStation(), t.isForward()));
+					// Depart our current station
+					t.getStation().depart(t);
+					t.setStation(t.getNextStation());
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+				t.getTrack().enter(t);
+				return ON_ROUTE;
+			}
+			return READY_DEPART;
 		}
 		
 	}, 
 	
+	/* The state of train that is in the process of going to a station */
 	ON_ROUTE {
 		public TrainState entering(Train t) throws Exception {
 			// Checkout if we have reached the new station
@@ -43,6 +60,7 @@ enum TrainState {
 		
 	}, 
 	
+	/* The state of train that is just arrived at a station */
 	WAITING_ENTRY {
 		
 		public TrainState entering(Train t) throws Exception {
@@ -58,6 +76,7 @@ enum TrainState {
 		
 	}, 
 	
+	/* The state of train that is departed from the depot */
 	FROM_DEPOT {
 			
 		public TrainState entering(Train t) throws Exception{
@@ -73,6 +92,11 @@ enum TrainState {
 		
 	};
 
+	/**
+	 * Determines the next event of the train switching the state as the train
+	 * moves around the network, entering stations, leaving and moving.
+	 * @param t The train that is changing state
+	 */
 	abstract TrainState entering(Train t) throws Exception;
 	
 	/*

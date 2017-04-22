@@ -39,18 +39,11 @@ public class Train {
 	
 	// Station and track and position information
 	private Station station; 
-
+	private Station nextStation;
 	private Track track;
 
+	// The x and y coordinates of the train
 	private Point2D.Float pos;
-
-	public Point2D.Float getPos() {
-		return pos;
-	}
-
-	public void setPos(Point2D.Float pos) {
-		this.pos = pos;
-	}
 
 	// Direction and direction
 	private boolean forward;
@@ -135,20 +128,12 @@ public class Train {
 			
 			// When ready to depart, check that the track is clear and if
 			// so, then occupy it if possible.
-			if(this.track.canEnter(this.forward)){
-				try {
-					// Find the next
-					Station next = this.trainLine.nextStation(this.station, this.forward);
-					// Depart our current station
-					this.station.depart(this);
-					this.station = next;
-
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-				this.track.enter(this);
-				this.state = TrainState.ON_ROUTE;
-			}		
+			try {
+				state = state.entering(this);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			
 			break;
 		case ON_ROUTE:
 			if(hasChanged){
@@ -178,7 +163,6 @@ public class Train {
 			}
 			break;
 		}
-
 
 	}
 
@@ -269,6 +253,22 @@ public class Train {
 
 	public void setTrack(Track track) {
 		this.track = track;
+	}
+
+	public Station getNextStation() {
+		return nextStation;
+	}
+
+	public void setNextStation(Station nextStation) {
+		this.nextStation = nextStation;
+	}
+	
+	public Point2D.Float getPos() {
+		return pos;
+	}
+
+	public void setPos(Point2D.Float pos) {
+		this.pos = pos;
 	}
 	
 }
