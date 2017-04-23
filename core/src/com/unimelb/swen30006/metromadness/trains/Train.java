@@ -35,11 +35,10 @@ public class Train {
 
 	// Passenger Information
 	public ArrayList<Passenger> passengers;
-	public float departureTimer;
-	
+	private float departureTimer;
+
 	// Station and track and position information
-	private Station station; 
-	private Station nextStation;
+	private Station station;
 	private Track track;
 
 	// The x and y coordinates of the train
@@ -53,7 +52,7 @@ public class Train {
 	public int numTrips;
 	private boolean disembarked;
 	
-	public TrainState previousState = null;
+	private TrainState previousState = null;
 
 	
 	public Train(Line trainLine, Station start, boolean forward, String name){
@@ -70,28 +69,18 @@ public class Train {
 		for(Passenger p: this.passengers){
 			p.update(delta);
 		}
-		boolean hasChanged = false;
-		if(previousState == null || previousState != this.state){
-			previousState = this.state;
-			hasChanged = true;
-		}
 		
 		// Update the state
 		switch(this.state) {
 		case FROM_DEPOT:
-			if(hasChanged){
-				logger.info(this.name+ " is travelling from the depot: "+this.station.name+" Station...");
-			}
 			
 			try {
-				state = state.entering(this);
+				state = state.entering(this, delta);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		case IN_STATION:
-			if(hasChanged){
-				logger.info(this.name+" is in "+this.station.name+" Station.");
-			}
+
 			
 			// When in station we want to disembark passengers 
 			// and wait 10 seconds for incoming passengers
@@ -106,7 +95,6 @@ public class Train {
 				} else {
 					// We are ready to depart, find the next track and wait until we can enter 
 					try {
-						//state.trainMove(this);
 						boolean endOfLine = this.trainLine.endOfLine(this.station);
 						if(endOfLine){
 							this.forward = !this.forward;
@@ -120,28 +108,30 @@ public class Train {
 					}
 				}
 			}
+			/*
+			try {
+				state = state.entering(this, delta);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}*/
 			break;
 		case READY_DEPART:
-			if(hasChanged){
-				logger.info(this.name+ " is ready to depart for "+this.station.name+" Station!");
-			}
+
 			
 			// When ready to depart, check that the track is clear and if
 			// so, then occupy it if possible.
 			try {
-				state = state.entering(this);
+				state = state.entering(this, delta);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 			
 			break;
 		case ON_ROUTE:
-			if(hasChanged){
-				logger.info(this.name+ " enroute to "+this.station.name+" Station!");
-			}
 			
 			try {
-				state = state.entering(this);
+				state = state.entering(this, delta);
 			} catch (Exception e) {
 				e.printStackTrace();
 			} finally {
@@ -150,14 +140,11 @@ public class Train {
 			
 			break;
 		case WAITING_ENTRY:
-			if(hasChanged){
-				logger.info(this.name+ " is awaiting entry "+this.station.name+" Station..!");
-			}
 			
 			// Waiting to enter, we need to check the station has room and if so
 			// then we need to enter, otherwise we just wait
 			try {
-				state = state.entering(this);
+				state = state.entering(this, delta);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -215,18 +202,18 @@ public class Train {
 		}
 	}
 	
-	public boolean isDisembarked() {
-		return disembarked;
+	public Track getTrack() {
+		return track;
 	}
 
-	public void setDisembarked(boolean disembarked) {
-		this.disembarked = disembarked;
+	public void setTrack(Track track) {
+		this.track = track;
 	}
 	
 	public Line getTrainLine() {
 		return trainLine;
 	}
-
+	
 	public void setTrainLine(Line trainLine) {
 		this.trainLine = trainLine;
 	}
@@ -247,20 +234,12 @@ public class Train {
 		this.forward = forward;
 	}
 	
-	public Track getTrack() {
-		return track;
+	public boolean isDisembarked() {
+		return disembarked;
 	}
 
-	public void setTrack(Track track) {
-		this.track = track;
-	}
-
-	public Station getNextStation() {
-		return nextStation;
-	}
-
-	public void setNextStation(Station nextStation) {
-		this.nextStation = nextStation;
+	public void setDisembarked(boolean disembarked) {
+		this.disembarked = disembarked;
 	}
 	
 	public Point2D.Float getPos() {
@@ -271,4 +250,27 @@ public class Train {
 		this.pos = pos;
 	}
 	
+	public float getDepartureTimer() {
+		return departureTimer;
+	}
+
+	public void setDepartureTimer(float departureTimer) {
+		this.departureTimer = departureTimer;
+	}
+
+	public TrainState getPreviousState() {
+		return previousState;
+	}
+
+	public void setPreviousState(TrainState previousState) {
+		this.previousState = previousState;
+	}
+	
+	public TrainState getState() {
+		return state;
+	}
+
+	public void setState(TrainState state) {
+		this.state = state;
+	}
 }

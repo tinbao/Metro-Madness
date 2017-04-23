@@ -1,6 +1,5 @@
 package com.unimelb.swen30006.metromadness.passengers;
 
-import java.util.ArrayList;
 import java.util.Random;
 
 import com.unimelb.swen30006.metromadness.stations.Station;
