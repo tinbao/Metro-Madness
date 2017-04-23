@@ -79,9 +79,8 @@ enum TrainState {
 			// Checkout if we have reached the new station
 			if(t.getPos().distance(t.getStation().position) < 10 ){
 				return WAITING_ENTRY;
-			} else {
-				return ON_ROUTE;
 			}
+			return ON_ROUTE;
 		}
 		
 	}, 
@@ -125,8 +124,9 @@ enum TrainState {
 				t.getStation().enter(t);
 				t.setPos((Point2D.Float) t.getStation().position.clone());
 				t.setDisembarked(false);
+				return IN_STATION;
 			}
-			return IN_STATION;
+			return FROM_DEPOT;
 		}
 		
 	};
