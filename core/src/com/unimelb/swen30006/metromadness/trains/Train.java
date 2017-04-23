@@ -72,7 +72,7 @@ public class Train {
 		
 		// Update the state
 		try {
-			state = state.entering(this, delta);
+			setState(state.event(this, delta));
 		} catch (Exception e) {
 			e.printStackTrace();
 			return;

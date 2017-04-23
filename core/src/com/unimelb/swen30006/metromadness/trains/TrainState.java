@@ -11,10 +11,10 @@ enum TrainState {
 	/* The state of train that is currently docked at a station */
 	IN_STATION {
 		
-		public TrainState entering(Train t, float delta) throws Exception {
+		public TrainState event(Train t, float delta) throws Exception {
 			Logger logger = LogManager.getLogger();
 			
-			if(hasChanged(t.getPreviousState(), t.getState(), t)){
+			if(hasChanged(t)){
 				logger.info(t.name+" is in "+ t.getStation().name+" Station.");
 			}
 			
@@ -46,11 +46,11 @@ enum TrainState {
 	
 	/* The state of train that is ready to depart the station */
 	READY_DEPART {
-		public TrainState entering(Train t, float delta) throws Exception{
+		public TrainState event(Train t, float delta) throws Exception{
 			
 			Logger logger = LogManager.getLogger();
 			
-			if(hasChanged(t.getPreviousState(), t.getState(), t)){
+			if(hasChanged(t)){
 				logger.info(t.name+ " is ready to depart for "+t.getStation().name+" Station!");
 			}
 			
@@ -70,10 +70,10 @@ enum TrainState {
 	
 	/* The state of train that is in the process of going to a station */
 	ON_ROUTE {
-		public TrainState entering(Train t, float delta) throws Exception {
+		public TrainState event(Train t, float delta) throws Exception {
 			Logger logger = LogManager.getLogger();
 			
-			if(hasChanged(t.getPreviousState(), t.getState(), t)){
+			if(hasChanged(t)){
 				logger.info(t.name+ " enroute to "+t.getStation().name+" Station!");
 			}
 			// Checkout if we have reached the new station
@@ -89,10 +89,10 @@ enum TrainState {
 	/* The state of train that is just arrived at a station */
 	WAITING_ENTRY {
 		
-		public TrainState entering(Train t, float delta) throws Exception {
+		public TrainState event(Train t, float delta) throws Exception {
 			Logger logger = LogManager.getLogger();
 			
-			if(hasChanged(t.getPreviousState(), t.getState(), t)){
+			if(hasChanged(t)){
 				logger.info(t.name+ " is awaiting entry "+t.getStation().name+" Station..!");
 			}
 			
@@ -111,11 +111,11 @@ enum TrainState {
 	/* The state of train that is departed from the depot */
 	FROM_DEPOT {
 			
-		public TrainState entering(Train t, float delta) throws Exception{
+		public TrainState event(Train t, float delta) throws Exception{
 			
 			Logger logger = LogManager.getLogger();
 			
-			if(hasChanged(t.getPreviousState(), t.getState(), t)){
+			if(hasChanged(t)){
 				logger.info(t.name+ " is travelling from the depot: "+t.getStation().name+" Station...");
 			}
 			
@@ -136,7 +136,7 @@ enum TrainState {
 	 * moves around the network, entering stations, leaving and moving.
 	 * @param t The train that is changing state
 	 */
-	abstract TrainState entering(Train t, float delta) throws Exception;
+	abstract TrainState event(Train t, float delta) throws Exception;
 	
 	/**
 	 * Checks if the state is changed from last state for the logger
@@ -144,7 +144,10 @@ enum TrainState {
 	 * @param curr The current state of the Train
 	 * @return true or false whether this is correct or not
 	 */
-	static boolean hasChanged(TrainState prev, TrainState curr, Train t) {
+	static boolean hasChanged(Train t) {
+		TrainState prev = t.getPreviousState();
+		TrainState curr = t.getState();
+		
 		if(prev == null || prev != curr){
 			t.setPreviousState(curr);
 			return true;
