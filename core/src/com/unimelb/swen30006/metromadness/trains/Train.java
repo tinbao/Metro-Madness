@@ -70,58 +70,14 @@ public class Train {
 			p.update(delta);
 		}
 		
-		if(state == null && previousState != null){
-			return;
-		}
-		
 		// Update the state
-		switch(this.state) {
-		case FROM_DEPOT:
-			
-			try {
-				state = state.entering(this, delta);
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-		case IN_STATION:
-			try {
-				state = state.entering(this, delta);
-			} catch (Exception e) {
-				e.printStackTrace();
-				return;
-			}
-			break;
-		case READY_DEPART:
-			// When ready to depart, check that the track is clear and if
-			// so, then occupy it if possible.
-			try {
-				state = state.entering(this, delta);
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-			
-			break;
-		case ON_ROUTE:
-			
-			try {
-				state = state.entering(this, delta);
-			} catch (Exception e) {
-				e.printStackTrace();
-			} finally {
-				move(delta);
-			}
-			
-			break;
-		case WAITING_ENTRY:
-			
-			// Waiting to enter, we need to check the station has room and if so
-			// then we need to enter, otherwise we just wait
-			try {
-				state = state.entering(this, delta);
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-			break;
+		try {
+			state = state.entering(this, delta);
+		} catch (Exception e) {
+			e.printStackTrace();
+			return;
+		} finally {
+			move(delta);
 		}
 
 	}
