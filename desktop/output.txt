@@ -1,0 +1,12 @@
+2017-04-24 00:18:18 INFO  TrainState$5:130 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:18:18 INFO  ActiveStation:61 - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:18:18 INFO  ActiveStation:61 - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:18:18 INFO  ActiveStation:61 - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:18:18 INFO  ActiveStation:61 - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:18:18 INFO  TrainState$5:130 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:18:18 INFO  TrainState$5:130 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:18:18 INFO  ActiveStation:61 - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:18:18 INFO  ActiveStation:61 - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:18:20 INFO  TrainState$2:61 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:18:20 INFO  TrainState$2:61 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:18:20 INFO  TrainState$2:61 - Thomas the Tank Engine is ready to depart for Glasgow Station!

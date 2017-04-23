@@ -8817,3 +8817,2090 @@
 2017-04-23 23:35:35 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
 2017-04-23 23:35:35 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
 2017-04-23 23:35:35 INFO  ActiveStation - Passenger 16 carrying 47 kg embarking at Vienna heading to Bucharest
+2017-04-24 00:18:18 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:18:18 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:18:18 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:18:18 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:18:18 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:18:18 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:18:18 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:18:18 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:18:18 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:18:20 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:18:20 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:18:20 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:18:32 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:18:32 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:18:32 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:18:32 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:18:32 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:18:32 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:18:32 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:18:32 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:18:32 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:18:34 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:18:34 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:18:34 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:18:34 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:18:34 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:18:34 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:18:34 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:18:34 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 00:18:34 INFO  Train - Passenger 5 is disembarking at London
+2017-04-24 00:18:34 INFO  Train - Passenger 6 is disembarking at London
+2017-04-24 00:18:35 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Budapest heading to Berlin
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:18:35 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:18:35 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Manchester heading to London
+2017-04-24 00:18:37 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:18:37 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:18:37 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 00:18:37 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:18:37 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 00:18:37 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 00:18:38 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 00:18:38 INFO  ActiveStation - Passenger 14 carrying 22 kg embarking at Amsterdam heading to London
+2017-04-24 00:18:38 INFO  ActiveStation - Passenger 15 carrying 33 kg embarking at Amsterdam heading to London
+2017-04-24 00:18:38 INFO  Train - Passenger 3 is disembarking at Amsterdam
+2017-04-24 00:18:38 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-24 00:18:38 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-24 00:18:38 INFO  ActiveStation - Passenger 16 carrying 47 kg embarking at Vienna heading to Bucharest
+2017-04-24 00:18:40 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-24 00:18:40 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-24 00:18:40 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-24 00:18:40 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:18:40 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-24 00:18:40 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-24 00:18:41 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 17 carrying 7 kg embarking at Berlin heading to Paris
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 18 carrying 11 kg embarking at Berlin heading to Paris
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 19 carrying 36 kg embarking at Berlin heading to Budapest
+2017-04-24 00:18:41 INFO  Train - Passenger 4 is disembarking at Berlin
+2017-04-24 00:18:41 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 20 carrying 9 kg embarking at Manchester heading to London
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 21 carrying 22 kg embarking at Manchester heading to London
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 22 carrying 31 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:18:41 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 23 carrying 43 kg embarking at Berlin heading to Amsterdam
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 24 carrying 1 kg embarking at Berlin heading to Paris
+2017-04-24 00:18:41 INFO  ActiveStation - Passenger 25 carrying 23 kg embarking at Berlin heading to Paris
+2017-04-24 00:19:13 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:19:13 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:19:13 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:19:13 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:19:13 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:19:13 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:19:13 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:19:13 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:19:13 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:19:40 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:19:40 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:19:40 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:19:40 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:19:40 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:19:40 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:19:40 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:19:40 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:19:40 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:20:10 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:20:10 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:20:10 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:20:10 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:20:10 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:20:10 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:20:10 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:20:10 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:20:10 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:20:58 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:20:58 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:20:58 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:20:58 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:20:58 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:20:58 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:20:58 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:20:58 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:20:58 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:20:59 INFO  Train - 2.0
+2017-04-24 00:20:59 INFO  Train - 2.0
+2017-04-24 00:20:59 INFO  Train - 2.0
+2017-04-24 00:20:59 INFO  Train - 1.9837637
+2017-04-24 00:20:59 INFO  Train - 1.9837637
+2017-04-24 00:20:59 INFO  Train - 1.9837637
+2017-04-24 00:20:59 INFO  Train - 1.9655181
+2017-04-24 00:20:59 INFO  Train - 1.9655181
+2017-04-24 00:20:59 INFO  Train - 1.9655181
+2017-04-24 00:20:59 INFO  Train - 1.950217
+2017-04-24 00:20:59 INFO  Train - 1.950217
+2017-04-24 00:20:59 INFO  Train - 1.950217
+2017-04-24 00:20:59 INFO  Train - 1.9336138
+2017-04-24 00:20:59 INFO  Train - 1.9336138
+2017-04-24 00:20:59 INFO  Train - 1.9336138
+2017-04-24 00:20:59 INFO  Train - 1.916621
+2017-04-24 00:20:59 INFO  Train - 1.916621
+2017-04-24 00:20:59 INFO  Train - 1.916621
+2017-04-24 00:20:59 INFO  Train - 1.9005696
+2017-04-24 00:20:59 INFO  Train - 1.9005696
+2017-04-24 00:20:59 INFO  Train - 1.9005696
+2017-04-24 00:20:59 INFO  Train - 1.8834366
+2017-04-24 00:20:59 INFO  Train - 1.8834366
+2017-04-24 00:20:59 INFO  Train - 1.8834366
+2017-04-24 00:20:59 INFO  Train - 1.8666319
+2017-04-24 00:20:59 INFO  Train - 1.8666319
+2017-04-24 00:20:59 INFO  Train - 1.8666319
+2017-04-24 00:20:59 INFO  Train - 1.8505876
+2017-04-24 00:20:59 INFO  Train - 1.8505876
+2017-04-24 00:20:59 INFO  Train - 1.8505876
+2017-04-24 00:20:59 INFO  Train - 1.8335292
+2017-04-24 00:20:59 INFO  Train - 1.8335292
+2017-04-24 00:20:59 INFO  Train - 1.8335292
+2017-04-24 00:20:59 INFO  Train - 1.816139
+2017-04-24 00:20:59 INFO  Train - 1.816139
+2017-04-24 00:20:59 INFO  Train - 1.816139
+2017-04-24 00:20:59 INFO  Train - 1.7964842
+2017-04-24 00:20:59 INFO  Train - 1.7964842
+2017-04-24 00:20:59 INFO  Train - 1.7964842
+2017-04-24 00:20:59 INFO  Train - 1.7785876
+2017-04-24 00:20:59 INFO  Train - 1.7785876
+2017-04-24 00:20:59 INFO  Train - 1.7785876
+2017-04-24 00:20:59 INFO  Train - 1.754484
+2017-04-24 00:20:59 INFO  Train - 1.754484
+2017-04-24 00:20:59 INFO  Train - 1.754484
+2017-04-24 00:20:59 INFO  Train - 1.7370259
+2017-04-24 00:20:59 INFO  Train - 1.7370259
+2017-04-24 00:20:59 INFO  Train - 1.7370259
+2017-04-24 00:20:59 INFO  Train - 1.7209117
+2017-04-24 00:20:59 INFO  Train - 1.7209117
+2017-04-24 00:20:59 INFO  Train - 1.7209117
+2017-04-24 00:20:59 INFO  Train - 1.7036688
+2017-04-24 00:20:59 INFO  Train - 1.7036688
+2017-04-24 00:20:59 INFO  Train - 1.7036688
+2017-04-24 00:20:59 INFO  Train - 1.687563
+2017-04-24 00:20:59 INFO  Train - 1.687563
+2017-04-24 00:20:59 INFO  Train - 1.687563
+2017-04-24 00:20:59 INFO  Train - 1.6714092
+2017-04-24 00:20:59 INFO  Train - 1.6714092
+2017-04-24 00:20:59 INFO  Train - 1.6714092
+2017-04-24 00:20:59 INFO  Train - 1.6556416
+2017-04-24 00:20:59 INFO  Train - 1.6556416
+2017-04-24 00:20:59 INFO  Train - 1.6556416
+2017-04-24 00:20:59 INFO  Train - 1.6376529
+2017-04-24 00:20:59 INFO  Train - 1.6376529
+2017-04-24 00:20:59 INFO  Train - 1.6376529
+2017-04-24 00:20:59 INFO  Train - 1.6207111
+2017-04-24 00:20:59 INFO  Train - 1.6207111
+2017-04-24 00:20:59 INFO  Train - 1.6207111
+2017-04-24 00:20:59 INFO  Train - 1.6045325
+2017-04-24 00:20:59 INFO  Train - 1.6045325
+2017-04-24 00:20:59 INFO  Train - 1.6045325
+2017-04-24 00:20:59 INFO  Train - 1.5873481
+2017-04-24 00:20:59 INFO  Train - 1.5873481
+2017-04-24 00:20:59 INFO  Train - 1.5873481
+2017-04-24 00:20:59 INFO  Train - 1.5718281
+2017-04-24 00:20:59 INFO  Train - 1.5718281
+2017-04-24 00:20:59 INFO  Train - 1.5718281
+2017-04-24 00:20:59 INFO  Train - 1.554848
+2017-04-24 00:20:59 INFO  Train - 1.554848
+2017-04-24 00:20:59 INFO  Train - 1.554848
+2017-04-24 00:20:59 INFO  Train - 1.538415
+2017-04-24 00:20:59 INFO  Train - 1.538415
+2017-04-24 00:20:59 INFO  Train - 1.538415
+2017-04-24 00:20:59 INFO  Train - 1.5217959
+2017-04-24 00:20:59 INFO  Train - 1.5217959
+2017-04-24 00:20:59 INFO  Train - 1.5217959
+2017-04-24 00:20:59 INFO  Train - 1.5048864
+2017-04-24 00:20:59 INFO  Train - 1.5048864
+2017-04-24 00:20:59 INFO  Train - 1.5048864
+2017-04-24 00:20:59 INFO  Train - 1.4860953
+2017-04-24 00:20:59 INFO  Train - 1.4860953
+2017-04-24 00:20:59 INFO  Train - 1.4860953
+2017-04-24 00:20:59 INFO  Train - 1.4714599
+2017-04-24 00:20:59 INFO  Train - 1.4714599
+2017-04-24 00:20:59 INFO  Train - 1.4714599
+2017-04-24 00:20:59 INFO  Train - 1.455237
+2017-04-24 00:20:59 INFO  Train - 1.455237
+2017-04-24 00:20:59 INFO  Train - 1.455237
+2017-04-24 00:20:59 INFO  Train - 1.4386393
+2017-04-24 00:20:59 INFO  Train - 1.4386393
+2017-04-24 00:20:59 INFO  Train - 1.4386393
+2017-04-24 00:20:59 INFO  Train - 1.4220593
+2017-04-24 00:20:59 INFO  Train - 1.4220593
+2017-04-24 00:20:59 INFO  Train - 1.4220593
+2017-04-24 00:20:59 INFO  Train - 1.4053111
+2017-04-24 00:20:59 INFO  Train - 1.4053111
+2017-04-24 00:20:59 INFO  Train - 1.4053111
+2017-04-24 00:20:59 INFO  Train - 1.38716
+2017-04-24 00:20:59 INFO  Train - 1.38716
+2017-04-24 00:20:59 INFO  Train - 1.38716
+2017-04-24 00:20:59 INFO  Train - 1.3709335
+2017-04-24 00:20:59 INFO  Train - 1.3709335
+2017-04-24 00:20:59 INFO  Train - 1.3709335
+2017-04-24 00:20:59 INFO  Train - 1.3548123
+2017-04-24 00:20:59 INFO  Train - 1.3548123
+2017-04-24 00:20:59 INFO  Train - 1.3548123
+2017-04-24 00:20:59 INFO  Train - 1.3388501
+2017-04-24 00:20:59 INFO  Train - 1.3388501
+2017-04-24 00:20:59 INFO  Train - 1.3388501
+2017-04-24 00:20:59 INFO  Train - 1.3216705
+2017-04-24 00:20:59 INFO  Train - 1.3216705
+2017-04-24 00:20:59 INFO  Train - 1.3216705
+2017-04-24 00:20:59 INFO  Train - 1.303329
+2017-04-24 00:20:59 INFO  Train - 1.303329
+2017-04-24 00:20:59 INFO  Train - 1.303329
+2017-04-24 00:20:59 INFO  Train - 1.2871314
+2017-04-24 00:20:59 INFO  Train - 1.2871314
+2017-04-24 00:20:59 INFO  Train - 1.2871314
+2017-04-24 00:20:59 INFO  Train - 1.2719421
+2017-04-24 00:20:59 INFO  Train - 1.2719421
+2017-04-24 00:20:59 INFO  Train - 1.2719421
+2017-04-24 00:20:59 INFO  Train - 1.2553152
+2017-04-24 00:20:59 INFO  Train - 1.2553152
+2017-04-24 00:20:59 INFO  Train - 1.2553152
+2017-04-24 00:20:59 INFO  Train - 1.2382785
+2017-04-24 00:20:59 INFO  Train - 1.2382785
+2017-04-24 00:20:59 INFO  Train - 1.2382785
+2017-04-24 00:20:59 INFO  Train - 1.2217444
+2017-04-24 00:20:59 INFO  Train - 1.2217444
+2017-04-24 00:20:59 INFO  Train - 1.2217444
+2017-04-24 00:20:59 INFO  Train - 1.2042621
+2017-04-24 00:20:59 INFO  Train - 1.2042621
+2017-04-24 00:20:59 INFO  Train - 1.2042621
+2017-04-24 00:20:59 INFO  Train - 1.1864594
+2017-04-24 00:20:59 INFO  Train - 1.1864594
+2017-04-24 00:20:59 INFO  Train - 1.1864594
+2017-04-24 00:20:59 INFO  Train - 1.1714163
+2017-04-24 00:20:59 INFO  Train - 1.1714163
+2017-04-24 00:20:59 INFO  Train - 1.1714163
+2017-04-24 00:20:59 INFO  Train - 1.1544607
+2017-04-24 00:20:59 INFO  Train - 1.1544607
+2017-04-24 00:20:59 INFO  Train - 1.1544607
+2017-04-24 00:20:59 INFO  Train - 1.1376698
+2017-04-24 00:20:59 INFO  Train - 1.1376698
+2017-04-24 00:20:59 INFO  Train - 1.1376698
+2017-04-24 00:20:59 INFO  Train - 1.1194092
+2017-04-24 00:20:59 INFO  Train - 1.1194092
+2017-04-24 00:20:59 INFO  Train - 1.1194092
+2017-04-24 00:20:59 INFO  Train - 1.1034503
+2017-04-24 00:20:59 INFO  Train - 1.1034503
+2017-04-24 00:20:59 INFO  Train - 1.1034503
+2017-04-24 00:20:59 INFO  Train - 1.0866622
+2017-04-24 00:20:59 INFO  Train - 1.0866622
+2017-04-24 00:20:59 INFO  Train - 1.0866622
+2017-04-24 00:20:59 INFO  Train - 1.0699116
+2017-04-24 00:20:59 INFO  Train - 1.0699116
+2017-04-24 00:20:59 INFO  Train - 1.0699116
+2017-04-24 00:20:59 INFO  Train - 1.0520489
+2017-04-24 00:20:59 INFO  Train - 1.0520489
+2017-04-24 00:20:59 INFO  Train - 1.0520489
+2017-04-24 00:20:59 INFO  Train - 1.0365049
+2017-04-24 00:20:59 INFO  Train - 1.0365049
+2017-04-24 00:20:59 INFO  Train - 1.0365049
+2017-04-24 00:20:59 INFO  Train - 1.020721
+2017-04-24 00:20:59 INFO  Train - 1.020721
+2017-04-24 00:20:59 INFO  Train - 1.020721
+2017-04-24 00:21:00 INFO  Train - 1.0054834
+2017-04-24 00:21:00 INFO  Train - 1.0054834
+2017-04-24 00:21:00 INFO  Train - 1.0054834
+2017-04-24 00:21:00 INFO  Train - 0.9872296
+2017-04-24 00:21:00 INFO  Train - 0.9872296
+2017-04-24 00:21:00 INFO  Train - 0.9872296
+2017-04-24 00:21:00 INFO  Train - 0.96976906
+2017-04-24 00:21:00 INFO  Train - 0.96976906
+2017-04-24 00:21:00 INFO  Train - 0.96976906
+2017-04-24 00:21:00 INFO  Train - 0.95454335
+2017-04-24 00:21:00 INFO  Train - 0.95454335
+2017-04-24 00:21:00 INFO  Train - 0.95454335
+2017-04-24 00:21:00 INFO  Train - 0.93863064
+2017-04-24 00:21:00 INFO  Train - 0.93863064
+2017-04-24 00:21:00 INFO  Train - 0.93863064
+2017-04-24 00:21:00 INFO  Train - 0.9219278
+2017-04-24 00:21:00 INFO  Train - 0.9219278
+2017-04-24 00:21:00 INFO  Train - 0.9219278
+2017-04-24 00:21:00 INFO  Train - 0.9050247
+2017-04-24 00:21:00 INFO  Train - 0.9050247
+2017-04-24 00:21:00 INFO  Train - 0.9050247
+2017-04-24 00:21:00 INFO  Train - 0.88852537
+2017-04-24 00:21:00 INFO  Train - 0.88852537
+2017-04-24 00:21:00 INFO  Train - 0.88852537
+2017-04-24 00:21:00 INFO  Train - 0.87164515
+2017-04-24 00:21:00 INFO  Train - 0.87164515
+2017-04-24 00:21:00 INFO  Train - 0.87164515
+2017-04-24 00:21:00 INFO  Train - 0.85468554
+2017-04-24 00:21:00 INFO  Train - 0.85468554
+2017-04-24 00:21:00 INFO  Train - 0.85468554
+2017-04-24 00:21:00 INFO  Train - 0.8385935
+2017-04-24 00:21:00 INFO  Train - 0.8385935
+2017-04-24 00:21:00 INFO  Train - 0.8385935
+2017-04-24 00:21:00 INFO  Train - 0.8198292
+2017-04-24 00:21:00 INFO  Train - 0.8198292
+2017-04-24 00:21:00 INFO  Train - 0.8198292
+2017-04-24 00:21:00 INFO  Train - 0.8035207
+2017-04-24 00:21:00 INFO  Train - 0.8035207
+2017-04-24 00:21:00 INFO  Train - 0.8035207
+2017-04-24 00:21:00 INFO  Train - 0.78729033
+2017-04-24 00:21:00 INFO  Train - 0.78729033
+2017-04-24 00:21:00 INFO  Train - 0.78729033
+2017-04-24 00:21:00 INFO  Train - 0.77174467
+2017-04-24 00:21:00 INFO  Train - 0.77174467
+2017-04-24 00:21:00 INFO  Train - 0.77174467
+2017-04-24 00:21:00 INFO  Train - 0.75453025
+2017-04-24 00:21:00 INFO  Train - 0.75453025
+2017-04-24 00:21:00 INFO  Train - 0.75453025
+2017-04-24 00:21:00 INFO  Train - 0.738277
+2017-04-24 00:21:00 INFO  Train - 0.738277
+2017-04-24 00:21:00 INFO  Train - 0.738277
+2017-04-24 00:21:00 INFO  Train - 0.72169983
+2017-04-24 00:21:00 INFO  Train - 0.72169983
+2017-04-24 00:21:00 INFO  Train - 0.72169983
+2017-04-24 00:21:00 INFO  Train - 0.7050243
+2017-04-24 00:21:00 INFO  Train - 0.7050243
+2017-04-24 00:21:00 INFO  Train - 0.7050243
+2017-04-24 00:21:00 INFO  Train - 0.6876985
+2017-04-24 00:21:00 INFO  Train - 0.6876985
+2017-04-24 00:21:00 INFO  Train - 0.6876985
+2017-04-24 00:21:00 INFO  Train - 0.6709194
+2017-04-24 00:21:00 INFO  Train - 0.6709194
+2017-04-24 00:21:00 INFO  Train - 0.6709194
+2017-04-24 00:21:00 INFO  Train - 0.6548163
+2017-04-24 00:21:00 INFO  Train - 0.6548163
+2017-04-24 00:21:00 INFO  Train - 0.6548163
+2017-04-24 00:21:00 INFO  Train - 0.6385422
+2017-04-24 00:21:00 INFO  Train - 0.6385422
+2017-04-24 00:21:00 INFO  Train - 0.6385422
+2017-04-24 00:21:00 INFO  Train - 0.622204
+2017-04-24 00:21:00 INFO  Train - 0.622204
+2017-04-24 00:21:00 INFO  Train - 0.622204
+2017-04-24 00:21:00 INFO  Train - 0.6042461
+2017-04-24 00:21:00 INFO  Train - 0.6042461
+2017-04-24 00:21:00 INFO  Train - 0.6042461
+2017-04-24 00:21:00 INFO  Train - 0.58517015
+2017-04-24 00:21:00 INFO  Train - 0.58517015
+2017-04-24 00:21:00 INFO  Train - 0.58517015
+2017-04-24 00:21:00 INFO  Train - 0.57107985
+2017-04-24 00:21:00 INFO  Train - 0.57107985
+2017-04-24 00:21:00 INFO  Train - 0.57107985
+2017-04-24 00:21:00 INFO  Train - 0.5554066
+2017-04-24 00:21:00 INFO  Train - 0.5554066
+2017-04-24 00:21:00 INFO  Train - 0.5554066
+2017-04-24 00:21:00 INFO  Train - 0.53903246
+2017-04-24 00:21:00 INFO  Train - 0.53903246
+2017-04-24 00:21:00 INFO  Train - 0.53903246
+2017-04-24 00:21:00 INFO  Train - 0.5218433
+2017-04-24 00:21:00 INFO  Train - 0.5218433
+2017-04-24 00:21:00 INFO  Train - 0.5218433
+2017-04-24 00:21:00 INFO  Train - 0.5049726
+2017-04-24 00:21:00 INFO  Train - 0.5049726
+2017-04-24 00:21:00 INFO  Train - 0.5049726
+2017-04-24 00:21:00 INFO  Train - 0.48828596
+2017-04-24 00:21:00 INFO  Train - 0.48828596
+2017-04-24 00:21:00 INFO  Train - 0.48828596
+2017-04-24 00:21:00 INFO  Train - 0.4710601
+2017-04-24 00:21:00 INFO  Train - 0.4710601
+2017-04-24 00:21:00 INFO  Train - 0.4710601
+2017-04-24 00:21:00 INFO  Train - 0.4542581
+2017-04-24 00:21:00 INFO  Train - 0.4542581
+2017-04-24 00:21:00 INFO  Train - 0.4542581
+2017-04-24 00:21:00 INFO  Train - 0.43687382
+2017-04-24 00:21:00 INFO  Train - 0.43687382
+2017-04-24 00:21:00 INFO  Train - 0.43687382
+2017-04-24 00:21:00 INFO  Train - 0.4216268
+2017-04-24 00:21:00 INFO  Train - 0.4216268
+2017-04-24 00:21:00 INFO  Train - 0.4216268
+2017-04-24 00:21:00 INFO  Train - 0.4012673
+2017-04-24 00:21:00 INFO  Train - 0.4012673
+2017-04-24 00:21:00 INFO  Train - 0.4012673
+2017-04-24 00:21:00 INFO  Train - 0.38737732
+2017-04-24 00:21:00 INFO  Train - 0.38737732
+2017-04-24 00:21:00 INFO  Train - 0.38737732
+2017-04-24 00:21:00 INFO  Train - 0.37132716
+2017-04-24 00:21:00 INFO  Train - 0.37132716
+2017-04-24 00:21:00 INFO  Train - 0.37132716
+2017-04-24 00:21:00 INFO  Train - 0.3541005
+2017-04-24 00:21:00 INFO  Train - 0.3541005
+2017-04-24 00:21:00 INFO  Train - 0.3541005
+2017-04-24 00:21:00 INFO  Train - 0.3383
+2017-04-24 00:21:00 INFO  Train - 0.3383
+2017-04-24 00:21:00 INFO  Train - 0.3383
+2017-04-24 00:21:00 INFO  Train - 0.32113415
+2017-04-24 00:21:00 INFO  Train - 0.32113415
+2017-04-24 00:21:00 INFO  Train - 0.32113415
+2017-04-24 00:21:00 INFO  Train - 0.30461898
+2017-04-24 00:21:00 INFO  Train - 0.30461898
+2017-04-24 00:21:00 INFO  Train - 0.30461898
+2017-04-24 00:21:00 INFO  Train - 0.28591835
+2017-04-24 00:21:00 INFO  Train - 0.28591835
+2017-04-24 00:21:00 INFO  Train - 0.28591835
+2017-04-24 00:21:00 INFO  Train - 0.27170405
+2017-04-24 00:21:00 INFO  Train - 0.27170405
+2017-04-24 00:21:00 INFO  Train - 0.27170405
+2017-04-24 00:21:00 INFO  Train - 0.25472468
+2017-04-24 00:21:00 INFO  Train - 0.25472468
+2017-04-24 00:21:00 INFO  Train - 0.25472468
+2017-04-24 00:21:00 INFO  Train - 0.23756596
+2017-04-24 00:21:00 INFO  Train - 0.23756596
+2017-04-24 00:21:00 INFO  Train - 0.23756596
+2017-04-24 00:21:00 INFO  Train - 0.22133565
+2017-04-24 00:21:00 INFO  Train - 0.22133565
+2017-04-24 00:21:00 INFO  Train - 0.22133565
+2017-04-24 00:21:00 INFO  Train - 0.20457713
+2017-04-24 00:21:00 INFO  Train - 0.20457713
+2017-04-24 00:21:00 INFO  Train - 0.20457713
+2017-04-24 00:21:00 INFO  Train - 0.18838711
+2017-04-24 00:21:00 INFO  Train - 0.18838711
+2017-04-24 00:21:00 INFO  Train - 0.18838711
+2017-04-24 00:21:00 INFO  Train - 0.17155512
+2017-04-24 00:21:00 INFO  Train - 0.17155512
+2017-04-24 00:21:00 INFO  Train - 0.17155512
+2017-04-24 00:21:00 INFO  Train - 0.15454218
+2017-04-24 00:21:00 INFO  Train - 0.15454218
+2017-04-24 00:21:00 INFO  Train - 0.15454218
+2017-04-24 00:21:00 INFO  Train - 0.13809496
+2017-04-24 00:21:00 INFO  Train - 0.13809496
+2017-04-24 00:21:00 INFO  Train - 0.13809496
+2017-04-24 00:21:00 INFO  Train - 0.12197052
+2017-04-24 00:21:00 INFO  Train - 0.12197052
+2017-04-24 00:21:00 INFO  Train - 0.12197052
+2017-04-24 00:21:00 INFO  Train - 0.10493901
+2017-04-24 00:21:00 INFO  Train - 0.10493901
+2017-04-24 00:21:00 INFO  Train - 0.10493901
+2017-04-24 00:21:00 INFO  Train - 0.08771551
+2017-04-24 00:21:00 INFO  Train - 0.08771551
+2017-04-24 00:21:00 INFO  Train - 0.08771551
+2017-04-24 00:21:00 INFO  Train - 0.070586815
+2017-04-24 00:21:00 INFO  Train - 0.070586815
+2017-04-24 00:21:00 INFO  Train - 0.070586815
+2017-04-24 00:21:00 INFO  Train - 0.055183753
+2017-04-24 00:21:00 INFO  Train - 0.055183753
+2017-04-24 00:21:00 INFO  Train - 0.055183753
+2017-04-24 00:21:00 INFO  Train - 0.037967753
+2017-04-24 00:21:00 INFO  Train - 0.037967753
+2017-04-24 00:21:00 INFO  Train - 0.037967753
+2017-04-24 00:21:00 INFO  Train - 0.021112049
+2017-04-24 00:21:00 INFO  Train - 0.021112049
+2017-04-24 00:21:00 INFO  Train - 0.021112049
+2017-04-24 00:21:00 INFO  Train - 0.0035843458
+2017-04-24 00:21:00 INFO  Train - 0.0035843458
+2017-04-24 00:21:00 INFO  Train - 0.0035843458
+2017-04-24 00:21:01 INFO  Train - -0.011972791
+2017-04-24 00:21:01 INFO  Train - -0.011972791
+2017-04-24 00:21:01 INFO  Train - -0.011972791
+2017-04-24 00:21:01 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:21:01 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:21:01 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:21:01 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:21:01 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:21:01 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:21:01 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:21:01 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 00:21:01 INFO  Train - Passenger 5 is disembarking at London
+2017-04-24 00:21:01 INFO  Train - Passenger 6 is disembarking at London
+2017-04-24 00:21:01 INFO  Train - 2.0
+2017-04-24 00:21:01 INFO  Train - 1.9840782
+2017-04-24 00:21:01 INFO  Train - 1.9674094
+2017-04-24 00:21:01 INFO  Train - 1.9508673
+2017-04-24 00:21:01 INFO  Train - 1.9345311
+2017-04-24 00:21:01 INFO  Train - 1.9170895
+2017-04-24 00:21:02 INFO  Train - 1.9003341
+2017-04-24 00:21:02 INFO  Train - 1.8835539
+2017-04-24 00:21:02 INFO  Train - 1.8671308
+2017-04-24 00:21:02 INFO  Train - 1.848129
+2017-04-24 00:21:02 INFO  Train - 1.832831
+2017-04-24 00:21:02 INFO  Train - 1.8177614
+2017-04-24 00:21:02 INFO  Train - 1.7987368
+2017-04-24 00:21:02 INFO  Train - 1.7838188
+2017-04-24 00:21:02 INFO  Train - 1.7674376
+2017-04-24 00:21:02 INFO  Train - 1.749817
+2017-04-24 00:21:02 INFO  Train - 1.7285663
+2017-04-24 00:21:02 INFO  Train - 1.701706
+2017-04-24 00:21:02 INFO  Train - 1.6843044
+2017-04-24 00:21:02 INFO  Train - 1.6678942
+2017-04-24 00:21:02 INFO  Train - 1.6502042
+2017-04-24 00:21:02 INFO  Train - 1.6340324
+2017-04-24 00:21:02 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Budapest heading to Berlin
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:21:02 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:21:02 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Manchester heading to London
+2017-04-24 00:21:02 INFO  Train - 1.617712
+2017-04-24 00:21:02 INFO  Train - 1.6010491
+2017-04-24 00:21:02 INFO  Train - 2.0
+2017-04-24 00:21:02 INFO  Train - 2.0
+2017-04-24 00:21:02 INFO  Train - 1.5843111
+2017-04-24 00:21:02 INFO  Train - 1.9832621
+2017-04-24 00:21:02 INFO  Train - 1.9832621
+2017-04-24 00:21:02 INFO  Train - 1.5637718
+2017-04-24 00:21:02 INFO  Train - 1.9627228
+2017-04-24 00:21:02 INFO  Train - 1.9627228
+2017-04-24 00:21:02 INFO  Train - 1.5491716
+2017-04-24 00:21:02 INFO  Train - 1.9481225
+2017-04-24 00:21:02 INFO  Train - 1.9481225
+2017-04-24 00:21:02 INFO  Train - 1.5339333
+2017-04-24 00:21:02 INFO  Train - 1.9328842
+2017-04-24 00:21:02 INFO  Train - 1.9328842
+2017-04-24 00:21:02 INFO  Train - 1.5167137
+2017-04-24 00:21:02 INFO  Train - 1.9156647
+2017-04-24 00:21:02 INFO  Train - 1.9156647
+2017-04-24 00:21:02 INFO  Train - 1.4992197
+2017-04-24 00:21:02 INFO  Train - 1.8981706
+2017-04-24 00:21:02 INFO  Train - 1.8981706
+2017-04-24 00:21:02 INFO  Train - 1.4836131
+2017-04-24 00:21:02 INFO  Train - 1.8825641
+2017-04-24 00:21:02 INFO  Train - 1.8825641
+2017-04-24 00:21:02 INFO  Train - 1.4678833
+2017-04-24 00:21:02 INFO  Train - 1.8668343
+2017-04-24 00:21:02 INFO  Train - 1.8668343
+2017-04-24 00:24:23 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:24:23 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:24:23 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:24:23 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:24:23 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:24:23 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:24:23 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:23 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:24 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:25 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:24:26 INFO  Train - 0.0
+2017-04-24 00:25:17 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:25:17 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:25:17 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:25:17 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:25:17 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:25:17 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:25:17 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:25:17 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:25:17 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:26:45 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:26:45 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:26:45 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:26:45 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:26:45 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:26:45 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:26:45 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:26:45 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:26:45 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:26:47 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:26:47 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:26:47 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:26:47 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:26:47 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:26:47 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:26:48 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:26:48 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 00:26:48 INFO  Train - Passenger 5 is disembarking at London
+2017-04-24 00:26:48 INFO  Train - Passenger 6 is disembarking at London
+2017-04-24 00:26:49 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Budapest heading to Berlin
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:26:49 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:26:49 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Manchester heading to London
+2017-04-24 00:28:43 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:28:43 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:28:43 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:28:43 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:28:43 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:28:43 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:28:43 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:28:43 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:28:43 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:29:09 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:29:09 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:29:09 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:29:09 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:29:09 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:29:09 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:29:09 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:29:09 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:29:09 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:29:11 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:29:11 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:29:11 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:29:11 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:29:11 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:29:11 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:12 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:29:12 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 00:29:12 INFO  Train - Passenger 5 is disembarking at London
+2017-04-24 00:29:12 INFO  Train - Passenger 6 is disembarking at London
+2017-04-24 00:29:13 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Budapest heading to Berlin
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:29:13 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:13 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Manchester heading to London
+2017-04-24 00:29:14 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:29:14 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:29:15 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 00:29:15 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:15 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 00:29:15 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 00:29:16 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 00:29:16 INFO  ActiveStation - Passenger 14 carrying 22 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:16 INFO  ActiveStation - Passenger 15 carrying 33 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:16 INFO  Train - Passenger 3 is disembarking at Amsterdam
+2017-04-24 00:29:16 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-24 00:29:16 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-24 00:29:16 INFO  ActiveStation - Passenger 16 carrying 47 kg embarking at Vienna heading to Bucharest
+2017-04-24 00:29:18 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-24 00:29:18 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-24 00:29:18 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-24 00:29:18 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:18 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-24 00:29:18 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-24 00:29:19 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 17 carrying 7 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 18 carrying 11 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 19 carrying 36 kg embarking at Berlin heading to Budapest
+2017-04-24 00:29:19 INFO  Train - Passenger 4 is disembarking at Berlin
+2017-04-24 00:29:19 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 20 carrying 9 kg embarking at Manchester heading to London
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 21 carrying 22 kg embarking at Manchester heading to London
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 22 carrying 31 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:19 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 23 carrying 43 kg embarking at Berlin heading to Amsterdam
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 24 carrying 1 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:19 INFO  ActiveStation - Passenger 25 carrying 23 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:21 INFO  TrainState$2 - Generic European Train is ready to depart for Berlin Station!
+2017-04-24 00:29:21 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:29:21 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:21 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-24 00:29:21 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-24 00:29:21 INFO  TrainState$3 - Vlad the Impalator enroute to Paris Station!
+2017-04-24 00:29:21 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 00:29:21 INFO  ActiveStation - Passenger 26 carrying 24 kg embarking at Amsterdam heading to Paris
+2017-04-24 00:29:21 INFO  ActiveStation - Passenger 27 carrying 14 kg embarking at Amsterdam heading to Berlin
+2017-04-24 00:29:22 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-24 00:29:22 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Paris Station..!
+2017-04-24 00:29:22 INFO  ActiveStation - Passenger 28 carrying 5 kg embarking at Paris heading to London
+2017-04-24 00:29:22 INFO  ActiveStation - Passenger 29 carrying 6 kg embarking at Paris heading to Vienna
+2017-04-24 00:29:22 INFO  ActiveStation - Passenger 30 carrying 20 kg embarking at Paris heading to Berlin
+2017-04-24 00:29:22 INFO  ActiveStation - Passenger 31 carrying 20 kg embarking at Paris heading to Berlin
+2017-04-24 00:29:23 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-24 00:29:24 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:29:24 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:29:24 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:24 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Paris Station!
+2017-04-24 00:29:24 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-24 00:29:25 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:29:25 INFO  Train - Passenger 14 is disembarking at London
+2017-04-24 00:29:25 INFO  Train - Passenger 15 is disembarking at London
+2017-04-24 00:29:25 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:25 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:29:25 INFO  ActiveStation - Passenger 32 carrying 44 kg embarking at Manchester heading to London
+2017-04-24 00:29:25 INFO  ActiveStation - Passenger 33 carrying 23 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:25 INFO  ActiveStation - Passenger 34 carrying 36 kg embarking at Manchester heading to London
+2017-04-24 00:29:26 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-24 00:29:26 INFO  ActiveStation - Passenger 23 carrying 43 kg cargo embarking at Berlin heading to Amsterdam
+2017-04-24 00:29:26 INFO  ActiveStation - Passenger 35 carrying 39 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:27 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:29:27 INFO  TrainState$3 - Generic European Train enroute to Paris Station!
+2017-04-24 00:29:27 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:27 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 00:29:28 INFO  TrainState$4 - Generic European Train is awaiting entry Paris Station..!
+2017-04-24 00:29:28 INFO  ActiveStation - Passenger 28 carrying 5 kg cargo embarking at Paris heading to London
+2017-04-24 00:29:28 INFO  ActiveStation - Passenger 29 carrying 6 kg cargo embarking at Paris heading to Vienna
+2017-04-24 00:29:28 INFO  ActiveStation - Passenger 30 carrying 20 kg cargo embarking at Paris heading to Berlin
+2017-04-24 00:29:28 INFO  ActiveStation - Passenger 31 carrying 20 kg cargo embarking at Paris heading to Berlin
+2017-04-24 00:29:28 INFO  ActiveStation - Passenger 36 carrying 18 kg embarking at Paris heading to Berlin
+2017-04-24 00:29:28 INFO  ActiveStation - Passenger 37 carrying 32 kg embarking at Paris heading to London
+2017-04-24 00:29:28 INFO  Train - Passenger 17 is disembarking at Paris
+2017-04-24 00:29:28 INFO  Train - Passenger 18 is disembarking at Paris
+2017-04-24 00:29:28 INFO  Train - Passenger 26 is disembarking at Paris
+2017-04-24 00:29:28 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-24 00:29:28 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 00:29:28 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-24 00:29:29 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-24 00:29:29 INFO  ActiveStation - Passenger 16 carrying 47 kg cargo embarking at Vienna heading to Bucharest
+2017-04-24 00:29:29 INFO  ActiveStation - Passenger 38 carrying 19 kg embarking at Vienna heading to Bucharest
+2017-04-24 00:29:30 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:29:30 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:29:31 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:29:31 INFO  Train - Passenger 28 is disembarking at London
+2017-04-24 00:29:31 INFO  Train - Passenger 37 is disembarking at London
+2017-04-24 00:29:31 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-24 00:29:31 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:31 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-24 00:29:31 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:29:32 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:32 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:29:32 INFO  ActiveStation - Passenger 39 carrying 5 kg embarking at Manchester heading to London
+2017-04-24 00:29:32 INFO  ActiveStation - Passenger 40 carrying 42 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:32 INFO  ActiveStation - Passenger 41 carrying 30 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:32 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:29:32 INFO  ActiveStation - Passenger 7 carrying 18 kg cargo embarking at Budapest heading to Berlin
+2017-04-24 00:29:32 INFO  ActiveStation - Passenger 42 carrying 43 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:29:33 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:29:33 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:29:34 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:34 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-24 00:29:34 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 00:29:34 INFO  ActiveStation - Passenger 43 carrying 25 kg embarking at Amsterdam heading to Berlin
+2017-04-24 00:29:34 INFO  ActiveStation - Passenger 44 carrying 44 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:34 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 00:29:34 INFO  TrainState$3 - Vlad the Impalator enroute to Bucharest Station!
+2017-04-24 00:29:35 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-24 00:29:35 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Bucharest Station..!
+2017-04-24 00:29:36 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-24 00:29:36 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-24 00:29:37 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-24 00:29:37 INFO  ActiveStation - Passenger 23 carrying 43 kg cargo embarking at Berlin heading to Amsterdam
+2017-04-24 00:29:37 INFO  ActiveStation - Passenger 24 carrying 1 kg cargo embarking at Berlin heading to Paris
+2017-04-24 00:29:37 INFO  ActiveStation - Passenger 25 carrying 23 kg cargo embarking at Berlin heading to Paris
+2017-04-24 00:29:37 INFO  ActiveStation - Passenger 35 carrying 39 kg cargo embarking at Berlin heading to Paris
+2017-04-24 00:29:37 INFO  ActiveStation - Passenger 45 carrying 16 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:37 INFO  Train - Passenger 27 is disembarking at Berlin
+2017-04-24 00:29:37 INFO  Train - Passenger 30 is disembarking at Berlin
+2017-04-24 00:29:37 INFO  Train - Passenger 31 is disembarking at Berlin
+2017-04-24 00:29:37 INFO  Train - Passenger 36 is disembarking at Berlin
+2017-04-24 00:29:37 INFO  Train - Passenger 43 is disembarking at Berlin
+2017-04-24 00:29:37 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:29:37 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:37 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:29:37 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:29:38 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:38 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:29:38 INFO  ActiveStation - Passenger 46 carrying 11 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:38 INFO  ActiveStation - Passenger 47 carrying 47 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:38 INFO  ActiveStation - Passenger 48 carrying 7 kg embarking at Manchester heading to London
+2017-04-24 00:29:38 INFO  ActiveStation - Passenger 49 carrying 33 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:39 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:29:39 INFO  ActiveStation - Passenger 7 carrying 18 kg cargo embarking at Budapest heading to Berlin
+2017-04-24 00:29:39 INFO  ActiveStation - Passenger 50 carrying 48 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:29:39 INFO  TrainState$2 - Generic European Train is ready to depart for Berlin Station!
+2017-04-24 00:29:39 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:29:40 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 00:29:40 INFO  ActiveStation - Passenger 51 carrying 50 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:40 INFO  ActiveStation - Passenger 52 carrying 14 kg embarking at Amsterdam heading to Berlin
+2017-04-24 00:29:40 INFO  ActiveStation - Passenger 53 carrying 24 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:40 INFO  Train - Passenger 23 is disembarking at Amsterdam
+2017-04-24 00:29:40 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:40 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 00:29:41 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 00:29:41 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 00:29:41 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-24 00:29:42 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-24 00:29:42 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:29:42 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-24 00:29:42 INFO  ActiveStation - Passenger 16 carrying 47 kg cargo embarking at Vienna heading to Bucharest
+2017-04-24 00:29:42 INFO  ActiveStation - Passenger 54 carrying 25 kg embarking at Vienna heading to Budapest
+2017-04-24 00:29:42 INFO  ActiveStation - Passenger 55 carrying 23 kg embarking at Vienna heading to Paris
+2017-04-24 00:29:42 INFO  ActiveStation - Passenger 56 carrying 31 kg embarking at Vienna heading to Budapest
+2017-04-24 00:29:43 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:29:43 INFO  Train - Passenger 44 is disembarking at London
+2017-04-24 00:29:43 INFO  Train - Passenger 51 is disembarking at London
+2017-04-24 00:29:43 INFO  Train - Passenger 53 is disembarking at London
+2017-04-24 00:29:43 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-24 00:29:43 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:44 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-24 00:29:44 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-24 00:29:44 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:44 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:29:44 INFO  ActiveStation - Passenger 57 carrying 27 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:44 INFO  ActiveStation - Passenger 58 carrying 4 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:44 INFO  ActiveStation - Passenger 59 carrying 11 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:45 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-24 00:29:45 INFO  ActiveStation - Passenger 60 carrying 31 kg embarking at Berlin heading to Budapest
+2017-04-24 00:29:45 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:29:45 INFO  TrainState$3 - Generic European Train enroute to Paris Station!
+2017-04-24 00:29:46 INFO  TrainState$4 - Generic European Train is awaiting entry Paris Station..!
+2017-04-24 00:29:46 INFO  ActiveStation - Passenger 61 carrying 23 kg embarking at Paris heading to Bucharest
+2017-04-24 00:29:46 INFO  ActiveStation - Passenger 62 carrying 14 kg embarking at Paris heading to Budapest
+2017-04-24 00:29:46 INFO  ActiveStation - Passenger 63 carrying 42 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:29:46 INFO  ActiveStation - Passenger 64 carrying 3 kg embarking at Paris heading to Berlin
+2017-04-24 00:29:46 INFO  Train - Passenger 24 is disembarking at Paris
+2017-04-24 00:29:46 INFO  Train - Passenger 25 is disembarking at Paris
+2017-04-24 00:29:46 INFO  Train - Passenger 35 is disembarking at Paris
+2017-04-24 00:29:46 INFO  Train - Passenger 45 is disembarking at Paris
+2017-04-24 00:29:46 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:46 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-24 00:29:47 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-24 00:29:47 INFO  TrainState$3 - Vlad the Impalator enroute to Paris Station!
+2017-04-24 00:29:48 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-24 00:29:48 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:29:48 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:29:48 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Paris Station..!
+2017-04-24 00:29:48 INFO  ActiveStation - Passenger 65 carrying 43 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:29:48 INFO  ActiveStation - Passenger 66 carrying 40 kg embarking at Paris heading to London
+2017-04-24 00:29:48 INFO  ActiveStation - Passenger 67 carrying 12 kg embarking at Paris heading to Berlin
+2017-04-24 00:29:49 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:29:50 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:29:50 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:29:50 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Paris Station!
+2017-04-24 00:29:50 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-24 00:29:51 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:29:51 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:29:51 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:29:51 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Manchester heading to Glasgow
+2017-04-24 00:29:51 INFO  ActiveStation - Passenger 68 carrying 15 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:29:52 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 60 carrying 31 kg cargo embarking at Berlin heading to Budapest
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 69 carrying 21 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 70 carrying 30 kg embarking at Berlin heading to London
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 71 carrying 46 kg embarking at Berlin heading to Paris
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 72 carrying 33 kg embarking at Berlin heading to London
+2017-04-24 00:29:52 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 73 carrying 33 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 74 carrying 6 kg embarking at Amsterdam heading to Paris
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 75 carrying 2 kg embarking at Amsterdam heading to Berlin
+2017-04-24 00:29:52 INFO  ActiveStation - Passenger 76 carrying 11 kg embarking at Amsterdam heading to London
+2017-04-24 00:29:52 INFO  Train - Passenger 63 is disembarking at Amsterdam
+2017-04-24 00:29:53 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:29:53 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 00:30:14 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Rosanna Station...
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Rosanna heading to Southern Cross
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Rosanna heading to North Richmond
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Rosanna heading to Eltham
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Rosanna heading to Clifton Hill
+2017-04-24 00:30:14 INFO  TrainState$5 - Flying Scotsman is travelling from the depot: Camberwell Station...
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Camberwell heading to Ringwood
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Camberwell heading to Melbourne Central
+2017-04-24 00:30:14 INFO  TrainState$5 - Orient Express is travelling from the depot: Upfield Station...
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Upfield heading to Flinders St
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Upfield heading to Macaulay
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Upfield heading to Flinders St
+2017-04-24 00:30:14 INFO  TrainState$5 - Amtrak is travelling from the depot: Williamstown Station...
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Williamstown heading to North Melbourne
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Williamstown heading to Melbourne Central
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Williamstown heading to Flagstaff
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Williamstown heading to Flinders St
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 14 carrying 22 kg embarking at Rosanna heading to Hurstbridge
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 15 carrying 33 kg embarking at Rosanna heading to Hurstbridge
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 16 carrying 47 kg embarking at Camberwell heading to Belgrave
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 7 carrying 18 kg cargo embarking at Upfield heading to Flinders St
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 17 carrying 7 kg embarking at Upfield heading to Flagstaff
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 18 carrying 11 kg embarking at Upfield heading to North Melbourne
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 19 carrying 36 kg embarking at Upfield heading to Flinders St
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 10 carrying 39 kg cargo embarking at Williamstown heading to North Melbourne
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 20 carrying 9 kg embarking at Williamstown heading to Newport
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 21 carrying 22 kg embarking at Williamstown heading to Footscray
+2017-04-24 00:30:14 INFO  ActiveStation - Passenger 22 carrying 31 kg embarking at Williamstown heading to Flinders St
+2017-04-24 00:30:16 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Rosanna Station!
+2017-04-24 00:30:16 INFO  TrainState$2 - Flying Scotsman is ready to depart for Camberwell Station!
+2017-04-24 00:30:16 INFO  TrainState$2 - Orient Express is ready to depart for Upfield Station!
+2017-04-24 00:30:16 INFO  TrainState$2 - Amtrak is ready to depart for Williamstown Station!
+2017-04-24 00:30:16 INFO  TrainState$3 - Thomas the Tank Engine enroute to Greensborough Station!
+2017-04-24 00:30:16 INFO  TrainState$3 - Flying Scotsman enroute to Ringwood Station!
+2017-04-24 00:30:16 INFO  TrainState$3 - Orient Express enroute to Macaulay Station!
+2017-04-24 00:30:16 INFO  TrainState$3 - Amtrak enroute to Newport Station!
+2017-04-24 00:30:17 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Greensborough Station..!
+2017-04-24 00:30:17 INFO  ActiveStation - Passenger 23 carrying 43 kg embarking at Greensborough heading to Eltham
+2017-04-24 00:30:17 INFO  ActiveStation - Passenger 24 carrying 1 kg embarking at Greensborough heading to Hurstbridge
+2017-04-24 00:30:17 INFO  ActiveStation - Passenger 25 carrying 23 kg embarking at Greensborough heading to Clifton Hill
+2017-04-24 00:30:17 INFO  TrainState$4 - Amtrak is awaiting entry Newport Station..!
+2017-04-24 00:30:17 INFO  ActiveStation - Passenger 26 carrying 24 kg embarking at Newport heading to Williamstown
+2017-04-24 00:30:17 INFO  ActiveStation - Passenger 27 carrying 14 kg embarking at Newport heading to Flagstaff
+2017-04-24 00:30:19 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Greensborough Station!
+2017-04-24 00:30:19 INFO  TrainState$3 - Thomas the Tank Engine enroute to Eltham Station!
+2017-04-24 00:30:19 INFO  TrainState$2 - Amtrak is ready to depart for Newport Station!
+2017-04-24 00:30:19 INFO  TrainState$3 - Amtrak enroute to Footscray Station!
+2017-04-24 00:30:19 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Eltham Station..!
+2017-04-24 00:30:19 INFO  ActiveStation - Passenger 28 carrying 5 kg embarking at Eltham heading to Hurstbridge
+2017-04-24 00:30:19 INFO  ActiveStation - Passenger 29 carrying 6 kg embarking at Eltham heading to Flagstaff
+2017-04-24 00:30:19 INFO  ActiveStation - Passenger 30 carrying 20 kg embarking at Eltham heading to Hurstbridge
+2017-04-24 00:30:19 INFO  ActiveStation - Passenger 31 carrying 20 kg embarking at Eltham heading to Melbourne Central
+2017-04-24 00:30:19 INFO  Train - Passenger 3 is disembarking at Eltham
+2017-04-24 00:30:19 INFO  Train - Passenger 23 is disembarking at Eltham
+2017-04-24 00:30:20 INFO  TrainState$4 - Orient Express is awaiting entry Macaulay Station..!
+2017-04-24 00:30:20 INFO  ActiveStation - Passenger 32 carrying 44 kg embarking at Macaulay heading to North Melbourne
+2017-04-24 00:30:20 INFO  ActiveStation - Passenger 33 carrying 23 kg embarking at Macaulay heading to Upfield
+2017-04-24 00:30:20 INFO  ActiveStation - Passenger 34 carrying 36 kg embarking at Macaulay heading to North Melbourne
+2017-04-24 00:30:20 INFO  TrainState$4 - Flying Scotsman is awaiting entry Ringwood Station..!
+2017-04-24 00:30:20 INFO  ActiveStation - Passenger 35 carrying 39 kg embarking at Ringwood heading to Lilydale
+2017-04-24 00:30:20 INFO  Train - Passenger 5 is disembarking at Ringwood
+2017-04-24 00:30:21 INFO  TrainState$4 - Amtrak is awaiting entry Footscray Station..!
+2017-04-24 00:30:21 INFO  ActiveStation - Passenger 36 carrying 18 kg embarking at Footscray heading to Southern Cross
+2017-04-24 00:30:21 INFO  ActiveStation - Passenger 37 carrying 32 kg embarking at Footscray heading to Melbourne Central
+2017-04-24 00:30:21 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Eltham Station!
+2017-04-24 00:30:21 INFO  TrainState$3 - Thomas the Tank Engine enroute to Hurstbridge Station!
+2017-04-24 00:30:22 INFO  TrainState$2 - Orient Express is ready to depart for Macaulay Station!
+2017-04-24 00:30:22 INFO  TrainState$3 - Orient Express enroute to North Melbourne Station!
+2017-04-24 00:30:22 INFO  TrainState$2 - Flying Scotsman is ready to depart for Ringwood Station!
+2017-04-24 00:30:22 INFO  TrainState$3 - Flying Scotsman enroute to Belgrave Station!
+2017-04-24 00:30:22 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Hurstbridge Station..!
+2017-04-24 00:30:22 INFO  ActiveStation - Passenger 38 carrying 19 kg embarking at Hurstbridge heading to Flinders St
+2017-04-24 00:30:22 INFO  Train - Passenger 14 is disembarking at Hurstbridge
+2017-04-24 00:30:22 INFO  Train - Passenger 15 is disembarking at Hurstbridge
+2017-04-24 00:30:22 INFO  Train - Passenger 24 is disembarking at Hurstbridge
+2017-04-24 00:30:22 INFO  Train - Passenger 28 is disembarking at Hurstbridge
+2017-04-24 00:30:22 INFO  Train - Passenger 30 is disembarking at Hurstbridge
+2017-04-24 00:30:23 INFO  TrainState$4 - Orient Express is awaiting entry North Melbourne Station..!
+2017-04-24 00:30:23 INFO  ActiveStation - Passenger 39 carrying 5 kg embarking at North Melbourne heading to Flinders St
+2017-04-24 00:30:23 INFO  ActiveStation - Passenger 40 carrying 42 kg embarking at North Melbourne heading to Craigieburn
+2017-04-24 00:30:23 INFO  ActiveStation - Passenger 41 carrying 30 kg embarking at North Melbourne heading to Footscray
+2017-04-24 00:30:23 INFO  TrainState$2 - Amtrak is ready to depart for Footscray Station!
+2017-04-24 00:30:23 INFO  TrainState$3 - Amtrak enroute to North Melbourne Station!
+2017-04-24 00:30:24 INFO  TrainState$4 - Amtrak is awaiting entry North Melbourne Station..!
+2017-04-24 00:30:24 INFO  ActiveStation - Passenger 39 carrying 5 kg cargo embarking at North Melbourne heading to Flinders St
+2017-04-24 00:30:24 INFO  ActiveStation - Passenger 42 carrying 43 kg embarking at North Melbourne heading to Craigieburn
+2017-04-24 00:30:24 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Hurstbridge Station!
+2017-04-24 00:30:25 INFO  TrainState$3 - Thomas the Tank Engine enroute to Eltham Station!
+2017-04-24 00:30:25 INFO  TrainState$2 - Orient Express is ready to depart for North Melbourne Station!
+2017-04-24 00:30:25 INFO  TrainState$3 - Orient Express enroute to Flagstaff Station!
+2017-04-24 00:30:25 INFO  TrainState$4 - Orient Express is awaiting entry Flagstaff Station..!
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 43 carrying 25 kg embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 44 carrying 44 kg embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:25 INFO  TrainState$4 - Flying Scotsman is awaiting entry Belgrave Station..!
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 45 carrying 16 kg embarking at Belgrave heading to Flinders St
+2017-04-24 00:30:25 INFO  Train - Passenger 16 is disembarking at Belgrave
+2017-04-24 00:30:25 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Eltham Station..!
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 46 carrying 11 kg embarking at Eltham heading to Hurstbridge
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 47 carrying 47 kg embarking at Eltham heading to Hurstbridge
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 48 carrying 7 kg embarking at Eltham heading to Flinders St
+2017-04-24 00:30:25 INFO  ActiveStation - Passenger 49 carrying 33 kg embarking at Eltham heading to Hurstbridge
+2017-04-24 00:30:26 INFO  TrainState$2 - Amtrak is ready to depart for North Melbourne Station!
+2017-04-24 00:30:26 INFO  TrainState$3 - Amtrak enroute to Flagstaff Station!
+2017-04-24 00:30:27 INFO  TrainState$4 - Amtrak is awaiting entry Flagstaff Station..!
+2017-04-24 00:30:27 INFO  ActiveStation - Passenger 43 carrying 25 kg cargo embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:27 INFO  ActiveStation - Passenger 50 carrying 48 kg embarking at Flagstaff heading to Footscray
+2017-04-24 00:30:27 INFO  TrainState$2 - Orient Express is ready to depart for Flagstaff Station!
+2017-04-24 00:30:27 INFO  TrainState$3 - Orient Express enroute to Melbourne Central Station!
+2017-04-24 00:30:27 INFO  TrainState$2 - Flying Scotsman is ready to depart for Belgrave Station!
+2017-04-24 00:30:27 INFO  TrainState$3 - Flying Scotsman enroute to Ringwood Station!
+2017-04-24 00:30:28 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Eltham Station!
+2017-04-24 00:30:28 INFO  TrainState$3 - Thomas the Tank Engine enroute to Greensborough Station!
+2017-04-24 00:30:28 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Greensborough Station..!
+2017-04-24 00:30:28 INFO  ActiveStation - Passenger 51 carrying 50 kg embarking at Greensborough heading to Eltham
+2017-04-24 00:30:28 INFO  ActiveStation - Passenger 52 carrying 14 kg embarking at Greensborough heading to Clifton Hill
+2017-04-24 00:30:28 INFO  ActiveStation - Passenger 53 carrying 24 kg embarking at Greensborough heading to Eltham
+2017-04-24 00:30:29 INFO  TrainState$4 - Orient Express is awaiting entry Melbourne Central Station..!
+2017-04-24 00:30:29 INFO  ActiveStation - Passenger 54 carrying 25 kg embarking at Melbourne Central heading to North Melbourne
+2017-04-24 00:30:29 INFO  ActiveStation - Passenger 55 carrying 23 kg embarking at Melbourne Central heading to Southern Cross
+2017-04-24 00:30:29 INFO  ActiveStation - Passenger 56 carrying 31 kg embarking at Melbourne Central heading to Craigieburn
+2017-04-24 00:30:29 INFO  TrainState$2 - Amtrak is ready to depart for Flagstaff Station!
+2017-04-24 00:30:29 INFO  TrainState$3 - Amtrak enroute to Melbourne Central Station!
+2017-04-24 00:30:30 INFO  TrainState$4 - Amtrak is awaiting entry Melbourne Central Station..!
+2017-04-24 00:30:30 INFO  ActiveStation - Passenger 54 carrying 25 kg cargo embarking at Melbourne Central heading to North Melbourne
+2017-04-24 00:30:30 INFO  ActiveStation - Passenger 57 carrying 27 kg embarking at Melbourne Central heading to Ringwood
+2017-04-24 00:30:30 INFO  ActiveStation - Passenger 58 carrying 4 kg embarking at Melbourne Central heading to Newport
+2017-04-24 00:30:30 INFO  ActiveStation - Passenger 59 carrying 11 kg embarking at Melbourne Central heading to Newport
+2017-04-24 00:30:30 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Greensborough Station!
+2017-04-24 00:30:30 INFO  TrainState$3 - Thomas the Tank Engine enroute to Rosanna Station!
+2017-04-24 00:30:30 INFO  TrainState$4 - Flying Scotsman is awaiting entry Ringwood Station..!
+2017-04-24 00:30:30 INFO  ActiveStation - Passenger 60 carrying 31 kg embarking at Ringwood heading to Belgrave
+2017-04-24 00:30:31 INFO  TrainState$2 - Orient Express is ready to depart for Melbourne Central Station!
+2017-04-24 00:30:31 INFO  TrainState$3 - Orient Express enroute to Flinders St Station!
+2017-04-24 00:30:31 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Rosanna Station..!
+2017-04-24 00:30:31 INFO  ActiveStation - Passenger 61 carrying 23 kg embarking at Rosanna heading to Flagstaff
+2017-04-24 00:30:31 INFO  ActiveStation - Passenger 62 carrying 14 kg embarking at Rosanna heading to Southern Cross
+2017-04-24 00:30:31 INFO  ActiveStation - Passenger 63 carrying 42 kg embarking at Rosanna heading to Jolimont
+2017-04-24 00:30:31 INFO  ActiveStation - Passenger 64 carrying 3 kg embarking at Rosanna heading to North Richmond
+2017-04-24 00:30:32 INFO  TrainState$4 - Orient Express is awaiting entry Flinders St Station..!
+2017-04-24 00:30:32 INFO  ActiveStation - Passenger 65 carrying 43 kg embarking at Flinders St heading to Eltham
+2017-04-24 00:30:32 INFO  ActiveStation - Passenger 66 carrying 40 kg embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:32 INFO  ActiveStation - Passenger 67 carrying 12 kg embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:32 INFO  TrainState$2 - Amtrak is ready to depart for Melbourne Central Station!
+2017-04-24 00:30:32 INFO  TrainState$3 - Amtrak enroute to Flinders St Station!
+2017-04-24 00:30:33 INFO  TrainState$2 - Flying Scotsman is ready to depart for Ringwood Station!
+2017-04-24 00:30:33 INFO  TrainState$3 - Flying Scotsman enroute to Camberwell Station!
+2017-04-24 00:30:33 INFO  TrainState$4 - Amtrak is awaiting entry Flinders St Station..!
+2017-04-24 00:30:33 INFO  ActiveStation - Passenger 65 carrying 43 kg cargo embarking at Flinders St heading to Eltham
+2017-04-24 00:30:33 INFO  ActiveStation - Passenger 68 carrying 15 kg embarking at Flinders St heading to Richmond
+2017-04-24 00:30:33 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Rosanna Station!
+2017-04-24 00:30:33 INFO  TrainState$3 - Thomas the Tank Engine enroute to Fairfield Station!
+2017-04-24 00:30:34 INFO  TrainState$2 - Orient Express is ready to depart for Flinders St Station!
+2017-04-24 00:30:34 INFO  TrainState$3 - Orient Express enroute to Southern Cross Station!
+2017-04-24 00:30:35 INFO  TrainState$4 - Orient Express is awaiting entry Southern Cross Station..!
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 69 carrying 21 kg embarking at Southern Cross heading to Melbourne Central
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 70 carrying 30 kg embarking at Southern Cross heading to Footscray
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 71 carrying 46 kg embarking at Southern Cross heading to Ringwood
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 72 carrying 33 kg embarking at Southern Cross heading to Flinders St
+2017-04-24 00:30:35 INFO  TrainState$2 - Amtrak is ready to depart for Flinders St Station!
+2017-04-24 00:30:35 INFO  TrainState$3 - Amtrak enroute to Southern Cross Station!
+2017-04-24 00:30:35 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Fairfield Station..!
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 73 carrying 33 kg embarking at Fairfield heading to Rosanna
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 74 carrying 6 kg embarking at Fairfield heading to Eltham
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 75 carrying 2 kg embarking at Fairfield heading to North Richmond
+2017-04-24 00:30:35 INFO  ActiveStation - Passenger 76 carrying 11 kg embarking at Fairfield heading to Rosanna
+2017-04-24 00:30:36 INFO  TrainState$4 - Amtrak is awaiting entry Southern Cross Station..!
+2017-04-24 00:30:36 INFO  ActiveStation - Passenger 69 carrying 21 kg cargo embarking at Southern Cross heading to Melbourne Central
+2017-04-24 00:30:36 INFO  ActiveStation - Passenger 77 carrying 26 kg embarking at Southern Cross heading to Flagstaff
+2017-04-24 00:30:36 INFO  ActiveStation - Passenger 78 carrying 26 kg embarking at Southern Cross heading to Rosanna
+2017-04-24 00:30:36 INFO  ActiveStation - Passenger 79 carrying 0 kg embarking at Southern Cross heading to Flinders St
+2017-04-24 00:30:37 INFO  TrainState$4 - Flying Scotsman is awaiting entry Camberwell Station..!
+2017-04-24 00:30:37 INFO  ActiveStation - Passenger 80 carrying 2 kg embarking at Camberwell heading to Ringwood
+2017-04-24 00:30:37 INFO  TrainState$2 - Orient Express is ready to depart for Southern Cross Station!
+2017-04-24 00:30:37 INFO  TrainState$3 - Orient Express enroute to Flinders St Station!
+2017-04-24 00:30:37 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Fairfield Station!
+2017-04-24 00:30:37 INFO  TrainState$3 - Thomas the Tank Engine enroute to Clifton Hill Station!
+2017-04-24 00:30:38 INFO  TrainState$4 - Orient Express is awaiting entry Flinders St Station..!
+2017-04-24 00:30:38 INFO  ActiveStation - Passenger 65 carrying 43 kg cargo embarking at Flinders St heading to Eltham
+2017-04-24 00:30:38 INFO  ActiveStation - Passenger 81 carrying 2 kg embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:38 INFO  ActiveStation - Passenger 82 carrying 47 kg embarking at Flinders St heading to Belgrave
+2017-04-24 00:30:38 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Clifton Hill Station..!
+2017-04-24 00:30:38 INFO  ActiveStation - Passenger 83 carrying 28 kg embarking at Clifton Hill heading to Greensborough
+2017-04-24 00:30:38 INFO  ActiveStation - Passenger 84 carrying 18 kg embarking at Clifton Hill heading to North Richmond
+2017-04-24 00:30:38 INFO  ActiveStation - Passenger 85 carrying 5 kg embarking at Clifton Hill heading to Flagstaff
+2017-04-24 00:30:38 INFO  Train - Passenger 4 is disembarking at Clifton Hill
+2017-04-24 00:30:38 INFO  Train - Passenger 25 is disembarking at Clifton Hill
+2017-04-24 00:30:38 INFO  Train - Passenger 52 is disembarking at Clifton Hill
+2017-04-24 00:30:38 INFO  TrainState$2 - Amtrak is ready to depart for Southern Cross Station!
+2017-04-24 00:30:38 INFO  TrainState$3 - Amtrak enroute to Flinders St Station!
+2017-04-24 00:30:39 INFO  TrainState$2 - Flying Scotsman is ready to depart for Camberwell Station!
+2017-04-24 00:30:39 INFO  TrainState$3 - Flying Scotsman enroute to Flinders St Station!
+2017-04-24 00:30:40 INFO  TrainState$4 - Amtrak is awaiting entry Flinders St Station..!
+2017-04-24 00:30:40 INFO  ActiveStation - Passenger 65 carrying 43 kg cargo embarking at Flinders St heading to Eltham
+2017-04-24 00:30:40 INFO  ActiveStation - Passenger 86 carrying 49 kg embarking at Flinders St heading to Melbourne Central
+2017-04-24 00:30:40 INFO  ActiveStation - Passenger 87 carrying 7 kg embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:40 INFO  TrainState$2 - Orient Express is ready to depart for Flinders St Station!
+2017-04-24 00:30:40 INFO  TrainState$3 - Orient Express enroute to Melbourne Central Station!
+2017-04-24 00:30:40 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Clifton Hill Station!
+2017-04-24 00:30:40 INFO  TrainState$3 - Thomas the Tank Engine enroute to North Richmond Station!
+2017-04-24 00:30:41 INFO  TrainState$4 - Orient Express is awaiting entry Melbourne Central Station..!
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 54 carrying 25 kg cargo embarking at Melbourne Central heading to North Melbourne
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 88 carrying 22 kg embarking at Melbourne Central heading to North Melbourne
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 89 carrying 29 kg embarking at Melbourne Central heading to Flinders St
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 90 carrying 23 kg embarking at Melbourne Central heading to Flagstaff
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 91 carrying 31 kg embarking at Melbourne Central heading to Southern Cross
+2017-04-24 00:30:41 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry North Richmond Station..!
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 92 carrying 31 kg embarking at North Richmond heading to Flinders St
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 93 carrying 6 kg embarking at North Richmond heading to Southern Cross
+2017-04-24 00:30:41 INFO  ActiveStation - Passenger 94 carrying 13 kg embarking at North Richmond heading to Clifton Hill
+2017-04-24 00:30:41 INFO  Train - Passenger 2 is disembarking at North Richmond
+2017-04-24 00:30:41 INFO  Train - Passenger 64 is disembarking at North Richmond
+2017-04-24 00:30:41 INFO  Train - Passenger 75 is disembarking at North Richmond
+2017-04-24 00:30:41 INFO  Train - Passenger 84 is disembarking at North Richmond
+2017-04-24 00:30:42 INFO  TrainState$2 - Amtrak is ready to depart for Flinders St Station!
+2017-04-24 00:30:42 INFO  TrainState$3 - Amtrak enroute to Melbourne Central Station!
+2017-04-24 00:30:42 INFO  TrainState$4 - Amtrak is awaiting entry Melbourne Central Station..!
+2017-04-24 00:30:42 INFO  ActiveStation - Passenger 54 carrying 25 kg cargo embarking at Melbourne Central heading to North Melbourne
+2017-04-24 00:30:42 INFO  ActiveStation - Passenger 95 carrying 13 kg embarking at Melbourne Central heading to Richmond
+2017-04-24 00:30:42 INFO  ActiveStation - Passenger 96 carrying 14 kg embarking at Melbourne Central heading to Flagstaff
+2017-04-24 00:30:42 INFO  ActiveStation - Passenger 97 carrying 47 kg embarking at Melbourne Central heading to Macaulay
+2017-04-24 00:30:43 INFO  TrainState$4 - Flying Scotsman is awaiting entry Flinders St Station..!
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 65 carrying 43 kg cargo embarking at Flinders St heading to Eltham
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 66 carrying 40 kg cargo embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 67 carrying 12 kg cargo embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 68 carrying 15 kg cargo embarking at Flinders St heading to Richmond
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 81 carrying 2 kg cargo embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 82 carrying 47 kg cargo embarking at Flinders St heading to Belgrave
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 86 carrying 49 kg cargo embarking at Flinders St heading to Melbourne Central
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 98 carrying 40 kg embarking at Flinders St heading to Richmond
+2017-04-24 00:30:43 INFO  ActiveStation - Passenger 99 carrying 9 kg embarking at Flinders St heading to Melbourne Central
+2017-04-24 00:30:43 INFO  Train - Passenger 45 is disembarking at Flinders St
+2017-04-24 00:30:43 INFO  TrainState$2 - Orient Express is ready to depart for Melbourne Central Station!
+2017-04-24 00:30:43 INFO  TrainState$3 - Orient Express enroute to Flagstaff Station!
+2017-04-24 00:30:43 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for North Richmond Station!
+2017-04-24 00:30:43 INFO  TrainState$3 - Thomas the Tank Engine enroute to Jolimont Station!
+2017-04-24 00:30:44 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Jolimont Station..!
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 100 carrying 26 kg embarking at Jolimont heading to Epping
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 101 carrying 44 kg embarking at Jolimont heading to North Richmond
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 102 carrying 15 kg embarking at Jolimont heading to Flagstaff
+2017-04-24 00:30:44 INFO  TrainState$4 - Orient Express is awaiting entry Flagstaff Station..!
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 43 carrying 25 kg cargo embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 103 carrying 39 kg embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 104 carrying 49 kg embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 105 carrying 15 kg embarking at Flagstaff heading to Melbourne Central
+2017-04-24 00:30:44 INFO  ActiveStation - Passenger 106 carrying 6 kg embarking at Flagstaff heading to Upfield
+2017-04-24 00:30:44 INFO  Train - Passenger 63 is disembarking at Jolimont
+2017-04-24 00:30:44 INFO  TrainState$2 - Amtrak is ready to depart for Melbourne Central Station!
+2017-04-24 00:30:44 INFO  TrainState$3 - Amtrak enroute to Flagstaff Station!
+2017-04-24 00:30:45 INFO  TrainState$2 - Flying Scotsman is ready to depart for Flinders St Station!
+2017-04-24 00:30:45 INFO  TrainState$3 - Flying Scotsman enroute to Southern Cross Station!
+2017-04-24 00:30:46 INFO  TrainState$4 - Amtrak is awaiting entry Flagstaff Station..!
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 43 carrying 25 kg cargo embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 107 carrying 31 kg embarking at Flagstaff heading to Flinders St
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 108 carrying 48 kg embarking at Flagstaff heading to Melbourne Central
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 109 carrying 34 kg embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:46 INFO  TrainState$4 - Flying Scotsman is awaiting entry Southern Cross Station..!
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 69 carrying 21 kg cargo embarking at Southern Cross heading to Melbourne Central
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 70 carrying 30 kg cargo embarking at Southern Cross heading to Footscray
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 110 carrying 42 kg embarking at Southern Cross heading to Flagstaff
+2017-04-24 00:30:46 INFO  ActiveStation - Passenger 111 carrying 1 kg embarking at Southern Cross heading to Sydenham
+2017-04-24 00:30:46 INFO  Train - Passenger 66 is disembarking at Southern Cross
+2017-04-24 00:30:46 INFO  Train - Passenger 67 is disembarking at Southern Cross
+2017-04-24 00:30:46 INFO  Train - Passenger 81 is disembarking at Southern Cross
+2017-04-24 00:30:46 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Jolimont Station!
+2017-04-24 00:30:46 INFO  TrainState$2 - Orient Express is ready to depart for Flagstaff Station!
+2017-04-24 00:30:46 INFO  TrainState$3 - Thomas the Tank Engine enroute to Flinders St Station!
+2017-04-24 00:30:46 INFO  TrainState$3 - Orient Express enroute to North Melbourne Station!
+2017-04-24 00:30:47 INFO  TrainState$4 - Orient Express is awaiting entry North Melbourne Station..!
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 39 carrying 5 kg cargo embarking at North Melbourne heading to Flinders St
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 112 carrying 13 kg embarking at North Melbourne heading to Sunshine
+2017-04-24 00:30:47 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Flinders St Station..!
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 86 carrying 49 kg cargo embarking at Flinders St heading to Melbourne Central
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 87 carrying 7 kg cargo embarking at Flinders St heading to Southern Cross
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 98 carrying 40 kg cargo embarking at Flinders St heading to Richmond
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 99 carrying 9 kg cargo embarking at Flinders St heading to Melbourne Central
+2017-04-24 00:30:47 INFO  ActiveStation - Passenger 113 carrying 49 kg embarking at Flinders St heading to Flagstaff
+2017-04-24 00:30:47 INFO  Train - Passenger 38 is disembarking at Flinders St
+2017-04-24 00:30:47 INFO  Train - Passenger 48 is disembarking at Flinders St
+2017-04-24 00:30:47 INFO  Train - Passenger 92 is disembarking at Flinders St
+2017-04-24 00:30:48 INFO  TrainState$2 - Amtrak is ready to depart for Flagstaff Station!
+2017-04-24 00:30:48 INFO  TrainState$3 - Amtrak enroute to North Melbourne Station!
+2017-04-24 00:30:48 INFO  TrainState$2 - Flying Scotsman is ready to depart for Southern Cross Station!
+2017-04-24 00:30:48 INFO  TrainState$3 - Flying Scotsman enroute to Flagstaff Station!
+2017-04-24 00:30:48 INFO  TrainState$4 - Amtrak is awaiting entry North Melbourne Station..!
+2017-04-24 00:30:48 INFO  ActiveStation - Passenger 39 carrying 5 kg cargo embarking at North Melbourne heading to Flinders St
+2017-04-24 00:30:48 INFO  ActiveStation - Passenger 114 carrying 12 kg embarking at North Melbourne heading to Southern Cross
+2017-04-24 00:30:48 INFO  ActiveStation - Passenger 115 carrying 16 kg embarking at North Melbourne heading to Flagstaff
+2017-04-24 00:30:48 INFO  ActiveStation - Passenger 116 carrying 40 kg embarking at North Melbourne heading to Melbourne Central
+2017-04-24 00:30:48 INFO  ActiveStation - Passenger 117 carrying 44 kg embarking at North Melbourne heading to Footscray
+2017-04-24 00:30:49 INFO  TrainState$4 - Flying Scotsman is awaiting entry Flagstaff Station..!
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 43 carrying 25 kg cargo embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 44 carrying 44 kg cargo embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 50 carrying 48 kg cargo embarking at Flagstaff heading to Footscray
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 103 carrying 39 kg cargo embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 118 carrying 37 kg embarking at Flagstaff heading to Flinders St
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 119 carrying 22 kg embarking at Flagstaff heading to Melbourne Central
+2017-04-24 00:30:49 INFO  ActiveStation - Passenger 120 carrying 27 kg embarking at Flagstaff heading to Clifton Hill
+2017-04-24 00:30:49 INFO  TrainState$2 - Orient Express is ready to depart for North Melbourne Station!
+2017-04-24 00:30:49 INFO  TrainState$3 - Orient Express enroute to Macaulay Station!
+2017-04-24 00:30:49 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Flinders St Station!
+2017-04-24 00:30:49 INFO  TrainState$3 - Thomas the Tank Engine enroute to Southern Cross Station!
+2017-04-24 00:30:50 INFO  TrainState$4 - Orient Express is awaiting entry Macaulay Station..!
+2017-04-24 00:30:50 INFO  ActiveStation - Passenger 32 carrying 44 kg cargo embarking at Macaulay heading to North Melbourne
+2017-04-24 00:30:50 INFO  ActiveStation - Passenger 121 carrying 12 kg embarking at Macaulay heading to Flinders St
+2017-04-24 00:30:50 INFO  ActiveStation - Passenger 122 carrying 27 kg embarking at Macaulay heading to Melbourne Central
+2017-04-24 00:30:50 INFO  ActiveStation - Passenger 123 carrying 6 kg embarking at Macaulay heading to Upfield
+2017-04-24 00:30:51 INFO  TrainState$2 - Amtrak is ready to depart for North Melbourne Station!
+2017-04-24 00:30:51 INFO  TrainState$3 - Amtrak enroute to Footscray Station!
+2017-04-24 00:30:51 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Southern Cross Station..!
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 70 carrying 30 kg cargo embarking at Southern Cross heading to Footscray
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 71 carrying 46 kg cargo embarking at Southern Cross heading to Ringwood
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 72 carrying 33 kg cargo embarking at Southern Cross heading to Flinders St
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 77 carrying 26 kg cargo embarking at Southern Cross heading to Flagstaff
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 78 carrying 26 kg cargo embarking at Southern Cross heading to Rosanna
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 79 carrying 0 kg cargo embarking at Southern Cross heading to Flinders St
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 110 carrying 42 kg cargo embarking at Southern Cross heading to Flagstaff
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 111 carrying 1 kg cargo embarking at Southern Cross heading to Sydenham
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 124 carrying 8 kg embarking at Southern Cross heading to Flagstaff
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 125 carrying 34 kg embarking at Southern Cross heading to North Richmond
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 126 carrying 15 kg embarking at Southern Cross heading to Melbourne Central
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 127 carrying 21 kg embarking at Southern Cross heading to Melbourne Central
+2017-04-24 00:30:51 INFO  Train - Passenger 1 is disembarking at Southern Cross
+2017-04-24 00:30:51 INFO  Train - Passenger 62 is disembarking at Southern Cross
+2017-04-24 00:30:51 INFO  Train - Passenger 93 is disembarking at Southern Cross
+2017-04-24 00:30:51 INFO  Train - Passenger 87 is disembarking at Southern Cross
+2017-04-24 00:30:51 INFO  TrainState$2 - Flying Scotsman is ready to depart for Flagstaff Station!
+2017-04-24 00:30:51 INFO  TrainState$3 - Flying Scotsman enroute to Melbourne Central Station!
+2017-04-24 00:30:51 INFO  TrainState$4 - Amtrak is awaiting entry Footscray Station..!
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 36 carrying 18 kg cargo embarking at Footscray heading to Southern Cross
+2017-04-24 00:30:51 INFO  ActiveStation - Passenger 128 carrying 26 kg embarking at Footscray heading to Southern Cross
+2017-04-24 00:30:52 INFO  TrainState$2 - Orient Express is ready to depart for Macaulay Station!
+2017-04-24 00:30:52 INFO  TrainState$3 - Orient Express enroute to Upfield Station!
+2017-04-24 00:30:52 INFO  TrainState$4 - Flying Scotsman is awaiting entry Melbourne Central Station..!
+2017-04-24 00:30:52 INFO  ActiveStation - Passenger 54 carrying 25 kg cargo embarking at Melbourne Central heading to North Melbourne
+2017-04-24 00:30:52 INFO  ActiveStation - Passenger 129 carrying 36 kg embarking at Melbourne Central heading to Footscray
+2017-04-24 00:30:52 INFO  ActiveStation - Passenger 130 carrying 1 kg embarking at Melbourne Central heading to Sunshine
+2017-04-24 00:30:52 INFO  ActiveStation - Passenger 131 carrying 23 kg embarking at Melbourne Central heading to Flinders St
+2017-04-24 00:30:52 INFO  Train - Passenger 6 is disembarking at Melbourne Central
+2017-04-24 00:30:52 INFO  Train - Passenger 69 is disembarking at Melbourne Central
+2017-04-24 00:30:53 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Southern Cross Station!
+2017-04-24 00:30:53 INFO  TrainState$3 - Thomas the Tank Engine enroute to Flagstaff Station!
+2017-04-24 00:30:53 INFO  TrainState$2 - Amtrak is ready to depart for Footscray Station!
+2017-04-24 00:30:53 INFO  TrainState$3 - Amtrak enroute to Newport Station!
+2017-04-24 00:30:54 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Flagstaff Station..!
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 103 carrying 39 kg cargo embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 104 carrying 49 kg cargo embarking at Flagstaff heading to Richmond
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 105 carrying 15 kg cargo embarking at Flagstaff heading to Melbourne Central
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 106 carrying 6 kg cargo embarking at Flagstaff heading to Upfield
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 107 carrying 31 kg cargo embarking at Flagstaff heading to Flinders St
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 108 carrying 48 kg cargo embarking at Flagstaff heading to Melbourne Central
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 109 carrying 34 kg cargo embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 118 carrying 37 kg cargo embarking at Flagstaff heading to Flinders St
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 119 carrying 22 kg cargo embarking at Flagstaff heading to Melbourne Central
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 120 carrying 27 kg cargo embarking at Flagstaff heading to Clifton Hill
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 132 carrying 45 kg embarking at Flagstaff heading to Southern Cross
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 133 carrying 47 kg embarking at Flagstaff heading to Upfield
+2017-04-24 00:30:54 INFO  ActiveStation - Passenger 134 carrying 26 kg embarking at Flagstaff heading to Williamstown
+2017-04-24 00:30:54 INFO  Train - Passenger 29 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 61 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 85 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 102 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 113 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 77 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 110 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  Train - Passenger 124 is disembarking at Flagstaff
+2017-04-24 00:30:54 INFO  TrainState$2 - Flying Scotsman is ready to depart for Melbourne Central Station!
+2017-04-24 00:30:54 INFO  TrainState$3 - Flying Scotsman enroute to Flagstaff Station!
+2017-04-24 00:33:50 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:33:50 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:33:50 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:33:50 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:33:50 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:33:50 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:33:50 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:33:50 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:33:50 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:35:12 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:35:12 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:35:12 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:35:12 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:35:12 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:35:12 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:35:12 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:35:12 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:35:12 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:35:43 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:35:43 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:35:43 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:35:43 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:35:43 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:35:43 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:35:43 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:35:43 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:35:43 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:39:01 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:39:01 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:39:01 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:39:01 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:39:01 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:39:01 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:39:01 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:39:01 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:39:01 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:46:01 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:46:01 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:46:01 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:46:01 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:46:01 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:46:01 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:46:01 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:46:01 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:46:01 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:47:48 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:47:48 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:47:48 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:47:48 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:47:48 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:47:48 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:47:48 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:47:48 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:47:48 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:47:50 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 00:47:50 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 00:47:50 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 00:47:50 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 00:47:50 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 00:47:50 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 00:47:51 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 00:47:51 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 00:47:51 INFO  Train - Passenger 5 is disembarking at London
+2017-04-24 00:47:51 INFO  Train - Passenger 6 is disembarking at London
+2017-04-24 00:47:52 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Budapest heading to Berlin
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Budapest heading to Bucharest
+2017-04-24 00:47:52 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-24 00:47:52 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Manchester heading to London
+2017-04-24 00:47:53 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 00:47:53 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 00:47:54 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 00:47:54 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 00:47:54 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 00:47:54 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 00:49:20 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:49:20 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:49:20 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:49:20 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:49:20 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:49:20 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:49:20 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:49:20 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:49:20 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:50:05 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:50:05 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:50:05 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:50:05 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:50:05 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:50:05 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:50:05 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:50:05 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:50:05 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:52:14 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:52:14 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:52:14 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:52:14 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:52:14 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:52:14 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:52:14 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:52:14 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:52:14 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:53:15 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:53:15 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:53:15 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:53:15 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:53:15 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:53:15 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:53:15 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 00:53:15 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:53:15 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:53:49 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 00:53:49 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 00:53:49 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 00:53:49 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 00:53:49 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 00:53:49 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 00:53:49 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 00:53:49 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 00:53:49 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 01:00:54 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:00:54 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:00:54 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:00:54 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:00:54 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:00:54 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:00:54 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:00:54 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 01:00:54 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 01:01:58 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:01:58 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:01:58 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:01:58 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:01:58 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:01:58 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:01:58 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:01:58 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 01:01:58 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 01:02:40 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:02:40 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:02:40 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:02:40 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:02:40 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:02:40 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:02:40 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:02:40 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 01:02:40 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 01:02:42 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 01:02:42 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 01:02:42 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 01:02:42 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 01:02:42 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 01:02:42 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:02:43 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 01:02:43 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 01:02:43 INFO  Train - Passenger 5 is disembarking at London
+2017-04-24 01:02:43 INFO  Train - Passenger 6 is disembarking at London
+2017-04-24 01:02:43 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Budapest heading to Berlin
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:02:43 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:02:43 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Manchester heading to London
+2017-04-24 01:02:45 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 01:02:45 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 01:03:17 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:03:17 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:03:17 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:03:17 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:03:17 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:03:17 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:03:17 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:03:17 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 01:03:17 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 01:03:28 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:03:28 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:03:28 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:03:28 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:03:28 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:03:28 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:03:28 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:03:28 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Paris heading to London
+2017-04-24 01:03:28 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Paris heading to London
+2017-04-24 01:05:00 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:05:00 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:05:00 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:05:00 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:05:00 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:05:00 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:05:00 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:05:02 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 01:05:02 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 01:05:02 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 01:05:02 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 01:05:02 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 01:05:02 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:05:03 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 01:05:03 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 01:05:03 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 01:05:03 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:05:03 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Budapest heading to Vienna
+2017-04-24 01:05:03 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 01:05:03 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Manchester heading to London
+2017-04-24 01:05:03 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:05:03 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:05:05 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 01:05:05 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 01:05:05 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 01:05:05 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 01:05:05 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 01:05:05 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 01:05:06 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 01:05:06 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Amsterdam heading to Paris
+2017-04-24 01:05:06 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Amsterdam heading to Paris
+2017-04-24 01:05:06 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Amsterdam heading to London
+2017-04-24 01:05:06 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Amsterdam heading to Berlin
+2017-04-24 01:05:06 INFO  Train - Passenger 3 is disembarking at Amsterdam
+2017-04-24 01:05:06 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-24 01:05:06 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-24 01:05:06 INFO  ActiveStation - Passenger 14 carrying 22 kg embarking at Vienna heading to Budapest
+2017-04-24 01:05:06 INFO  ActiveStation - Passenger 15 carrying 33 kg embarking at Vienna heading to Budapest
+2017-04-24 01:05:45 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:05:45 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:05:45 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:05:45 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:05:45 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:05:45 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:05:45 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:05:47 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-24 01:05:47 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-24 01:05:47 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-24 01:05:47 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 01:05:47 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 01:05:47 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 01:05:47 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 01:05:47 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 01:05:47 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:05:48 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 01:05:48 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 01:05:48 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 01:05:48 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:05:48 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Budapest heading to Vienna
+2017-04-24 01:05:48 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 01:05:48 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Manchester heading to London
+2017-04-24 01:05:48 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:05:48 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:06:35 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:06:35 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:06:35 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:06:35 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:06:35 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:06:35 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:06:35 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:06:37 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-24 01:06:37 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-24 01:06:37 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-24 01:06:37 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 01:06:37 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 01:06:37 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 01:06:37 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 01:06:37 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 01:06:37 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:06:37 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 01:06:38 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 01:06:38 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 01:06:38 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:06:38 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Budapest heading to Vienna
+2017-04-24 01:06:38 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 01:06:38 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Manchester heading to London
+2017-04-24 01:06:38 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:06:38 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:07:13 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:07:13 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:07:13 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:07:13 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:07:13 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:07:13 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-24 01:07:13 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:13 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:07:13 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-24 01:07:13 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:13 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:07:13 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-24 01:07:13 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:15 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 01:07:15 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 01:07:15 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 01:07:15 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 01:07:15 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 01:07:15 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:07:15 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 01:07:15 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-24 01:07:15 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 01:07:15 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:16 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 01:07:16 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:07:16 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Budapest heading to Vienna
+2017-04-24 01:07:16 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 01:07:16 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Manchester heading to London
+2017-04-24 01:07:16 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:07:16 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:07:16 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-24 01:07:16 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:16 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-24 01:07:16 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:18 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 01:07:18 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 01:07:18 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 01:07:18 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 01:07:18 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 01:07:18 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 01:07:19 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 01:07:19 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Amsterdam heading to Paris
+2017-04-24 01:07:19 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Amsterdam heading to Paris
+2017-04-24 01:07:19 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Amsterdam heading to London
+2017-04-24 01:07:19 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Amsterdam heading to Berlin
+2017-04-24 01:07:19 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-24 01:07:19 INFO  Train - Passenger 3 is disembarking at Amsterdam
+2017-04-24 01:07:19 INFO  TrainState$1 - 2.0
+2017-04-24 01:07:55 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-24 01:07:55 INFO  ActiveStation - Passenger 1 carrying 22 kg embarking at Paris heading to London
+2017-04-24 01:07:55 INFO  ActiveStation - Passenger 2 carrying 29 kg embarking at Paris heading to Vienna
+2017-04-24 01:07:55 INFO  ActiveStation - Passenger 3 carrying 13 kg embarking at Paris heading to Amsterdam
+2017-04-24 01:07:55 INFO  ActiveStation - Passenger 4 carrying 19 kg embarking at Paris heading to Berlin
+2017-04-24 01:07:55 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-24 01:07:55 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-24 01:07:55 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-24 01:07:55 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-24 01:07:55 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-24 01:07:57 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-24 01:07:57 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-24 01:07:57 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-24 01:07:57 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-24 01:07:57 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-24 01:07:57 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:07:58 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-24 01:07:58 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-24 01:07:58 INFO  Train - Passenger 1 is disembarking at London
+2017-04-24 01:07:59 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-24 01:07:59 INFO  ActiveStation - Passenger 5 carrying 25 kg embarking at Budapest heading to Bucharest
+2017-04-24 01:07:59 INFO  ActiveStation - Passenger 6 carrying 31 kg embarking at Budapest heading to Vienna
+2017-04-24 01:07:59 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-24 01:07:59 INFO  ActiveStation - Passenger 7 carrying 18 kg embarking at Manchester heading to London
+2017-04-24 01:07:59 INFO  ActiveStation - Passenger 8 carrying 4 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:07:59 INFO  ActiveStation - Passenger 9 carrying 8 kg embarking at Manchester heading to Glasgow
+2017-04-24 01:07:59 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-24 01:07:59 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-24 01:08:00 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-24 01:08:00 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-24 01:08:01 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-24 01:08:01 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-24 01:08:01 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-24 01:08:01 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-24 01:08:02 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-24 01:08:02 INFO  ActiveStation - Passenger 10 carrying 39 kg embarking at Amsterdam heading to Paris
+2017-04-24 01:08:02 INFO  ActiveStation - Passenger 11 carrying 39 kg embarking at Amsterdam heading to Paris
+2017-04-24 01:08:02 INFO  ActiveStation - Passenger 12 carrying 16 kg embarking at Amsterdam heading to London
+2017-04-24 01:08:02 INFO  ActiveStation - Passenger 13 carrying 45 kg embarking at Amsterdam heading to Berlin
+2017-04-24 01:08:02 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-24 01:08:02 INFO  Train - Passenger 3 is disembarking at Amsterdam
+2017-04-24 01:08:02 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-24 01:08:02 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-24 01:08:02 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-24 01:08:02 INFO  ActiveStation - Passenger 14 carrying 22 kg embarking at Vienna heading to Budapest
+2017-04-24 01:08:02 INFO  ActiveStation - Passenger 15 carrying 33 kg embarking at Vienna heading to Budapest
+2017-04-24 01:08:02 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-24 01:08:04 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-24 01:08:04 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-24 01:08:04 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-24 01:08:04 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-24 01:08:04 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-24 01:08:04 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!

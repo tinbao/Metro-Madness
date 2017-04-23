@@ -70,6 +70,10 @@ public class Train {
 			p.update(delta);
 		}
 		
+		if(state == null && previousState != null){
+			return;
+		}
+		
 		// Update the state
 		switch(this.state) {
 		case FROM_DEPOT:
@@ -80,45 +84,14 @@ public class Train {
 				e.printStackTrace();
 			}
 		case IN_STATION:
-
-			
-			// When in station we want to disembark passengers 
-			// and wait 10 seconds for incoming passengers
-			if(!this.disembarked){
-				this.disembark();
-				this.departureTimer = this.station.getDepartureTime();
-				this.disembarked = true;
-			} else {
-				// Count down if departure timer. 
-				if(this.departureTimer>0){
-					this.departureTimer -= delta;
-				} else {
-					// We are ready to depart, find the next track and wait until we can enter 
-					try {
-						boolean endOfLine = this.trainLine.endOfLine(this.station);
-						if(endOfLine){
-							this.forward = !this.forward;
-						}
-						this.track = this.trainLine.nextTrack(this.station, this.forward);
-						this.state = TrainState.READY_DEPART;
-						break;
-					} catch (Exception e){
-						// Massive error.
-						return;
-					}
-				}
-			}
-			/*
 			try {
 				state = state.entering(this, delta);
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
-			}*/
+				return;
+			}
 			break;
 		case READY_DEPART:
-
-			
 			// When ready to depart, check that the track is clear and if
 			// so, then occupy it if possible.
 			try {

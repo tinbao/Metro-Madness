@@ -11,7 +11,7 @@ enum TrainState {
 	/* The state of train that is currently docked at a station */
 	IN_STATION {
 		
-		public TrainState entering(Train t, float delta) {
+		public TrainState entering(Train t, float delta) throws Exception {
 			Logger logger = LogManager.getLogger();
 			
 			if(hasChanged(t.getPreviousState(), t.getState(), t)){
@@ -24,35 +24,29 @@ enum TrainState {
 				t.disembark();
 				t.setDepartureTimer(t.getStation().getDepartureTime());
 				t.setDisembarked(true);
-				return IN_STATION;	
 			} else {
+				
 				// Count down if departure timer. 
 				if(t.getDepartureTimer() > 0){
 					t.setDepartureTimer(t.getDepartureTimer() - delta);
-					return IN_STATION;	
+						
 				} else {
 					// We are ready to depart, find the next track and wait until we can enter 
-					try {
-						
-						boolean endOfLine = t.getTrainLine().endOfLine(t.getStation());
-						if(endOfLine){
-							t.setForward(!t.isForward());
-						}
-						t.setTrack(t.getTrainLine().nextTrack(t.getStation(), t.isForward()));
-						return READY_DEPART;
-					} catch (Exception e){
-						// Massive error.
-						e.printStackTrace();
-						return null;
+					boolean endOfLine = t.getTrainLine().endOfLine(t.getStation());
+					if(endOfLine){
+						t.setForward(!t.isForward());
 					}
+					t.setTrack(t.getTrainLine().nextTrack(t.getStation(), t.isForward()));
+					return READY_DEPART;
 				}
 			}
-		}
+			return IN_STATION;
+		}	
 	}, 
 	
 	/* The state of train that is ready to depart the station */
 	READY_DEPART {
-		public TrainState entering(Train t, float delta){
+		public TrainState entering(Train t, float delta) throws Exception{
 			
 			Logger logger = LogManager.getLogger();
 			
@@ -61,15 +55,11 @@ enum TrainState {
 			}
 			
 			if(t.getTrack().canEnter(t.isForward())){
-				try {
-					// Find the next
-					t.getTrainLine().nextStation(t.getStation(), t.isForward());
-					// Depart our current station
-					t.getStation().depart(t);
-					t.setStation(t.getTrainLine().nextStation(t.getStation(), t.isForward()));
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
+				// Find the next
+				t.getTrainLine().nextStation(t.getStation(), t.isForward());
+				// Depart our current station
+				t.getStation().depart(t);
+				t.setStation(t.getTrainLine().nextStation(t.getStation(), t.isForward()));
 				t.getTrack().enter(t);
 				return ON_ROUTE;
 			}
@@ -136,7 +126,7 @@ enum TrainState {
 				t.setPos((Point2D.Float) t.getStation().position.clone());
 				t.setDisembarked(false);
 			}
-			return FROM_DEPOT;
+			return IN_STATION;
 		}
 		
 	};
