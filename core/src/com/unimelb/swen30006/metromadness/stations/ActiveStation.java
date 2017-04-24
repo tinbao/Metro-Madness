@@ -73,7 +73,7 @@ public class ActiveStation extends Station {
 			Line l = this.lines.get(i);
 			renderer.setColor(l.lineColour);
 			renderer.circle(this.position.x, this.position.y, radius, NUM_CIRCLE_STATMENTS);
-			radius = radius - 1;
+			radius -= 1;
 		}
 		
 		// Calculate the percentage
