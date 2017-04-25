@@ -15,7 +15,7 @@ import com.unimelb.swen30006.metromadness.tracks.Line;
 import com.unimelb.swen30006.metromadness.tracks.Track;
 
 public class Train {
-	
+
 	// Logger
 	private static Logger logger = LogManager.getLogger();
 
@@ -26,7 +26,7 @@ public class Train {
 	public static final float TRAIN_WIDTH=4;
 	public static final float TRAIN_LENGTH = 6;
 	public static final float TRAIN_SPEED=50f;
-	
+
 	// The train's name
 	public String name;
 
@@ -51,10 +51,10 @@ public class Train {
 	// State variables
 	public int numTrips;
 	private boolean disembarked;
-	
+
 	private TrainState previousState = null;
 
-	
+
 	public Train(Line trainLine, Station start, boolean forward, String name){
 		this.trainLine = trainLine;
 		this.station = start;
@@ -69,8 +69,8 @@ public class Train {
 		for(Passenger p: this.passengers){
 			p.update(delta);
 		}
-		
-		// Update the state
+
+		// Update the trainState
 		try {
 			setState(state.event(this, delta));
 		} catch (Exception e) {
@@ -111,15 +111,16 @@ public class Train {
 
 	@Override
 	public String toString() {
-		return "Train [line=" + this.trainLine.name +", departureTimer=" + departureTimer + ", pos=" + pos + ", forward=" + forward + ", state=" + state
+		return "Train [line=" + this.trainLine.name +", departureTimer=" + departureTimer +
+				", pos=" + pos + ", forward=" + forward + ", state=" + state
 				+ ", numTrips=" + numTrips + ", disembarked=" + disembarked + "]";
 	}
 
 	public boolean inStation(){
 		return (this.state == TrainState.IN_STATION || this.state == TrainState.READY_DEPART);
 	}
-	
-	public float angleAlongLine(float x1, float y1, float x2, float y2){	
+
+	public float angleAlongLine(float x1, float y1, float x2, float y2){
 		return (float) Math.atan2((y2-y1),(x2-x1));
 	}
 
@@ -130,7 +131,7 @@ public class Train {
 			renderer.circle(this.pos.x, this.pos.y, TRAIN_WIDTH);
 		}
 	}
-	
+
 	public Track getTrack() {
 		return track;
 	}
@@ -138,15 +139,15 @@ public class Train {
 	public void setTrack(Track track) {
 		this.track = track;
 	}
-	
+
 	public Line getTrainLine() {
 		return trainLine;
 	}
-	
+
 	public void setTrainLine(Line trainLine) {
 		this.trainLine = trainLine;
 	}
-	
+
 	public Station getStation() {
 		return station;
 	}
@@ -154,7 +155,7 @@ public class Train {
 	public void setStation(Station station) {
 		this.station = station;
 	}
-	
+
 	public boolean isForward() {
 		return forward;
 	}
@@ -162,7 +163,7 @@ public class Train {
 	public void setForward(boolean forward) {
 		this.forward = forward;
 	}
-	
+
 	public boolean isDisembarked() {
 		return disembarked;
 	}
@@ -170,7 +171,7 @@ public class Train {
 	public void setDisembarked(boolean disembarked) {
 		this.disembarked = disembarked;
 	}
-	
+
 	public Point2D.Float getPos() {
 		return pos;
 	}
@@ -178,7 +179,7 @@ public class Train {
 	public void setPos(Point2D.Float pos) {
 		this.pos = pos;
 	}
-	
+
 	public float getDepartureTimer() {
 		return departureTimer;
 	}
@@ -194,7 +195,7 @@ public class Train {
 	public void setPreviousState(TrainState previousState) {
 		this.previousState = previousState;
 	}
-	
+
 	public TrainState getState() {
 		return state;
 	}
