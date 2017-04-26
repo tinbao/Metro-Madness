@@ -37,7 +37,7 @@ public class MapReader {
 		this.filename = filename;
 		this.processed = false;
 	}
-
+	
 	public void process(){
 		try {
 			// Build the doc factory
