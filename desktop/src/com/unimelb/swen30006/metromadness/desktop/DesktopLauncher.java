@@ -11,6 +11,8 @@ import com.unimelb.swen30006.metromadness.MetroMadness;
 public class DesktopLauncher {
 	public static void main (String[] arg) throws FileNotFoundException {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
+		config.width = 1960;
+		config.height = 1080;
 		new LwjglApplication(new MetroMadness(), config);
 		/*
 		PrintStream out = new PrintStream(new FileOutputStream("output.txt"));

@@ -10,6 +10,7 @@ public class PassengerTrain extends Train {
 	
 	// size of the train
 	Size size;
+	public final static String TYPE = "Passenger";
 	
 	public enum Size {
 		BIG (80, Color.LIGHT_GRAY, 20f),

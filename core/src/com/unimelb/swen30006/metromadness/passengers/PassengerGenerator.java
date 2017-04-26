@@ -53,21 +53,16 @@ public class PassengerGenerator {
 		
 		// Find the station
 		int index = 0;
-		boolean found = false;
+		boolean found = true;
 		
 		String stationType = l.stations.get(currentStation).type;
 		
-		while(found) {
-			if (forward){
-				index = random.nextInt(l.stations.size()-1-currentStation) + currentStation + 1;
-			} else {
-				index = currentStation - 1 - random.nextInt(currentStation);
-			}
-			
-			if(l.stations.get(index).type.equals(stationType)){
-				found = true;
-			}
+		if (forward){
+			index = random.nextInt(l.stations.size()-1-currentStation) + currentStation + 1;
+		} else {
+			index = currentStation - 1 - random.nextInt(currentStation);
 		}
+		
 		Station s = l.stations.get(index);
 		
 		return this.s.generatePassenger(idGen++, random, s);

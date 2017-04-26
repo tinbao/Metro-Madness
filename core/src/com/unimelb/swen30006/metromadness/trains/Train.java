@@ -203,4 +203,8 @@ public class Train {
 	public void setState(TrainState state) {
 		this.state = state;
 	}
+
+	public String getType() throws Exception {
+		throw new Exception();
+	}
 }

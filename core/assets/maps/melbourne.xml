@@ -80,7 +80,7 @@
 			<y_loc>4800</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>	
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Flagstaff</name>
@@ -104,7 +104,7 @@
 			<y_loc>4800</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>		
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Lilydale</name>
@@ -112,7 +112,7 @@
 			<y_loc>5300</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>		
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Belgrave</name>
@@ -120,7 +120,7 @@
 			<y_loc>4000</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>		
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Camberwell</name>
@@ -128,7 +128,7 @@
 			<y_loc>4800</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>	
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Alamein</name>
@@ -136,7 +136,7 @@
 			<y_loc>4200</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>	
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Burnley</name>
@@ -184,7 +184,7 @@
 			<y_loc>7800</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>	
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Pakenham</name>
@@ -216,7 +216,7 @@
 			<y_loc>7700</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>		
+		</station>
 		<station>
 			<type>Active</type>
 			<name>North Melbourne</name>
@@ -232,7 +232,7 @@
 			<y_loc>5700</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>	
+		</station>
 		<station>
 			<type>Active</type>
 			<name>Upfield</name>
@@ -240,7 +240,7 @@
 			<y_loc>7400</y_loc>
 			<router>simple</router>
 			<max_passengers> 100 </max_passengers>
-		</station>	
+		</station>
 		<station>
 			<type>Active</type>
 			<name>North Melbourne</name>
@@ -571,7 +571,7 @@
 				<station>
 					<name>Richmond</name>
 					<double>true</double>
-				</station>			
+				</station>
 				<station>
 					<name>Flinders St</name>
 					<double>true</double>
@@ -614,7 +614,7 @@
 				<station>
 					<name>Richmond</name>
 					<double>true</double>
-				</station>			
+				</station>
 				<station>
 					<name>Flinders St</name>
 					<double>true</double>
@@ -653,7 +653,7 @@
 				<station>
 					<name>Caulfield</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>South Yarra</name>
 					<double>true</double>
@@ -661,7 +661,7 @@
 				<station>
 					<name>Richmond</name>
 					<double>true</double>
-				</station>			
+				</station>
 				<station>
 					<name>Flinders St</name>
 					<double>true</double>
@@ -700,7 +700,7 @@
 				<station>
 					<name>Caulfield</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>South Yarra</name>
 					<double>true</double>
@@ -708,7 +708,7 @@
 				<station>
 					<name>Richmond</name>
 					<double>true</double>
-				</station>			
+				</station>
 				<station>
 					<name>Flinders St</name>
 					<double>true</double>
@@ -747,7 +747,7 @@
 				<station>
 					<name>North Melbourne</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>Flagstaff</name>
 					<double>true</double>
@@ -790,7 +790,7 @@
 				<station>
 					<name>North Melbourne</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>Flagstaff</name>
 					<double>true</double>
@@ -837,7 +837,7 @@
 				<station>
 					<name>North Melbourne</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>Flagstaff</name>
 					<double>true</double>
@@ -884,7 +884,7 @@
 				<station>
 					<name>North Melbourne</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>Flagstaff</name>
 					<double>true</double>
@@ -935,7 +935,7 @@
 				<station>
 					<name>North Melbourne</name>
 					<double>true</double>
-				</station>		
+				</station>
 				<station>
 					<name>Flagstaff</name>
 					<double>true</double>
@@ -985,6 +985,13 @@
 			<name>Amtrak</name>
 			<direction>forward</direction>
 		</train>
-		
+		<train>
+			<type>BigPassenger</type>
+			<line>Glen Waverley</line>
+			<start>Glen Waverley</start>
+			<name>FOB</name>
+			<direction>forward</direction>
+		</train>
+
 	</trains>
 </map>

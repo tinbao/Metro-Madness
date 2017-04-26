@@ -129,11 +129,10 @@ public class MapReader {
 		int y_loc = e.getInt("y_loc")/8;
 		String router = e.get("router");
 		PassengerRouter r = createRouter(router);
+		int maxPax = e.getInt("max_passengers");
 		if(type.equals("Cargo")){
-			int maxPax = e.getInt("max_passengers");
 			return new CargoStation(x_loc, y_loc, r, name, maxPax, type);
 		} else if (type.equals("Active")){
-			int maxPax = e.getInt("max_passengers");
 			return new ActiveStation(x_loc, y_loc, r, name, maxPax, type);
 		} else{
 			return new Station(x_loc,y_loc,r,name,type);
