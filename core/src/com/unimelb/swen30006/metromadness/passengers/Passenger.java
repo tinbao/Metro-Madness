@@ -5,6 +5,8 @@ import java.util.Random;
 import com.unimelb.swen30006.metromadness.stations.Station;
 
 public class Passenger {
+	
+	public final static int NO_CARGO = 0;
 
 	final public int id;
 	public Station beginning;
@@ -31,6 +33,10 @@ public class Passenger {
 		return cargo;
 	}
 	public Cargo generateCargo(Random random){
+		// Assumption that passengers at Active stations have no cargo
+		if(this.beginning.type.equals("Active")){
+			return new Cargo(NO_CARGO);
+		}
 		return new Cargo(random.nextInt(51));
 	}
 	

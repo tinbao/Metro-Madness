@@ -41,23 +41,32 @@ public class PassengerGenerator {
 	public Passenger generatePassenger(Random random){
 		// Pick a random station from the line
 		Line l = this.lines.get(random.nextInt(this.lines.size()));
-		int current_station = l.stations.indexOf(this.s);
+		int currentStation = l.stations.indexOf(this.s);
 		boolean forward = random.nextBoolean();
 		
 		// If we are the end of the line then set our direction forward or backward
-		if(current_station == 0){
+		if(currentStation == 0){
 			forward = true;
-		} else if (current_station == l.stations.size()-1){
+		} else if (currentStation == l.stations.size()-1){
 			forward = false;
 		}
 		
 		// Find the station
 		int index = 0;
+		boolean found = false;
 		
-		if (forward){
-			index = random.nextInt(l.stations.size()-1-current_station) + current_station + 1;
-		} else {
-			index = current_station - 1 - random.nextInt(current_station);
+		String stationType = l.stations.get(currentStation).type;
+		
+		while(found) {
+			if (forward){
+				index = random.nextInt(l.stations.size()-1-currentStation) + currentStation + 1;
+			} else {
+				index = currentStation - 1 - random.nextInt(currentStation);
+			}
+			
+			if(l.stations.get(index).type.equals(stationType)){
+				found = true;
+			}
 		}
 		Station s = l.stations.get(index);
 		

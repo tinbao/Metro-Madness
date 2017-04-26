@@ -22,10 +22,8 @@ public class CargoStation extends Station {
 	public ArrayList<Passenger> waiting;
 	public float maxVolume;
 	
-	private String type;
-	
 	public CargoStation(float x, float y, PassengerRouter router, String name, float maxPax, String type) {
-		super(x, y, router, name);
+		super(x, y, router, name, type);
 		this.waiting = new ArrayList<Passenger>();
 		this.g = new PassengerGenerator(this, this.lines, maxPax);
 		this.maxVolume = maxPax;

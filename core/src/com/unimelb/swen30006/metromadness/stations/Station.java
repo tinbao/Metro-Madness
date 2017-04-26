@@ -20,13 +20,15 @@ public class Station {
 	public static final int NUM_CIRCLE_STATMENTS=100;
 	public static final int MAX_LINES=3;
 	public String name;
+	public String type;
 	public ArrayList<Line> lines;
 	public ArrayList<Train> trains;
 	public static final float DEPARTURE_TIME = 2;
 	public PassengerRouter router;
 
-	public Station(float x, float y, PassengerRouter router, String name){
+	public Station(float x, float y, PassengerRouter router, String name, String type){
 		this.name = name;
+		this.type = type;
 		this.router = router;
 		this.position = new Point2D.Float(x,y);
 		this.lines = new ArrayList<Line>();
