@@ -19,6 +19,10 @@ import com.unimelb.swen30006.metromadness.routers.SimpleRouter;
 import com.unimelb.swen30006.metromadness.stations.ActiveStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
 import com.unimelb.swen30006.metromadness.tracks.Line;
+import com.unimelb.swen30006.metromadness.trains.CargoTrain;
+import com.unimelb.swen30006.metromadness.trains.CargoTrain.CSize;
+import com.unimelb.swen30006.metromadness.trains.PassengerTrain;
+import com.unimelb.swen30006.metromadness.trains.PassengerTrain.Size;
 import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class MapReader {
@@ -107,21 +111,13 @@ public class MapReader {
 		
 		// Make the train
 		if(type.equals("BigPassenger")){
-			return new Train(l,s,dir,name, Size.BIG);
+			return new PassengerTrain(l,s,dir,name, Size.BIG);
 		} else if (type.equals("SmallPassenger")){
-			return new Train(l,s,dir,name, 10, 0);
+			return new PassengerTrain(l,s,dir,name, Size.SMALL);
 		} else if (type.equals("BigCargo")) {
-			return new Train(l, s, dir,name, 80, 200);
+			return new CargoTrain(l, s, dir,name, CSize.BIG);
 		} else {
-			return new Train(l, s, dir, name, 10, 100);
-		}
-		
-		if(type.equals("BigPassenger")){
-			return new PassengerTrain(l,s,dir,name,Size.BIG);
-		} else if (type.equals("SmallPassenger")){
-			return new PassengerTrain(l,s,dir,name,Size.SMALL);
-		} else {
-			return new Train(l, s, dir,name);
+			return new CargoTrain(l, s, dir, name, CSize.SMALL);
 		}
 	}
 

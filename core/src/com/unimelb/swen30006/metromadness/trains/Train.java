@@ -52,10 +52,6 @@ public class Train {
 	public int numTrips;
 	private boolean disembarked;
 	
-	// Flexible variables
-	//private int size;
-	private int luggage; //set to 0 when not a cargo train
-
 	private TrainState previousState = null;
 
 
@@ -95,16 +91,7 @@ public class Train {
 	}
 
 	public void embark(Passenger p, String stationType) throws Exception {
-		/*Cargo station*/
-		if (stationType.equals("Cargo")) {
-			if (this.passengers.size() + 1 <= this.size && this.capacity + p.getCargo().getWeight() > this.capacity) {
-				passengers.add(p);
-			}
-			else {throw new Exception();}
-		}
-		else {
-			throw new Exception();
-		}
+		throw new Exception();
 	}
 
 
