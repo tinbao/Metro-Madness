@@ -19,8 +19,6 @@ import com.unimelb.swen30006.metromadness.routers.SimpleRouter;
 import com.unimelb.swen30006.metromadness.stations.ActiveStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
 import com.unimelb.swen30006.metromadness.tracks.Line;
-import com.unimelb.swen30006.metromadness.trains.PassengerTrain;
-import com.unimelb.swen30006.metromadness.trains.PassengerTrain.Size;
 import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class MapReader {
@@ -43,8 +41,8 @@ public class MapReader {
 	public void process(){
 		try {
 			// Build the doc factory
-			FileHandle file = Gdx.files.internal("../core/assets/maps/world.xml");			
-//			FileHandle file = Gdx.files.internal("../core/assets/maps/world.xml");
+			//FileHandle file = Gdx.files.internal("../core/assets/maps/melbourne.xml");			
+			FileHandle file = Gdx.files.internal("../core/assets/maps/world.xml");
 			XmlReader reader = new XmlReader();
 			Element root = reader.parse(file);
 			
@@ -109,11 +107,13 @@ public class MapReader {
 		
 		// Make the train
 		if(type.equals("BigPassenger")){
-			return new PassengerTrain(l,s,dir,name,Size.BIG);
+			return new Train(l,s,dir,name, 80, 0);
 		} else if (type.equals("SmallPassenger")){
-			return new PassengerTrain(l,s,dir,name,Size.SMALL);
+			return new Train(l,s,dir,name, 10, 0);
+		} else if (type.equals("BigCargo")) {
+			return new Train(l, s, dir,name, 80, 200);
 		} else {
-			return new Train(l, s, dir,name);
+			return new Train(l, s, dir, name, 10, 100);
 		}
 	}
 
@@ -124,9 +124,9 @@ public class MapReader {
 		int y_loc = e.getInt("y_loc")/8;
 		String router = e.get("router");
 		PassengerRouter r = createRouter(router);
-		if(type.equals("Active")){
+		if(type.equals("Active") || type.equals("Cargo")){
 			int maxPax = e.getInt("max_passengers");
-			return new ActiveStation(x_loc, y_loc, r, name, maxPax);
+			return new ActiveStation(x_loc, y_loc, r, name, maxPax, type);
 		} else if (type.equals("Passive")){
 			return new Station(x_loc, y_loc, r, name);
 		} else{

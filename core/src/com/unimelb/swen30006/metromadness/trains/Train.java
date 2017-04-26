@@ -51,17 +51,23 @@ public class Train {
 	// State variables
 	public int numTrips;
 	private boolean disembarked;
+	
+	// Flexible variables
+	private int size;
+	private int capacity; //set to 0 when not a cargo train
 
 	private TrainState previousState = null;
 
 
-	public Train(Line trainLine, Station start, boolean forward, String name){
+	public Train(Line trainLine, Station start, boolean forward, String name, int size, int capacity){
 		this.trainLine = trainLine;
 		this.station = start;
 		this.state = TrainState.FROM_DEPOT;
 		this.forward = forward;
 		this.passengers = new ArrayList<Passenger>();
 		this.name = name;
+		this.size = size;
+		this.capacity = capacity;
 	}
 
 	public void update(float delta){
@@ -90,8 +96,22 @@ public class Train {
 		this.pos.setLocation(newX, newY);
 	}
 
-	public void embark(Passenger p) throws Exception {
-		throw new Exception();
+	public void embark(Passenger p, String stationType) throws Exception {
+		/*Non cargo station*/
+		if (stationType.equals("Active")) {
+			if (p.getCargo().getWeight() == 0 && this.passengers.size() + 1 <= this.size) {passengers.add(p);}
+			else {throw new Exception();}
+		}
+		/*Cargo station*/
+		else if (stationType.equals("Cargo")) {
+			if (this.passengers.size() + 1 <= this.size && this.capacity + p.getCargo().getWeight() > this.capacity) {
+				passengers.add(p);
+			}
+			else {throw new Exception();}
+		}
+		else {
+			throw new Exception();
+		}
 	}
 
 

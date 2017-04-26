@@ -22,11 +22,14 @@ public class ActiveStation extends Station {
 	public ArrayList<Passenger> waiting;
 	public float maxVolume;
 	
-	public ActiveStation(float x, float y, PassengerRouter router, String name, float maxPax) {
+	private String type;
+	
+	public ActiveStation(float x, float y, PassengerRouter router, String name, float maxPax, String type) {
 		super(x, y, router, name);
 		this.waiting = new ArrayList<Passenger>();
 		this.g = new PassengerGenerator(this, this.lines, maxPax);
 		this.maxVolume = maxPax;
+		this.type = type;
 	}
 	
 	@Override
@@ -42,7 +45,7 @@ public class ActiveStation extends Station {
 				Passenger p = pIter.next();
 				try {
 					logger.info("Passenger "+p.id+" carrying "+p.getCargo().getWeight() +" kg cargo embarking at "+this.name+" heading to "+p.destination.name);
-					t.embark(p);
+					t.embark(p, this.type);
 					pIter.remove();
 				} catch (Exception e){
 					// Do nothing, already waiting
@@ -59,7 +62,7 @@ public class ActiveStation extends Station {
 			for(Passenger p: ps){
 				try {
 					logger.info("Passenger "+p.id+" carrying "+p.getCargo().getWeight() +" kg embarking at "+this.name+" heading to "+p.destination.name);
-					t.embark(p);
+					t.embark(p, this.type);
 				} catch(Exception e){
 					this.waiting.add(p);
 				}

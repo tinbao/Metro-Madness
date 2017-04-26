@@ -50,11 +50,5 @@ public class DualTrack extends Track {
 			this.backwardOccupied = false;
 		}
 	}
-	
-	
-	
-	
-	
-
 
 }
