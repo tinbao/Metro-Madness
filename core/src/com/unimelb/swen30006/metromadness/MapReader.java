@@ -107,13 +107,21 @@ public class MapReader {
 		
 		// Make the train
 		if(type.equals("BigPassenger")){
-			return new Train(l,s,dir,name, 80, 0);
+			return new Train(l,s,dir,name, Size.BIG);
 		} else if (type.equals("SmallPassenger")){
 			return new Train(l,s,dir,name, 10, 0);
 		} else if (type.equals("BigCargo")) {
 			return new Train(l, s, dir,name, 80, 200);
 		} else {
 			return new Train(l, s, dir, name, 10, 100);
+		}
+		
+		if(type.equals("BigPassenger")){
+			return new PassengerTrain(l,s,dir,name,Size.BIG);
+		} else if (type.equals("SmallPassenger")){
+			return new PassengerTrain(l,s,dir,name,Size.SMALL);
+		} else {
+			return new Train(l, s, dir,name);
 		}
 	}
 
