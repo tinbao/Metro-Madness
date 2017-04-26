@@ -25,9 +25,12 @@ enum TrainState {
 				t.setDepartureTimer(t.getStation().getDepartureTime());
 				t.setDisembarked(true);
 			} else {
+				// Checks if the station is the correct type of train
+				if(t.getStation().type.equals(CargoTrain.TYPE) && t.getDepartureTimer() > 0){
+					t.setDepartureTimer(0);
 				
 				// Count down if departure timer. 
-				if(t.getDepartureTimer() > 0){
+				} else if(t.getDepartureTimer() > 0){
 					t.setDepartureTimer(t.getDepartureTimer() - delta);
 						
 				} else {
@@ -95,33 +98,21 @@ enum TrainState {
 				logger.info(t.name+ " is awaiting entry "+t.getStation().name+" Station..!");
 			}
 			
-			// Checks if the station is the correct type of train
-			if(t.getStation().type.equals(CargoTrain.TYPE)){
-				if(t.getStation().canEnter(t.getTrainLine())){
-					t.getTrack().leave(t);
-					t.setPos((Point2D.Float) t.getStation().position.clone());
-					t.getStation().enter(t);
+			if(t.getStation().canEnter(t.getTrainLine())){
+				if(!t.getStation().type.equals(CargoTrain.TYPE)) {
 					t.setDisembarked(false);
-					return IN_STATION;
+				} else if (!t.getStation().type.equals("Active")) {
+					t.setDisembarked(false);
 				} else {
-					return WAITING_ENTRY;
+					t.setDisembarked(true);
 				}
-			// If not, then depart for the next one
-			} else {
-				boolean endOfLine = t.getTrainLine().endOfLine(t.getStation());
-				if(endOfLine){
-					t.setForward(!t.isForward());
-				} else {
-					if(t.getTrack().canEnter(t.isForward())){
-						t.getTrack().enter(t);
-						t.setTrack(t.getTrainLine().nextTrack(t.getStation(), t.isForward()));
-					}
-				}
+				t.getTrack().leave(t);
 				t.setPos((Point2D.Float) t.getStation().position.clone());
-				t.setStation(t.getTrainLine().nextStation(t.getStation(), t.isForward()));
-				return ON_ROUTE;
+				t.getStation().enter(t);
+				return IN_STATION;
+			} else {
+				return WAITING_ENTRY;
 			}
-			
 		}
 		
 	}, 

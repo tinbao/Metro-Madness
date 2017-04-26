@@ -4,11 +4,7 @@ import java.awt.geom.Point2D;
 import java.util.ArrayList;
 import java.util.Random;
 
-import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.graphics.GL20;
-import com.badlogic.gdx.graphics.g2d.BitmapFont;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.unimelb.swen30006.metromadness.passengers.Passenger;
 import com.unimelb.swen30006.metromadness.routers.PassengerRouter;
@@ -57,17 +53,6 @@ public class Station {
 		Color c = Color.WHITE.cpy().lerp(Color.DARK_GRAY, t);
 		renderer.setColor(c);
 		renderer.circle(this.position.x, this.position.y, radius, NUM_CIRCLE_STATMENTS);	
-		
-		Gdx.gl.glClearColor(0, 0, 0, 1);
-	    Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
-	    
-		BitmapFont font = new BitmapFont();
-		SpriteBatch batch = new SpriteBatch();
-		batch.begin();
-	    font.setColor(Color.BLACK);
-	    font.draw(batch, this.name, (float)position.getX(), (float)position.getY()+10);
-	    font.draw(batch, this.type, (float)position.getX(), (float)position.getY()+5);
-	    batch.end();
 	}
 	
 	public void enter(Train t) throws Exception {

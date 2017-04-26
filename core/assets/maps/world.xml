@@ -196,9 +196,22 @@
 			<line>Northern</line>
 			<start>Glasgow</start>
 			<name>Thomas the Tank Engine</name>
-			<direction>backward</direction>
+			<direction>forward</direction>
 		</train>
-
+		<train>
+			<type>SmallCargo</type>
+			<line>Central Europe</line>
+			<start>Berlin</start>
+			<name>Train#2</name>
+			<direction>forward</direction>
+		</train>
+		<train>
+			<type>SmallPassenger</type>
+			<line>East West</line>
+			<start>Budapest</start>
+			<name>Pets</name>
+			<direction>forward</direction>
+		</train>
 
 
 	</trains>

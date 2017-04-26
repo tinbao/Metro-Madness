@@ -42,28 +42,32 @@ public class PassengerGenerator {
 		// Pick a random station from the line
 		Line l = this.lines.get(random.nextInt(this.lines.size()));
 		int currentStation = l.stations.indexOf(this.s);
-		boolean forward = random.nextBoolean();
-		
-		// If we are the end of the line then set our direction forward or backward
-		if(currentStation == 0){
-			forward = true;
-		} else if (currentStation == l.stations.size()-1){
-			forward = false;
-		}
 		
 		// Find the station
 		int index = 0;
-		boolean found = true;
 		
 		String stationType = l.stations.get(currentStation).type;
+		String stationName = l.stations.get(currentStation).name;
 		
-		if (forward){
-			index = random.nextInt(l.stations.size()-1-currentStation) + currentStation + 1;
-		} else {
-			index = currentStation - 1 - random.nextInt(currentStation);
+		ArrayList<Station> cargoStations = new ArrayList<Station>();
+		ArrayList<Station> activeStations = new ArrayList<Station>();
+		
+		for(Station station : l.stations){
+			if(station.type.equals("Cargo") && !station.name.equals(stationName)){
+				cargoStations.add(station);
+			} else if (station.type.equals("Active") && !station.name.equals(stationName)) {
+				activeStations.add(station);
+			}
 		}
 		
-		Station s = l.stations.get(index);
+		Station s = null;
+		if(stationType.equals("Cargo")){
+			index = random.nextInt(cargoStations.size());
+			s = cargoStations.get(index);
+		} else if (stationType.equals("Active")) {
+			index = random.nextInt(activeStations.size());
+			s = activeStations.get(index);
+		}
 		
 		return this.s.generatePassenger(idGen++, random, s);
 	}
