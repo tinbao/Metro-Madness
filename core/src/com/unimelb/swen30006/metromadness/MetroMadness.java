@@ -30,6 +30,8 @@ public class MetroMadness extends ApplicationAdapter {
     private static final float CAM_MAX = 2f;
     private static final float CAM_ZOOM = 0.1f;
     private static final float CAM_TRANSLATE = 3f;
+    
+    private static final int WHITE = 1;
 
     // Viewport state
     private int VIEWPORT_WIDTH=200;
@@ -89,7 +91,7 @@ public class MetroMadness extends ApplicationAdapter {
 	@Override
 	public void render () {
 		// Clear the graphics to white
-		Gdx.gl.glClearColor(1, 1, 1, 1);
+		Gdx.gl.glClearColor(WHITE, WHITE, WHITE, WHITE);
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 		
 		// Handle user input

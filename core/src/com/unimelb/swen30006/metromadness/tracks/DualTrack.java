@@ -7,6 +7,10 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class DualTrack extends Track {
+	
+	private static final float TRACK_COLOR = 245f/255f;
+	private static final float TRACK_COLOR_ALPHA = 0.5f;
+	private static final float RECT_FACTOR = 3;
 
 	public boolean forwardOccupied;
 	public boolean backwardOccupied;
@@ -19,8 +23,9 @@ public class DualTrack extends Track {
 	
 	public void render(ShapeRenderer renderer){
 		renderer.rectLine(startPos.x, startPos.y, endPos.x, endPos.y, LINE_WIDTH);
-		renderer.setColor(new Color(245f/255f,245f/255f,245f/255f,0.5f).lerp(this.trackColour, 0.5f));
-		renderer.rectLine(startPos.x, startPos.y, endPos.x, endPos.y, LINE_WIDTH/3);
+		renderer.setColor(new Color(TRACK_COLOR,TRACK_COLOR,TRACK_COLOR,TRACK_COLOR_ALPHA).
+				lerp(this.trackColour, TRACK_COLOR_ALPHA));
+		renderer.rectLine(startPos.x, startPos.y, endPos.x, endPos.y, LINE_WIDTH/RECT_FACTOR);
 		renderer.setColor(this.trackColour);
 	}
 	

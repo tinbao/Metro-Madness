@@ -26,6 +26,9 @@ import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class MapReader {
 	
+	private static final int X_MAX = 8;
+	private static final int Y_MAX = 8;
+	
 	private static final float COLOR_UPPER = 255f;
 	private static final float COLOR_LOWER = 1f;
 
@@ -127,8 +130,8 @@ public class MapReader {
 	private Station processStation(Element e){
 		String type = e.get("type");
 		String name = e.get("name");
-		int x_loc = e.getInt("x_loc")/8;
-		int y_loc = e.getInt("y_loc")/8;
+		int x_loc = e.getInt("x_loc")/X_MAX;
+		int y_loc = e.getInt("y_loc")/Y_MAX;
 		String router = e.get("router");
 		PassengerRouter r = createRouter(router);
 		int maxPax = e.getInt("max_passengers");
