@@ -2,37 +2,58 @@ package com.unimelb.swen30006.metromadness.stations;
 
 import java.awt.geom.Point2D;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.Random;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.unimelb.swen30006.metromadness.passengers.Passenger;
+import com.unimelb.swen30006.metromadness.passengers.PassengerGenerator;
 import com.unimelb.swen30006.metromadness.routers.PassengerRouter;
 import com.unimelb.swen30006.metromadness.tracks.Line;
 import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class Station {
 	
+	public enum StationType {
+		ACTIVE, CARGO, OTHER
+	}
+	
 	public static final int PLATFORMS=2;
 	
-	public Point2D.Float position;
-	public static final float RADIUS=6;
-	public static final int NUM_CIRCLE_STATMENTS=100;
-	public static final int MAX_LINES=3;
+	// Logger
+	private static Logger logger = LogManager.getLogger();
+	
 	public String name;
-	public String type;
-	public ArrayList<Line> lines;
-	public ArrayList<Train> trains;
-	public static final float DEPARTURE_TIME = 2;
-	public PassengerRouter router;
-
-	public Station(float x, float y, PassengerRouter router, String name, String type){
+	public StationType type;
+	public Point2D.Float position;
+	
+	protected PassengerGenerator g;
+	protected PassengerRouter router;
+	protected float maxVolume;
+	
+	protected static final float RADIUS=6;
+	protected static final int NUM_CIRCLE_STATMENTS=100;
+	protected static final int MAX_LINES=3;
+	protected static final float DEPARTURE_TIME = 2;
+	
+	protected ArrayList<Line> lines;
+	protected ArrayList<Train> trains;
+	protected ArrayList<Passenger> waiting;
+	
+	public Station(float x, float y, PassengerRouter router, String name, StationType type, float maxPax){
 		this.name = name;
 		this.type = type;
 		this.router = router;
 		this.position = new Point2D.Float(x,y);
 		this.lines = new ArrayList<Line>();
 		this.trains = new ArrayList<Train>();
+		this.waiting = new ArrayList<Passenger>();
+		this.g = new PassengerGenerator(this, this.lines, maxPax);
+		this.maxVolume = maxPax;
 	}
 	
 	public void registerLine(Line l){
@@ -59,7 +80,38 @@ public class Station {
 		if(trains.size() >= PLATFORMS){
 			throw new Exception();
 		} else {
+			// Add the train
 			this.trains.add(t);
+			// Add the waiting passengers
+			Iterator<Passenger> pIter = this.waiting.iterator();
+			while(pIter.hasNext()){
+				Passenger p = pIter.next();
+				try {
+					logger.info("Passenger "+p.id+" carrying "+p.cargo.weight +" kg cargo embarking at "
+							+this.name+" heading to "+p.destination.name);
+					t.embark(p, this.type);
+					pIter.remove();
+				} catch (Exception e){
+					// Do nothing, already waiting
+					break;
+				}
+			}
+			
+			//Do not add new passengers if there are too many already
+			if (this.waiting.size() > maxVolume){
+				return;
+			}
+			// Add the new passenger
+			Passenger[] ps = this.g.generatePassengers();
+			for(Passenger p: ps){
+				try {
+					logger.info("Passenger "+p.id+" carrying "+p.cargo.weight +" kg embarking at "
+							+this.name+" heading to "+p.destination.name);
+					t.embark(p, this.type);
+				} catch(Exception e){
+					this.waiting.add(p);
+				}
+			}
 		}
 	}
 	
@@ -94,6 +146,4 @@ public class Station {
 	public Passenger generatePassenger(int id, Random random, Station s) {
 		return new Passenger(id, random, this, s);
 	}
-	
-	
 }

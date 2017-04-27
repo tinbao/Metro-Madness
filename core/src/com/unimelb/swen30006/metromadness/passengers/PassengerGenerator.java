@@ -3,9 +3,8 @@ package com.unimelb.swen30006.metromadness.passengers;
 import java.util.ArrayList;
 import java.util.Random;
 
-import com.unimelb.swen30006.metromadness.stations.ActiveStation;
-import com.unimelb.swen30006.metromadness.stations.CargoStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
+import com.unimelb.swen30006.metromadness.stations.Station.StationType;
 import com.unimelb.swen30006.metromadness.tracks.Line;
 
 public class PassengerGenerator {
@@ -48,7 +47,7 @@ public class PassengerGenerator {
 		int index = 0;
 		
 		// Data of the current station
-		String stationType = l.stations.get(currentStation).type;
+		StationType stationType = l.stations.get(currentStation).type;
 		String stationName = l.stations.get(currentStation).name;
 		
 		ArrayList<Station> cargoStations = new ArrayList<Station>();
@@ -56,10 +55,10 @@ public class PassengerGenerator {
 		
 		// Creates a two lists of active and cargo stations except its own
 		for(Station station : l.stations){
-			if(station.type.equals(CargoStation.STATION_TYPE) 
+			if(station.type == StationType.CARGO
 					&& !station.name.equals(stationName)){
 				cargoStations.add(station);
-			} else if (station.type.equals(ActiveStation.STATION_TYPE) 
+			} else if (station.type == StationType.ACTIVE
 					&& !station.name.equals(stationName)) {
 				activeStations.add(station);
 			}

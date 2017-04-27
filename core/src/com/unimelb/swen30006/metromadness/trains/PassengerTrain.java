@@ -4,30 +4,27 @@ import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.unimelb.swen30006.metromadness.passengers.Passenger;
 import com.unimelb.swen30006.metromadness.stations.Station;
+import com.unimelb.swen30006.metromadness.stations.Station.StationType;
 import com.unimelb.swen30006.metromadness.tracks.Line;
 
 public class PassengerTrain extends Train {
 	
-	// size of the train
-	Size size;
-	public final static String TYPE = "Passenger";
-
-	public PassengerTrain(Line trainLine, Station start, boolean forward, String name, Size size) {
-		super(trainLine, start, forward, name);
-		this.size = size;
+	public final static TrainType TYPE = TrainType.PASSENGER;
+	
+	public PassengerTrain(Line trainLine, Station start, boolean forward, String name, TrainSize size) {
+		super(trainLine, start, forward, name, TYPE, size);
 	}
 	
 	@Override
-	public void embark(Passenger p, String stationType) throws Exception {
-		if (stationType.equals("Active")) {
-			if (p.getCargo().getWeight() == 0 && this.passengers.size() + 1 <= size.capacity) {
+	public void embark(Passenger p, StationType stationType) throws Exception {
+		if (stationType == StationType.ACTIVE) { 
+			if(p.cargo.weight == 0 
+					&& this.passengers.size() + 1 <= size.capacity) {
 				passengers.add(p);
-			} else {
-				throw new Exception();
 			}
-		} else {
-			throw new Exception();
+			else { return; }
 		}
+		else { throw new Exception(); }
 	}
 	
 	@Override

@@ -2,8 +2,8 @@ package com.unimelb.swen30006.metromadness.passengers;
 
 import java.util.Random;
 
-import com.unimelb.swen30006.metromadness.stations.ActiveStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
+import com.unimelb.swen30006.metromadness.stations.Station.StationType;
 
 public class Passenger {
 	
@@ -35,21 +35,17 @@ public class Passenger {
 	}
 	public Cargo generateCargo(Random random){
 		// Assumption that passengers at Active stations have no cargo
-		if(this.beginning.type.equals(ActiveStation.STATION_TYPE)){
+		if(this.beginning.type == StationType.ACTIVE){
 			return new Cargo(NO_CARGO);
 		}
 		return new Cargo(random.nextInt(51));
 	}
 	
 	public class Cargo{
-		private int weight;
+		public int weight;
 		
 		public Cargo(int weight){
 			this.setWeight(weight);
-		}
-
-		public int getWeight() {
-			return weight;
 		}
 
 		public void setWeight(int weight) {

@@ -16,16 +16,18 @@ import com.badlogic.gdx.utils.XmlReader.Element;
 // The things we are generating
 import com.unimelb.swen30006.metromadness.routers.PassengerRouter;
 import com.unimelb.swen30006.metromadness.routers.SimpleRouter;
-import com.unimelb.swen30006.metromadness.stations.ActiveStation;
-import com.unimelb.swen30006.metromadness.stations.CargoStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
+import com.unimelb.swen30006.metromadness.stations.Station.StationType;
 import com.unimelb.swen30006.metromadness.tracks.Line;
 import com.unimelb.swen30006.metromadness.trains.CargoTrain;
 import com.unimelb.swen30006.metromadness.trains.PassengerTrain;
-import com.unimelb.swen30006.metromadness.trains.Size;
+import com.unimelb.swen30006.metromadness.trains.TrainSize;
 import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class MapReader {
+	
+	private static final float COLOR_UPPER = 255f;
+	private static final float COLOR_LOWER = 1f;
 
 	public ArrayList<Train> trains;
 	public HashMap<String, Station> stations;
@@ -110,15 +112,16 @@ public class MapReader {
 		Station s = this.stations.get(start);
 		
 		// Make the train
-		if(type.equals("BigPassenger")){
-			return new PassengerTrain(l,s,dir,name, Size.BIG);
+		if(type.equals("BigPassenger")) {
+			return new PassengerTrain(l,s,dir,name, TrainSize.BIG_P);
 		} else if (type.equals("SmallPassenger")){
-			return new PassengerTrain(l,s,dir,name, Size.SMALL);
+			return new PassengerTrain(l,s,dir,name, TrainSize.SMALL_P);
 		} else if (type.equals("BigCargo")) {
-			return new CargoTrain(l, s, dir,name, Size.BIG);
-		} else {
-			return new CargoTrain(l, s, dir, name, Size.SMALL);
+			return new CargoTrain(l, s, dir,name, TrainSize.BIG_C);
+		} else if (type.equals("SmallCargo")) {
+			return new CargoTrain(l, s, dir, name, TrainSize.SMALL_C);
 		}
+		throw new Error("No such train types");
 	}
 
 	private Station processStation(Element e){
@@ -130,11 +133,11 @@ public class MapReader {
 		PassengerRouter r = createRouter(router);
 		int maxPax = e.getInt("max_passengers");
 		if(type.equals("Cargo")){
-			return new CargoStation(x_loc, y_loc, r, name, maxPax, type);
+			return new Station(x_loc, y_loc, r, name, StationType.CARGO, maxPax);
 		} else if (type.equals("Active")){
-			return new ActiveStation(x_loc, y_loc, r, name, maxPax, type);
+			return new Station(x_loc, y_loc, r, name, StationType.ACTIVE, maxPax);
 		} else{
-			return new Station(x_loc,y_loc,r,name,type);
+			return new Station(x_loc, y_loc, r, name, StationType.OTHER, maxPax);
 		}
 	}
 
@@ -162,10 +165,10 @@ public class MapReader {
 	}
 	
 	private Color extractColour(Element e){
-		float red = e.getFloat("red")/255f;
-		float green = e.getFloat("green")/255f;
-		float blue = e.getFloat("blue")/255f;
-		return new Color(red, green, blue, 1f);
+		float red = e.getFloat("red")/COLOR_UPPER;
+		float green = e.getFloat("green")/COLOR_UPPER;
+		float blue = e.getFloat("blue")/COLOR_UPPER;
+		return new Color(red, green, blue, COLOR_LOWER);
 	}
 
 }

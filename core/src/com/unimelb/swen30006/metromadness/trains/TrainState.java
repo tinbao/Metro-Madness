@@ -15,31 +15,31 @@ enum TrainState {
 			Logger logger = LogManager.getLogger();
 			
 			if(hasChanged(t)){
-				logger.info(t.name+" is in "+ t.getStation().name+" Station.");
+				logger.info(t.name+" is in "+ t.station.name+" Station.");
 			}
 			
 			// When in station we want to disembark passengers 
 			// and wait 10 seconds for incoming passengers
 			if(!t.isDisembarked()){
 				t.disembark();
-				t.setDepartureTimer(t.getStation().getDepartureTime());
+				t.setDepartureTimer(t.station.getDepartureTime());
 				t.setDisembarked(true);
 			} else {
 				// Checks if the station is the correct type of train
-				if(t.getStation().type.equals(CargoTrain.TYPE) && t.getDepartureTimer() > 0){
+				if(t.station.type.equals(CargoTrain.TYPE) && t.departureTimer > 0){
 					t.setDepartureTimer(0);
 				
 				// Count down if departure timer. 
-				} else if(t.getDepartureTimer() > 0){
-					t.setDepartureTimer(t.getDepartureTimer() - delta);
+				} else if(t.departureTimer > 0){
+					t.setDepartureTimer(t.departureTimer - delta);
 						
 				} else {
 					// We are ready to depart, find the next track and wait until we can enter 
-					boolean endOfLine = t.getTrainLine().endOfLine(t.getStation());
+					boolean endOfLine = t.trainLine.endOfLine(t.station);
 					if(endOfLine){
 						t.setForward(!t.isForward());
 					}
-					t.setTrack(t.getTrainLine().nextTrack(t.getStation(), t.isForward()));
+					t.setTrack(t.trainLine.nextTrack(t.station, t.isForward()));
 					return READY_DEPART;
 				}
 			}
@@ -54,16 +54,16 @@ enum TrainState {
 			Logger logger = LogManager.getLogger();
 			
 			if(hasChanged(t)){
-				logger.info(t.name+ " is ready to depart for "+t.getStation().name+" Station!");
+				logger.info(t.name+ " is ready to depart for "+t.station.name+" Station!");
 			}
 			
-			if(t.getTrack().canEnter(t.isForward())){
+			if(t.track.canEnter(t.isForward())){
 				// Find the next
-				t.getTrainLine().nextStation(t.getStation(), t.isForward());
+				t.trainLine.nextStation(t.station, t.isForward());
 				// Depart our current station
-				t.getStation().depart(t);
-				t.setStation(t.getTrainLine().nextStation(t.getStation(), t.isForward()));
-				t.getTrack().enter(t);
+				t.station.depart(t);
+				t.setStation(t.trainLine.nextStation(t.station, t.isForward()));
+				t.track.enter(t);
 				return ON_ROUTE;
 			}
 			return READY_DEPART;
@@ -77,10 +77,10 @@ enum TrainState {
 			Logger logger = LogManager.getLogger();
 			
 			if(hasChanged(t)){
-				logger.info(t.name+ " enroute to "+t.getStation().name+" Station!");
+				logger.info(t.name+ " enroute to "+t.station.name+" Station!");
 			}
 			// Checkout if we have reached the new station
-			if(t.getPos().distance(t.getStation().position) < 10 ){
+			if(t.getPos().distance(t.station.position) < 10 ){
 				return WAITING_ENTRY;
 			}
 			return ON_ROUTE;
@@ -95,20 +95,20 @@ enum TrainState {
 			Logger logger = LogManager.getLogger();
 			
 			if(hasChanged(t)){
-				logger.info(t.name+ " is awaiting entry "+t.getStation().name+" Station..!");
+				logger.info(t.name+ " is awaiting entry "+t.station.name+" Station..!");
 			}
 			
-			if(t.getStation().canEnter(t.getTrainLine())){
-				if(!t.getStation().type.equals(CargoTrain.TYPE)) {
+			if(t.station.canEnter(t.trainLine)){
+				if(!t.station.type.equals(CargoTrain.TYPE)) {
 					t.setDisembarked(false);
-				} else if (!t.getStation().type.equals("Active")) {
+				} else if (!t.station.type.equals("Active")) {
 					t.setDisembarked(false);
 				} else {
 					t.setDisembarked(true);
 				}
-				t.getTrack().leave(t);
-				t.setPos((Point2D.Float) t.getStation().position.clone());
-				t.getStation().enter(t);
+				t.track.leave(t);
+				t.setPos((Point2D.Float) t.station.position.clone());
+				t.station.enter(t);
 				return IN_STATION;
 			} else {
 				return WAITING_ENTRY;
@@ -125,14 +125,14 @@ enum TrainState {
 			Logger logger = LogManager.getLogger();
 			
 			if(hasChanged(t)){
-				logger.info(t.name+ " is travelling from the depot: "+t.getStation().name+" Station...");
+				logger.info(t.name+ " is travelling from the depot: "+t.station.name+" Station...");
 			}
 			
 			// We have our station initialized we just need to retrieve the next track, enter the
 			// current station officially and mark as in station
-			if(t.getStation().canEnter(t.getTrainLine())){
-				t.getStation().enter(t);
-				t.setPos((Point2D.Float) t.getStation().position.clone());
+			if(t.station.canEnter(t.trainLine)){
+				t.station.enter(t);
+				t.setPos((Point2D.Float) t.station.position.clone());
 				t.setDisembarked(false);
 				return IN_STATION;
 			}
@@ -155,8 +155,8 @@ enum TrainState {
 	 * @return true or false whether this is correct or not
 	 */
 	static boolean hasChanged(Train t) {
-		TrainState prev = t.getPreviousState();
-		TrainState curr = t.getState();
+		TrainState prev = t.previousState;
+		TrainState curr = t.state;
 		
 		if(prev == null || prev != curr){
 			t.setPreviousState(curr);

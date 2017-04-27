@@ -7,9 +7,12 @@ import com.badlogic.gdx.graphics.Color;
  * New sizes can be easily added to the enumerated list
  *
  */
-public enum Size {
-	BIG (80, 200, Color.LIGHT_GRAY, 20f),
-	SMALL (10, 100, Color.MAROON, 10f);
+public enum TrainSize {
+	// 		(capacity, luggage, color, circleSpec)
+	BIG_P 	(80, 0	, Color.LIGHT_GRAY	, 20f),
+	SMALL_P	(10, 0	, Color.MAROON		, 10f),
+	BIG_C 	(80, 200, Color.LIGHT_GRAY	, 20f),
+	SMALL_C	(10, 100, Color.MAROON		, 10f);
 	
 	/** How many passengers it can hold */
 	public final int capacity;	
@@ -20,7 +23,7 @@ public enum Size {
 	/** dividing constant to determine color interpolation and size */
 	public final float circleSpec;	
 	
-	Size(int capacity, int luggage, Color color, float circleSpec) {
+	TrainSize(int capacity, int luggage, Color color, float circleSpec) {
 		this.capacity = capacity;
 		this.luggage = luggage;
 		this.color = color;
