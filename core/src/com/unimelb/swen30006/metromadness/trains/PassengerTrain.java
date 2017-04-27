@@ -11,21 +11,6 @@ public class PassengerTrain extends Train {
 	// size of the train
 	Size size;
 	public final static String TYPE = "Passenger";
-	
-	public enum Size {
-		BIG (80, Color.LIGHT_GRAY, 20f),
-		SMALL (10, Color.MAROON, 10f);
-		
-		private final int capacity;	// how many passengers it can hold
-		private final Color color;	// color rendered
-		private final float circleSpec;	// dividing constant to determine color interpolation and size
-		
-		Size(int capacity, Color color, float circleSpec) {
-			this.capacity = capacity;
-			this.color = color;
-			this.circleSpec = circleSpec;
-		}
-	}
 
 	public PassengerTrain(Line trainLine, Station start, boolean forward, String name, Size size) {
 		super(trainLine, start, forward, name);

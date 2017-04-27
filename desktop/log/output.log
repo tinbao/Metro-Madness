@@ -28846,3 +28846,1574 @@
 2017-04-27 04:26:28 INFO  ActiveStation - Passenger 125 carrying 0 kg embarking at North Melbourne heading to Southern Cross
 2017-04-27 04:26:28 INFO  ActiveStation - Passenger 126 carrying 0 kg embarking at North Melbourne heading to Southern Cross
 2017-04-27 04:26:28 INFO  TrainState$1 - Orient Express is in North Melbourne Station.
+2017-04-27 10:51:40 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Rosanna Station...
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 1 carrying 0 kg embarking at Rosanna heading to Flagstaff
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 2 carrying 0 kg embarking at Rosanna heading to Jolimont
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 3 carrying 0 kg embarking at Rosanna heading to Fairfield
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 4 carrying 0 kg embarking at Rosanna heading to Jolimont
+2017-04-27 10:51:40 INFO  TrainState$5 - Flying Scotsman is travelling from the depot: Camberwell Station...
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 5 carrying 0 kg embarking at Camberwell heading to Flagstaff
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 6 carrying 0 kg embarking at Camberwell heading to Belgrave
+2017-04-27 10:51:40 INFO  TrainState$5 - Orient Express is travelling from the depot: Upfield Station...
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 7 carrying 0 kg embarking at Upfield heading to North Melbourne
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 8 carrying 0 kg embarking at Upfield heading to Macaulay
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 9 carrying 0 kg embarking at Upfield heading to Melbourne Central
+2017-04-27 10:51:40 INFO  TrainState$5 - Amtrak is travelling from the depot: Williamstown Station...
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 10 carrying 0 kg embarking at Williamstown heading to North Melbourne
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 11 carrying 0 kg embarking at Williamstown heading to Melbourne Central
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 12 carrying 0 kg embarking at Williamstown heading to Footscray
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 13 carrying 0 kg embarking at Williamstown heading to Southern Cross
+2017-04-27 10:51:40 INFO  TrainState$5 - FOB is travelling from the depot: Glen Waverley Station...
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 14 carrying 0 kg embarking at Glen Waverley heading to Flinders St
+2017-04-27 10:51:40 INFO  ActiveStation - Passenger 15 carrying 0 kg embarking at Glen Waverley heading to Flagstaff
+2017-04-27 10:51:40 INFO  TrainState$1 - Thomas the Tank Engine is in Rosanna Station.
+2017-04-27 10:51:40 INFO  TrainState$1 - Flying Scotsman is in Camberwell Station.
+2017-04-27 10:51:40 INFO  TrainState$1 - Orient Express is in Upfield Station.
+2017-04-27 10:51:40 INFO  TrainState$1 - Amtrak is in Williamstown Station.
+2017-04-27 10:51:40 INFO  TrainState$1 - FOB is in Glen Waverley Station.
+2017-04-27 10:51:42 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Rosanna Station!
+2017-04-27 10:51:42 INFO  TrainState$2 - Flying Scotsman is ready to depart for Camberwell Station!
+2017-04-27 10:51:42 INFO  TrainState$2 - Orient Express is ready to depart for Upfield Station!
+2017-04-27 10:51:42 INFO  TrainState$2 - Amtrak is ready to depart for Williamstown Station!
+2017-04-27 10:51:42 INFO  TrainState$2 - FOB is ready to depart for Glen Waverley Station!
+2017-04-27 10:51:42 INFO  TrainState$3 - Thomas the Tank Engine enroute to Greensborough Station!
+2017-04-27 10:51:42 INFO  TrainState$3 - Flying Scotsman enroute to Ringwood Station!
+2017-04-27 10:51:42 INFO  TrainState$3 - Orient Express enroute to Macaulay Station!
+2017-04-27 10:51:42 INFO  TrainState$3 - Amtrak enroute to Newport Station!
+2017-04-27 10:51:42 INFO  TrainState$3 - FOB enroute to Burnley Station!
+2017-04-27 10:51:43 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Greensborough Station..!
+2017-04-27 10:51:43 INFO  ActiveStation - Passenger 16 carrying 0 kg embarking at Greensborough heading to Jolimont
+2017-04-27 10:51:43 INFO  TrainState$1 - Thomas the Tank Engine is in Greensborough Station.
+2017-04-27 10:51:43 INFO  TrainState$4 - Amtrak is awaiting entry Newport Station..!
+2017-04-27 10:51:43 INFO  ActiveStation - Passenger 17 carrying 0 kg embarking at Newport heading to Werribee
+2017-04-27 10:51:43 INFO  ActiveStation - Passenger 18 carrying 0 kg embarking at Newport heading to North Melbourne
+2017-04-27 10:51:43 INFO  ActiveStation - Passenger 19 carrying 0 kg embarking at Newport heading to North Melbourne
+2017-04-27 10:51:43 INFO  ActiveStation - Passenger 20 carrying 0 kg embarking at Newport heading to Melbourne Central
+2017-04-27 10:51:43 INFO  TrainState$1 - Amtrak is in Newport Station.
+2017-04-27 10:51:45 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Greensborough Station!
+2017-04-27 10:51:45 INFO  TrainState$3 - Thomas the Tank Engine enroute to Eltham Station!
+2017-04-27 10:51:45 INFO  TrainState$2 - Amtrak is ready to depart for Newport Station!
+2017-04-27 10:51:45 INFO  TrainState$3 - Amtrak enroute to Footscray Station!
+2017-04-27 10:51:45 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Eltham Station..!
+2017-04-27 10:51:45 INFO  ActiveStation - Passenger 21 carrying 0 kg embarking at Eltham heading to Jolimont
+2017-04-27 10:51:45 INFO  TrainState$1 - Thomas the Tank Engine is in Eltham Station.
+2017-04-27 10:51:46 INFO  TrainState$4 - Orient Express is awaiting entry Macaulay Station..!
+2017-04-27 10:51:46 INFO  ActiveStation - Passenger 22 carrying 0 kg embarking at Macaulay heading to Southern Cross
+2017-04-27 10:51:46 INFO  ActiveStation - Passenger 23 carrying 0 kg embarking at Macaulay heading to Upfield
+2017-04-27 10:51:46 INFO  TrainState$4 - FOB is awaiting entry Burnley Station..!
+2017-04-27 10:51:46 INFO  ActiveStation - Passenger 24 carrying 0 kg embarking at Burnley heading to Flagstaff
+2017-04-27 10:51:46 INFO  ActiveStation - Passenger 25 carrying 0 kg embarking at Burnley heading to Flinders St
+2017-04-27 10:51:46 INFO  ActiveStation - Passenger 26 carrying 0 kg embarking at Burnley heading to Melbourne Central
+2017-04-27 10:51:46 INFO  TrainState$1 - Orient Express is in Macaulay Station.
+2017-04-27 10:51:46 INFO  TrainState$1 - FOB is in Burnley Station.
+2017-04-27 10:51:46 INFO  TrainState$4 - Flying Scotsman is awaiting entry Ringwood Station..!
+2017-04-27 10:51:46 INFO  ActiveStation - Passenger 27 carrying 0 kg embarking at Ringwood heading to Lilydale
+2017-04-27 10:51:46 INFO  TrainState$1 - Flying Scotsman is in Ringwood Station.
+2017-04-27 10:51:47 INFO  TrainState$4 - Amtrak is awaiting entry Footscray Station..!
+2017-04-27 10:51:47 INFO  ActiveStation - Passenger 28 carrying 0 kg embarking at Footscray heading to Southern Cross
+2017-04-27 10:51:47 INFO  TrainState$1 - Amtrak is in Footscray Station.
+2017-04-27 10:51:47 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Eltham Station!
+2017-04-27 10:51:47 INFO  TrainState$3 - Thomas the Tank Engine enroute to Hurstbridge Station!
+2017-04-27 10:51:48 INFO  TrainState$2 - Orient Express is ready to depart for Macaulay Station!
+2017-04-27 10:51:48 INFO  TrainState$2 - FOB is ready to depart for Burnley Station!
+2017-04-27 10:51:48 INFO  TrainState$3 - Orient Express enroute to North Melbourne Station!
+2017-04-27 10:51:48 INFO  TrainState$3 - FOB enroute to Richmond Station!
+2017-04-27 10:51:48 INFO  TrainState$2 - Flying Scotsman is ready to depart for Ringwood Station!
+2017-04-27 10:51:48 INFO  TrainState$3 - Flying Scotsman enroute to Belgrave Station!
+2017-04-27 10:51:48 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Hurstbridge Station..!
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 29 carrying 0 kg embarking at Hurstbridge heading to Eltham
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 30 carrying 0 kg embarking at Hurstbridge heading to Greensborough
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 31 carrying 0 kg embarking at Hurstbridge heading to Melbourne Central
+2017-04-27 10:51:48 INFO  TrainState$1 - Thomas the Tank Engine is in Hurstbridge Station.
+2017-04-27 10:51:48 INFO  TrainState$4 - Orient Express is awaiting entry North Melbourne Station..!
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 32 carrying 0 kg embarking at North Melbourne heading to Southern Cross
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 33 carrying 0 kg embarking at North Melbourne heading to Melbourne Central
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 34 carrying 0 kg embarking at North Melbourne heading to Newport
+2017-04-27 10:51:48 INFO  ActiveStation - Passenger 35 carrying 0 kg embarking at North Melbourne heading to Macaulay
+2017-04-27 10:51:48 INFO  TrainState$1 - Orient Express is in North Melbourne Station.
+2017-04-27 10:51:49 INFO  TrainState$4 - FOB is awaiting entry Richmond Station..!
+2017-04-27 10:51:49 INFO  ActiveStation - Passenger 36 carrying 0 kg embarking at Richmond heading to Southern Cross
+2017-04-27 10:51:49 INFO  ActiveStation - Passenger 37 carrying 0 kg embarking at Richmond heading to Melbourne Central
+2017-04-27 10:51:49 INFO  TrainState$1 - FOB is in Richmond Station.
+2017-04-27 10:51:49 INFO  TrainState$2 - Amtrak is ready to depart for Footscray Station!
+2017-04-27 10:51:49 INFO  TrainState$3 - Amtrak enroute to North Melbourne Station!
+2017-04-27 10:52:02 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-27 10:52:02 INFO  ActiveStation - Passenger 1 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 10:52:02 INFO  ActiveStation - Passenger 2 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 10:52:02 INFO  ActiveStation - Passenger 3 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 10:52:02 INFO  ActiveStation - Passenger 4 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 10:52:02 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-27 10:52:02 INFO  CargoStation - Passenger 5 carrying 13 kg embarking at Bucharest heading to Berlin
+2017-04-27 10:52:02 INFO  CargoStation - Passenger 6 carrying 29 kg embarking at Bucharest heading to Berlin
+2017-04-27 10:52:02 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-27 10:52:02 INFO  CargoStation - Passenger 7 carrying 34 kg embarking at Glasgow heading to Manchester
+2017-04-27 10:52:02 INFO  TrainState$5 - Train#2 is travelling from the depot: Berlin Station...
+2017-04-27 10:52:02 INFO  CargoStation - Passenger 8 carrying 21 kg embarking at Berlin heading to Bucharest
+2017-04-27 10:52:02 INFO  CargoStation - Passenger 9 carrying 40 kg embarking at Berlin heading to Vienna
+2017-04-27 10:52:02 INFO  TrainState$5 - Pets is travelling from the depot: Budapest Station...
+2017-04-27 10:52:02 INFO  ActiveStation - Passenger 10 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 10:52:02 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 10:52:02 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-27 10:52:02 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 10:52:02 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 10:52:02 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 10:52:02 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-27 10:52:02 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 10:52:02 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 10:52:02 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 10:52:02 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 10:52:02 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 10:52:03 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 10:52:03 INFO  ActiveStation - Passenger 11 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 10:52:03 INFO  ActiveStation - Passenger 12 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 10:52:03 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 10:52:04 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 10:52:04 INFO  ActiveStation - Passenger 13 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 10:52:04 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 10:52:04 INFO  CargoStation - Passenger 14 carrying 27 kg embarking at Manchester heading to Glasgow
+2017-04-27 10:52:04 INFO  CargoStation - Passenger 15 carrying 38 kg embarking at Manchester heading to Glasgow
+2017-04-27 10:52:04 INFO  CargoStation - Passenger 16 carrying 39 kg embarking at Manchester heading to London
+2017-04-27 10:52:04 INFO  CargoStation - Passenger 17 carrying 0 kg embarking at Manchester heading to Glasgow
+2017-04-27 10:52:04 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 10:52:04 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 10:52:04 INFO  Train - Passenger 7 is disembarking at Manchester
+2017-04-27 10:52:04 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 10:52:04 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 10:52:04 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-27 10:52:04 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 10:52:04 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 10:52:04 INFO  TrainState$3 - Pets enroute to Bucharest Station!
+2017-04-27 10:52:05 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 10:52:05 INFO  CargoStation - Passenger 18 carrying 9 kg embarking at London heading to Berlin
+2017-04-27 10:52:05 INFO  CargoStation - Passenger 19 carrying 40 kg embarking at London heading to Glasgow
+2017-04-27 10:52:05 INFO  CargoStation - Passenger 20 carrying 22 kg embarking at London heading to Berlin
+2017-04-27 10:52:05 INFO  CargoStation - Passenger 21 carrying 29 kg embarking at London heading to Berlin
+2017-04-27 10:52:05 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 10:52:05 INFO  Train - Passenger 16 is disembarking at London
+2017-04-27 10:52:05 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 10:52:05 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 10:52:05 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 10:52:05 INFO  CargoStation - Passenger 22 carrying 47 kg embarking at London heading to Berlin
+2017-04-27 10:52:05 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 10:52:05 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 10:52:05 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 10:52:05 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 10:52:05 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 10:52:06 INFO  TrainState$4 - Pets is awaiting entry Bucharest Station..!
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 23 carrying 12 kg embarking at Bucharest heading to Berlin
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 24 carrying 7 kg embarking at Bucharest heading to Berlin
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 25 carrying 49 kg embarking at Bucharest heading to Berlin
+2017-04-27 10:52:06 INFO  TrainState$1 - Pets is in Bucharest Station.
+2017-04-27 10:52:06 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 10:52:06 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 10:52:06 INFO  TrainState$2 - Pets is ready to depart for Bucharest Station!
+2017-04-27 10:52:06 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 10:52:06 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 26 carrying 7 kg embarking at Manchester heading to Glasgow
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 27 carrying 40 kg embarking at Manchester heading to London
+2017-04-27 10:52:06 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 10:52:06 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 10:52:06 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 10:52:06 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 10:52:06 INFO  ActiveStation - Passenger 11 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 10:52:06 INFO  ActiveStation - Passenger 12 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 10:52:06 INFO  ActiveStation - Passenger 28 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 10:52:06 INFO  ActiveStation - Passenger 29 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 10:52:06 INFO  ActiveStation - Passenger 30 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 10:52:06 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 22 carrying 47 kg cargo embarking at London heading to Berlin
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 31 carrying 31 kg embarking at London heading to Berlin
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 32 carrying 42 kg embarking at London heading to Glasgow
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 33 carrying 18 kg embarking at London heading to Berlin
+2017-04-27 10:52:06 INFO  CargoStation - Passenger 34 carrying 1 kg embarking at London heading to Berlin
+2017-04-27 10:52:06 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 10:52:06 INFO  Train - Passenger 1 is disembarking at Amsterdam
+2017-04-27 10:52:06 INFO  Train - Passenger 4 is disembarking at Amsterdam
+2017-04-27 10:52:06 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 10:52:06 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 10:52:06 INFO  TrainState$3 - Train#2 enroute to Paris Station!
+2017-04-27 10:52:07 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 10:52:07 INFO  CargoStation - Passenger 35 carrying 23 kg embarking at Vienna heading to Berlin
+2017-04-27 10:52:07 INFO  CargoStation - Passenger 36 carrying 34 kg embarking at Vienna heading to Bucharest
+2017-04-27 10:52:07 INFO  CargoStation - Passenger 37 carrying 41 kg embarking at Vienna heading to Bucharest
+2017-04-27 10:52:07 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 10:52:07 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 10:52:07 INFO  ActiveStation - Passenger 13 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 10:52:07 INFO  ActiveStation - Passenger 38 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 10:52:07 INFO  ActiveStation - Passenger 39 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 10:52:07 INFO  ActiveStation - Passenger 40 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 10:52:07 INFO  ActiveStation - Passenger 41 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 10:52:07 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 10:52:07 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 10:52:07 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 10:52:07 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 10:52:07 INFO  CargoStation - Passenger 42 carrying 13 kg embarking at Glasgow heading to Manchester
+2017-04-27 10:52:07 INFO  CargoStation - Passenger 43 carrying 20 kg embarking at Glasgow heading to London
+2017-04-27 10:52:07 INFO  CargoStation - Passenger 44 carrying 23 kg embarking at Glasgow heading to London
+2017-04-27 10:52:07 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 10:52:07 INFO  Train - Passenger 14 is disembarking at Glasgow
+2017-04-27 10:52:07 INFO  Train - Passenger 15 is disembarking at Glasgow
+2017-04-27 10:52:07 INFO  Train - Passenger 19 is disembarking at Glasgow
+2017-04-27 10:52:07 INFO  Train - Passenger 26 is disembarking at Glasgow
+2017-04-27 10:52:07 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 10:52:07 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 10:52:07 INFO  TrainState$4 - Train#2 is awaiting entry Paris Station..!
+2017-04-27 10:52:07 INFO  ActiveStation - Passenger 45 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 10:52:07 INFO  TrainState$1 - Train#2 is in Paris Station.
+2017-04-27 14:22:52 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-27 14:22:52 INFO  ActiveStation - Passenger 1 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:22:52 INFO  ActiveStation - Passenger 2 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:22:52 INFO  ActiveStation - Passenger 3 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:22:52 INFO  ActiveStation - Passenger 4 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:22:52 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-27 14:22:52 INFO  CargoStation - Passenger 5 carrying 13 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:22:52 INFO  CargoStation - Passenger 6 carrying 29 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:22:52 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-27 14:22:52 INFO  CargoStation - Passenger 7 carrying 34 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:22:52 INFO  TrainState$5 - Train#2 is travelling from the depot: Berlin Station...
+2017-04-27 14:22:52 INFO  CargoStation - Passenger 8 carrying 21 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:22:52 INFO  CargoStation - Passenger 9 carrying 40 kg embarking at Berlin heading to Vienna
+2017-04-27 14:22:52 INFO  TrainState$5 - Pets is travelling from the depot: Budapest Station...
+2017-04-27 14:22:52 INFO  ActiveStation - Passenger 10 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:22:52 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 14:22:52 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-27 14:22:52 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:22:52 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 14:22:52 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 14:22:52 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-27 14:22:52 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:22:52 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 14:22:52 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:22:52 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 14:22:52 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 14:22:53 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 14:22:53 INFO  ActiveStation - Passenger 11 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:22:53 INFO  ActiveStation - Passenger 12 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:22:53 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 14:22:53 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 14:22:53 INFO  ActiveStation - Passenger 13 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:22:53 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 14:22:53 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:22:53 INFO  CargoStation - Passenger 14 carrying 27 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:22:53 INFO  CargoStation - Passenger 15 carrying 38 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:22:53 INFO  CargoStation - Passenger 16 carrying 39 kg embarking at Manchester heading to London
+2017-04-27 14:22:53 INFO  CargoStation - Passenger 17 carrying 0 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:22:53 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:22:53 INFO  Train - Passenger 7 is disembarking at Manchester
+2017-04-27 14:22:53 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:22:53 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:22:54 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-27 14:22:54 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 14:22:54 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 14:22:54 INFO  TrainState$3 - Pets enroute to Bucharest Station!
+2017-04-27 14:22:54 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:22:54 INFO  CargoStation - Passenger 18 carrying 9 kg embarking at London heading to Berlin
+2017-04-27 14:22:54 INFO  CargoStation - Passenger 19 carrying 40 kg embarking at London heading to Glasgow
+2017-04-27 14:22:54 INFO  CargoStation - Passenger 20 carrying 22 kg embarking at London heading to Berlin
+2017-04-27 14:22:54 INFO  CargoStation - Passenger 21 carrying 29 kg embarking at London heading to Berlin
+2017-04-27 14:22:54 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:22:54 INFO  Train - Passenger 16 is disembarking at London
+2017-04-27 14:22:54 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:22:54 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:22:55 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 22 carrying 47 kg embarking at London heading to Berlin
+2017-04-27 14:22:55 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 14:22:55 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 14:22:55 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 14:22:55 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 14:22:55 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 14:22:55 INFO  TrainState$4 - Pets is awaiting entry Bucharest Station..!
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 23 carrying 12 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 24 carrying 7 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 25 carrying 49 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:22:55 INFO  TrainState$1 - Pets is in Bucharest Station.
+2017-04-27 14:22:55 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 14:22:55 INFO  TrainState$2 - Pets is ready to depart for Bucharest Station!
+2017-04-27 14:22:55 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 14:22:55 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 14:22:55 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 26 carrying 7 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:22:55 INFO  CargoStation - Passenger 27 carrying 40 kg embarking at Manchester heading to London
+2017-04-27 14:22:55 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:22:55 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:22:55 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:22:56 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 11 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 12 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 28 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 29 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 30 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:22:56 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 14:22:56 INFO  Train - Passenger 1 is disembarking at Amsterdam
+2017-04-27 14:22:56 INFO  Train - Passenger 4 is disembarking at Amsterdam
+2017-04-27 14:22:56 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 22 carrying 47 kg cargo embarking at London heading to Berlin
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 31 carrying 31 kg embarking at London heading to Berlin
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 32 carrying 42 kg embarking at London heading to Glasgow
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 33 carrying 18 kg embarking at London heading to Berlin
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 34 carrying 1 kg embarking at London heading to Berlin
+2017-04-27 14:22:56 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 14:22:56 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 14:22:56 INFO  TrainState$3 - Train#2 enroute to Paris Station!
+2017-04-27 14:22:56 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 35 carrying 23 kg embarking at Vienna heading to Berlin
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 36 carrying 34 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:22:56 INFO  CargoStation - Passenger 37 carrying 41 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:22:56 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 13 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 38 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 39 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 40 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:22:56 INFO  ActiveStation - Passenger 41 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:22:56 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 14:22:56 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 14:22:56 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 14:22:56 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 14:22:57 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 42 carrying 13 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 43 carrying 20 kg embarking at Glasgow heading to London
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 44 carrying 23 kg embarking at Glasgow heading to London
+2017-04-27 14:22:57 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:22:57 INFO  Train - Passenger 14 is disembarking at Glasgow
+2017-04-27 14:22:57 INFO  Train - Passenger 15 is disembarking at Glasgow
+2017-04-27 14:22:57 INFO  Train - Passenger 19 is disembarking at Glasgow
+2017-04-27 14:22:57 INFO  Train - Passenger 26 is disembarking at Glasgow
+2017-04-27 14:22:57 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:22:57 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:22:57 INFO  TrainState$4 - Train#2 is awaiting entry Paris Station..!
+2017-04-27 14:22:57 INFO  ActiveStation - Passenger 45 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:22:57 INFO  TrainState$1 - Train#2 is in Paris Station.
+2017-04-27 14:22:57 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 46 carrying 13 kg embarking at Berlin heading to London
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 47 carrying 23 kg embarking at Berlin heading to London
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 48 carrying 12 kg embarking at Berlin heading to Vienna
+2017-04-27 14:22:57 INFO  CargoStation - Passenger 49 carrying 28 kg embarking at Berlin heading to London
+2017-04-27 14:22:57 INFO  TrainState$1 - Vlad the Impalator is in Berlin Station.
+2017-04-27 14:22:57 INFO  Train - Passenger 5 is disembarking at Berlin
+2017-04-27 14:22:57 INFO  Train - Passenger 6 is disembarking at Berlin
+2017-04-27 14:22:57 INFO  Train - Passenger 35 is disembarking at Berlin
+2017-04-27 14:22:57 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-27 14:22:57 INFO  TrainState$3 - Vlad the Impalator enroute to Paris Station!
+2017-04-27 14:22:58 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:22:58 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:22:58 INFO  CargoStation - Passenger 50 carrying 24 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:22:58 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:22:58 INFO  Train - Passenger 42 is disembarking at Manchester
+2017-04-27 14:22:58 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:22:58 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:22:58 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 14:22:58 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-27 14:22:58 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 14:22:58 INFO  TrainState$3 - Pets enroute to Vienna Station!
+2017-04-27 14:22:59 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Paris Station..!
+2017-04-27 14:22:59 INFO  ActiveStation - Passenger 45 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:22:59 INFO  ActiveStation - Passenger 51 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:22:59 INFO  ActiveStation - Passenger 52 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:22:59 INFO  TrainState$1 - Vlad the Impalator is in Paris Station.
+2017-04-27 14:22:59 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 53 carrying 29 kg embarking at Berlin heading to London
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 54 carrying 44 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 55 carrying 40 kg embarking at Berlin heading to London
+2017-04-27 14:22:59 INFO  TrainState$1 - Generic European Train is in Berlin Station.
+2017-04-27 14:22:59 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 56 carrying 14 kg embarking at London heading to Glasgow
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 57 carrying 42 kg embarking at London heading to Berlin
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 58 carrying 3 kg embarking at London heading to Glasgow
+2017-04-27 14:22:59 INFO  CargoStation - Passenger 59 carrying 39 kg embarking at London heading to Glasgow
+2017-04-27 14:22:59 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:22:59 INFO  Train - Passenger 27 is disembarking at London
+2017-04-27 14:22:59 INFO  Train - Passenger 43 is disembarking at London
+2017-04-27 14:22:59 INFO  Train - Passenger 44 is disembarking at London
+2017-04-27 14:22:59 INFO  TrainState$2 - Generic European Train is ready to depart for Berlin Station!
+2017-04-27 14:22:59 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 14:22:59 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:22:59 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:22:59 INFO  TrainState$2 - Train#2 is ready to depart for Paris Station!
+2017-04-27 14:22:59 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 14:23:00 INFO  TrainState$4 - Pets is awaiting entry Vienna Station..!
+2017-04-27 14:23:00 INFO  CargoStation - Passenger 60 carrying 17 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:00 INFO  TrainState$1 - Pets is in Vienna Station.
+2017-04-27 14:23:00 INFO  TrainState$2 - Pets is ready to depart for Vienna Station!
+2017-04-27 14:23:00 INFO  TrainState$3 - Pets enroute to Berlin Station!
+2017-04-27 14:23:00 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:00 INFO  ActiveStation - Passenger 61 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:00 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 14:23:00 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 14:23:00 INFO  CargoStation - Passenger 62 carrying 37 kg embarking at London heading to Berlin
+2017-04-27 14:23:00 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 14:23:00 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 14:23:00 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 14:23:00 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:00 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:00 INFO  CargoStation - Passenger 63 carrying 8 kg embarking at Manchester heading to London
+2017-04-27 14:23:00 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:00 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:00 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:23:01 INFO  TrainState$4 - Pets is awaiting entry Berlin Station..!
+2017-04-27 14:23:01 INFO  CargoStation - Passenger 53 carrying 29 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:01 INFO  CargoStation - Passenger 64 carrying 19 kg embarking at Berlin heading to London
+2017-04-27 14:23:01 INFO  CargoStation - Passenger 65 carrying 11 kg embarking at Berlin heading to London
+2017-04-27 14:23:01 INFO  TrainState$1 - Pets is in Berlin Station.
+2017-04-27 14:23:01 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Paris Station!
+2017-04-27 14:23:01 INFO  TrainState$2 - Pets is ready to depart for Berlin Station!
+2017-04-27 14:23:01 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 14:23:01 INFO  TrainState$3 - Pets enroute to Paris Station!
+2017-04-27 14:23:01 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:01 INFO  ActiveStation - Passenger 66 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:01 INFO  ActiveStation - Passenger 67 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:01 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 14:23:01 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:23:01 INFO  CargoStation - Passenger 68 carrying 47 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:01 INFO  CargoStation - Passenger 69 carrying 33 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:01 INFO  CargoStation - Passenger 70 carrying 18 kg embarking at Glasgow heading to London
+2017-04-27 14:23:01 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:23:01 INFO  Train - Passenger 50 is disembarking at Glasgow
+2017-04-27 14:23:01 INFO  Train - Passenger 56 is disembarking at Glasgow
+2017-04-27 14:23:01 INFO  Train - Passenger 58 is disembarking at Glasgow
+2017-04-27 14:23:01 INFO  Train - Passenger 59 is disembarking at Glasgow
+2017-04-27 14:23:02 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:23:02 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:02 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 14:23:02 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 14:23:02 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 53 carrying 29 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 54 carrying 44 kg cargo embarking at Berlin heading to Bucharest
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 55 carrying 40 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 64 carrying 19 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 65 carrying 11 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 71 carrying 45 kg embarking at Berlin heading to Vienna
+2017-04-27 14:23:02 INFO  CargoStation - Passenger 72 carrying 50 kg embarking at Berlin heading to London
+2017-04-27 14:23:02 INFO  TrainState$4 - Pets is awaiting entry Paris Station..!
+2017-04-27 14:23:02 INFO  ActiveStation - Passenger 45 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:02 INFO  ActiveStation - Passenger 51 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:02 INFO  ActiveStation - Passenger 52 carrying 0 kg cargo embarking at Paris heading to Amsterdam
+2017-04-27 14:23:02 INFO  ActiveStation - Passenger 73 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:02 INFO  ActiveStation - Passenger 74 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:02 INFO  TrainState$1 - Vlad the Impalator is in Berlin Station.
+2017-04-27 14:23:02 INFO  TrainState$1 - Pets is in Paris Station.
+2017-04-27 14:23:02 INFO  Train - Passenger 10 is disembarking at Paris
+2017-04-27 14:23:02 INFO  Train - Passenger 13 is disembarking at Paris
+2017-04-27 14:23:02 INFO  Train - Passenger 38 is disembarking at Paris
+2017-04-27 14:23:02 INFO  Train - Passenger 39 is disembarking at Paris
+2017-04-27 14:23:02 INFO  Train - Passenger 40 is disembarking at Paris
+2017-04-27 14:23:02 INFO  Train - Passenger 41 is disembarking at Paris
+2017-04-27 14:23:02 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-27 14:23:02 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 14:23:03 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 75 carrying 49 kg embarking at Manchester heading to London
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 76 carrying 13 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:03 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:03 INFO  Train - Passenger 68 is disembarking at Manchester
+2017-04-27 14:23:03 INFO  Train - Passenger 69 is disembarking at Manchester
+2017-04-27 14:23:03 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:03 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:23:03 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 60 carrying 17 kg cargo embarking at Vienna heading to Berlin
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 77 carrying 45 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 78 carrying 24 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 79 carrying 42 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:03 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 14:23:03 INFO  Train - Passenger 48 is disembarking at Vienna
+2017-04-27 14:23:03 INFO  Train - Passenger 71 is disembarking at Vienna
+2017-04-27 14:23:03 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 80 carrying 27 kg embarking at London heading to Berlin
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 81 carrying 41 kg embarking at London heading to Berlin
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 82 carrying 20 kg embarking at London heading to Berlin
+2017-04-27 14:23:03 INFO  CargoStation - Passenger 83 carrying 24 kg embarking at London heading to Berlin
+2017-04-27 14:23:03 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 14:23:03 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 14:23:03 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 14:23:03 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 14:23:03 INFO  TrainState$3 - Generic European Train enroute to Paris Station!
+2017-04-27 14:23:03 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 14:23:03 INFO  TrainState$3 - Train#2 enroute to Berlin Station!
+2017-04-27 14:23:04 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 80 carrying 27 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 81 carrying 41 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 82 carrying 20 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 83 carrying 24 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 84 carrying 31 kg embarking at London heading to Berlin
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 85 carrying 10 kg embarking at London heading to Manchester
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 86 carrying 8 kg embarking at London heading to Manchester
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 87 carrying 14 kg embarking at London heading to Manchester
+2017-04-27 14:23:04 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:23:04 INFO  Train - Passenger 63 is disembarking at London
+2017-04-27 14:23:04 INFO  Train - Passenger 70 is disembarking at London
+2017-04-27 14:23:04 INFO  Train - Passenger 75 is disembarking at London
+2017-04-27 14:23:04 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:23:04 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:04 INFO  TrainState$4 - Generic European Train is awaiting entry Paris Station..!
+2017-04-27 14:23:04 INFO  ActiveStation - Passenger 74 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:04 INFO  ActiveStation - Passenger 88 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:04 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 14:23:04 INFO  Train - Passenger 11 is disembarking at Paris
+2017-04-27 14:23:04 INFO  Train - Passenger 12 is disembarking at Paris
+2017-04-27 14:23:04 INFO  Train - Passenger 28 is disembarking at Paris
+2017-04-27 14:23:04 INFO  Train - Passenger 29 is disembarking at Paris
+2017-04-27 14:23:04 INFO  Train - Passenger 30 is disembarking at Paris
+2017-04-27 14:23:04 INFO  Train - Passenger 61 is disembarking at Paris
+2017-04-27 14:23:04 INFO  TrainState$4 - Train#2 is awaiting entry Berlin Station..!
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 89 carrying 35 kg embarking at Berlin heading to London
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 90 carrying 33 kg embarking at Berlin heading to Vienna
+2017-04-27 14:23:04 INFO  CargoStation - Passenger 91 carrying 43 kg embarking at Berlin heading to London
+2017-04-27 14:23:04 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 14:23:04 INFO  Train - Passenger 22 is disembarking at Berlin
+2017-04-27 14:23:04 INFO  Train - Passenger 31 is disembarking at Berlin
+2017-04-27 14:23:04 INFO  Train - Passenger 33 is disembarking at Berlin
+2017-04-27 14:23:04 INFO  Train - Passenger 34 is disembarking at Berlin
+2017-04-27 14:23:04 INFO  Train - Passenger 62 is disembarking at Berlin
+2017-04-27 14:23:04 INFO  TrainState$2 - Pets is ready to depart for Paris Station!
+2017-04-27 14:23:04 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 14:23:04 INFO  TrainState$3 - Pets enroute to Berlin Station!
+2017-04-27 14:23:04 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 14:23:04 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 14:23:04 INFO  ActiveStation - Passenger 92 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:04 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 14:23:05 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 93 carrying 44 kg embarking at Manchester heading to London
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 94 carrying 26 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 95 carrying 15 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:05 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:05 INFO  Train - Passenger 85 is disembarking at Manchester
+2017-04-27 14:23:05 INFO  Train - Passenger 86 is disembarking at Manchester
+2017-04-27 14:23:05 INFO  Train - Passenger 87 is disembarking at Manchester
+2017-04-27 14:23:05 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:05 INFO  ActiveStation - Passenger 66 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:05 INFO  ActiveStation - Passenger 96 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:05 INFO  ActiveStation - Passenger 97 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:05 INFO  ActiveStation - Passenger 98 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:05 INFO  ActiveStation - Passenger 99 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:05 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:05 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 14:23:05 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:23:05 INFO  TrainState$4 - Pets is awaiting entry Berlin Station..!
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 91 carrying 43 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 100 carrying 46 kg embarking at Berlin heading to London
+2017-04-27 14:23:05 INFO  CargoStation - Passenger 101 carrying 49 kg embarking at Berlin heading to London
+2017-04-27 14:23:05 INFO  TrainState$1 - Pets is in Berlin Station.
+2017-04-27 14:23:05 INFO  TrainState$2 - Pets is ready to depart for Berlin Station!
+2017-04-27 14:23:05 INFO  TrainState$3 - Pets enroute to Vienna Station!
+2017-04-27 14:23:06 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-27 14:23:06 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 14:23:06 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:23:06 INFO  CargoStation - Passenger 102 carrying 14 kg embarking at Glasgow heading to London
+2017-04-27 14:23:06 INFO  CargoStation - Passenger 103 carrying 5 kg embarking at Glasgow heading to London
+2017-04-27 14:23:06 INFO  CargoStation - Passenger 104 carrying 6 kg embarking at Glasgow heading to London
+2017-04-27 14:23:06 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:23:06 INFO  Train - Passenger 76 is disembarking at Glasgow
+2017-04-27 14:23:06 INFO  Train - Passenger 94 is disembarking at Glasgow
+2017-04-27 14:23:06 INFO  Train - Passenger 95 is disembarking at Glasgow
+2017-04-27 14:23:06 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:23:06 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:06 INFO  TrainState$4 - Pets is awaiting entry Vienna Station..!
+2017-04-27 14:23:06 INFO  CargoStation - Passenger 105 carrying 2 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:06 INFO  TrainState$1 - Pets is in Vienna Station.
+2017-04-27 14:23:06 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 14:23:06 INFO  TrainState$3 - Vlad the Impalator enroute to Bucharest Station!
+2017-04-27 14:23:06 INFO  TrainState$2 - Pets is ready to depart for Vienna Station!
+2017-04-27 14:23:06 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 14:23:07 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 106 carrying 11 kg embarking at London heading to Berlin
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 107 carrying 35 kg embarking at London heading to Manchester
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 108 carrying 37 kg embarking at London heading to Berlin
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 109 carrying 26 kg embarking at London heading to Berlin
+2017-04-27 14:23:07 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 14:23:07 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 14:23:07 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 14:23:07 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 14:23:07 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 14:23:07 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 110 carrying 0 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:07 INFO  CargoStation - Passenger 111 carrying 9 kg embarking at Manchester heading to London
+2017-04-27 14:23:07 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:08 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:08 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:23:08 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Bucharest Station..!
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 23 carrying 12 kg cargo embarking at Bucharest heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 24 carrying 7 kg cargo embarking at Bucharest heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 25 carrying 49 kg cargo embarking at Bucharest heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 112 carrying 49 kg embarking at Bucharest heading to Vienna
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 113 carrying 2 kg embarking at Bucharest heading to Vienna
+2017-04-27 14:23:08 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-27 14:23:08 INFO  Train - Passenger 36 is disembarking at Bucharest
+2017-04-27 14:23:08 INFO  Train - Passenger 37 is disembarking at Bucharest
+2017-04-27 14:23:08 INFO  Train - Passenger 54 is disembarking at Bucharest
+2017-04-27 14:23:08 INFO  Train - Passenger 78 is disembarking at Bucharest
+2017-04-27 14:23:08 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 92 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 114 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 115 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 116 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:08 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 14:23:08 INFO  Train - Passenger 45 is disembarking at Budapest
+2017-04-27 14:23:08 INFO  Train - Passenger 51 is disembarking at Budapest
+2017-04-27 14:23:08 INFO  Train - Passenger 73 is disembarking at Budapest
+2017-04-27 14:23:08 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-27 14:23:08 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 14:23:08 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 66 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 67 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 96 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 97 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 98 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 99 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 117 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 118 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 119 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  ActiveStation - Passenger 120 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:08 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 14:23:08 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 106 carrying 11 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 107 carrying 35 kg cargo embarking at London heading to Manchester
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 108 carrying 37 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 109 carrying 26 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 121 carrying 11 kg embarking at London heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 122 carrying 31 kg embarking at London heading to Berlin
+2017-04-27 14:23:08 INFO  CargoStation - Passenger 123 carrying 7 kg embarking at London heading to Glasgow
+2017-04-27 14:23:08 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 14:23:08 INFO  Train - Passenger 89 is disembarking at London
+2017-04-27 14:23:08 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 14:23:08 INFO  TrainState$3 - Train#2 enroute to Paris Station!
+2017-04-27 14:23:09 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:23:09 INFO  CargoStation - Passenger 122 carrying 31 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:09 INFO  CargoStation - Passenger 123 carrying 7 kg cargo embarking at London heading to Glasgow
+2017-04-27 14:23:09 INFO  CargoStation - Passenger 124 carrying 50 kg embarking at London heading to Berlin
+2017-04-27 14:23:09 INFO  CargoStation - Passenger 125 carrying 47 kg embarking at London heading to Glasgow
+2017-04-27 14:23:09 INFO  CargoStation - Passenger 126 carrying 1 kg embarking at London heading to Berlin
+2017-04-27 14:23:09 INFO  CargoStation - Passenger 127 carrying 23 kg embarking at London heading to Berlin
+2017-04-27 14:23:09 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:23:09 INFO  Train - Passenger 93 is disembarking at London
+2017-04-27 14:23:09 INFO  Train - Passenger 102 is disembarking at London
+2017-04-27 14:23:09 INFO  Train - Passenger 103 is disembarking at London
+2017-04-27 14:23:09 INFO  Train - Passenger 104 is disembarking at London
+2017-04-27 14:23:09 INFO  Train - Passenger 111 is disembarking at London
+2017-04-27 14:23:09 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:23:09 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:09 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 14:23:09 INFO  ActiveStation - Passenger 128 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:09 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 14:23:09 INFO  TrainState$4 - Train#2 is awaiting entry Paris Station..!
+2017-04-27 14:23:09 INFO  ActiveStation - Passenger 129 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:09 INFO  ActiveStation - Passenger 130 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:09 INFO  TrainState$1 - Train#2 is in Paris Station.
+2017-04-27 14:23:10 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:10 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:10 INFO  CargoStation - Passenger 131 carrying 32 kg embarking at Manchester heading to London
+2017-04-27 14:23:10 INFO  CargoStation - Passenger 132 carrying 36 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:10 INFO  CargoStation - Passenger 133 carrying 20 kg embarking at Manchester heading to London
+2017-04-27 14:23:10 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:10 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:10 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:23:10 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 14:23:10 INFO  TrainState$3 - Pets enroute to Bucharest Station!
+2017-04-27 14:23:10 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 14:23:10 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-27 14:23:11 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 134 carrying 13 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 135 carrying 45 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 136 carrying 42 kg embarking at Glasgow heading to London
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 137 carrying 10 kg embarking at Glasgow heading to London
+2017-04-27 14:23:11 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:23:11 INFO  Train - Passenger 123 is disembarking at Glasgow
+2017-04-27 14:23:11 INFO  Train - Passenger 125 is disembarking at Glasgow
+2017-04-27 14:23:11 INFO  Train - Passenger 132 is disembarking at Glasgow
+2017-04-27 14:23:11 INFO  TrainState$4 - Pets is awaiting entry Bucharest Station..!
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 138 carrying 40 kg embarking at Bucharest heading to Vienna
+2017-04-27 14:23:11 INFO  TrainState$1 - Pets is in Bucharest Station.
+2017-04-27 14:23:11 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:23:11 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 14:23:11 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:11 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 14:23:11 INFO  TrainState$2 - Pets is ready to depart for Bucharest Station!
+2017-04-27 14:23:11 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 91 carrying 43 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:11 INFO  CargoStation - Passenger 139 carrying 9 kg embarking at Berlin heading to London
+2017-04-27 14:23:11 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 14:23:11 INFO  TrainState$1 - Generic European Train is in Berlin Station.
+2017-04-27 14:23:11 INFO  TrainState$2 - Generic European Train is ready to depart for Berlin Station!
+2017-04-27 14:23:11 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 14:23:11 INFO  TrainState$2 - Train#2 is ready to depart for Paris Station!
+2017-04-27 14:23:11 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 14:23:12 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 140 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 141 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 142 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:12 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 14:23:12 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 143 carrying 18 kg embarking at London heading to Manchester
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 144 carrying 10 kg embarking at London heading to Manchester
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 145 carrying 8 kg embarking at London heading to Berlin
+2017-04-27 14:23:12 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 14:23:12 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 14:23:12 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 14:23:12 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 146 carrying 8 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 147 carrying 48 kg embarking at Manchester heading to London
+2017-04-27 14:23:12 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 105 carrying 2 kg cargo embarking at Vienna heading to Berlin
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 148 carrying 39 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 149 carrying 45 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 150 carrying 32 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:12 INFO  CargoStation - Passenger 151 carrying 3 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:12 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:12 INFO  Train - Passenger 134 is disembarking at Manchester
+2017-04-27 14:23:12 INFO  Train - Passenger 135 is disembarking at Manchester
+2017-04-27 14:23:12 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 14:23:12 INFO  Train - Passenger 112 is disembarking at Vienna
+2017-04-27 14:23:12 INFO  Train - Passenger 113 is disembarking at Vienna
+2017-04-27 14:23:12 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 128 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 152 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 153 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:12 INFO  ActiveStation - Passenger 154 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:12 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 14:23:12 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:12 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 14:23:12 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:23:12 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 14:23:13 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 91 carrying 43 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 100 carrying 46 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 101 carrying 49 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 139 carrying 9 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 155 carrying 42 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 156 carrying 35 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 157 carrying 33 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:23:13 INFO  TrainState$1 - Vlad the Impalator is in Berlin Station.
+2017-04-27 14:23:13 INFO  Train - Passenger 60 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 77 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 79 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 23 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 24 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 25 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 105 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  Train - Passenger 149 is disembarking at Berlin
+2017-04-27 14:23:13 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 144 carrying 10 kg cargo embarking at London heading to Manchester
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 145 carrying 8 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:13 INFO  CargoStation - Passenger 158 carrying 36 kg embarking at London heading to Berlin
+2017-04-27 14:23:13 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:23:13 INFO  Train - Passenger 131 is disembarking at London
+2017-04-27 14:23:13 INFO  Train - Passenger 133 is disembarking at London
+2017-04-27 14:23:13 INFO  Train - Passenger 136 is disembarking at London
+2017-04-27 14:23:13 INFO  Train - Passenger 137 is disembarking at London
+2017-04-27 14:23:13 INFO  Train - Passenger 147 is disembarking at London
+2017-04-27 14:23:13 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:13 INFO  ActiveStation - Passenger 159 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:13 INFO  ActiveStation - Passenger 160 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:13 INFO  ActiveStation - Passenger 161 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:13 INFO  ActiveStation - Passenger 162 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:13 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-27 14:23:13 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 14:23:13 INFO  TrainState$3 - Vlad the Impalator enroute to Paris Station!
+2017-04-27 14:23:13 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:23:13 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:14 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 14:23:14 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 14:23:14 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 14:23:14 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:14 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:14 INFO  CargoStation - Passenger 163 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:14 INFO  CargoStation - Passenger 164 carrying 14 kg embarking at Manchester heading to London
+2017-04-27 14:23:14 INFO  CargoStation - Passenger 165 carrying 43 kg embarking at Manchester heading to London
+2017-04-27 14:23:14 INFO  CargoStation - Passenger 166 carrying 1 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:14 INFO  TrainState$3 - Pets enroute to Vienna Station!
+2017-04-27 14:23:14 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:14 INFO  Train - Passenger 144 is disembarking at Manchester
+2017-04-27 14:23:14 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:14 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:23:14 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Paris Station..!
+2017-04-27 14:23:14 INFO  ActiveStation - Passenger 129 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:14 INFO  ActiveStation - Passenger 167 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:23:14 INFO  ActiveStation - Passenger 168 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:14 INFO  TrainState$1 - Vlad the Impalator is in Paris Station.
+2017-04-27 14:23:15 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 169 carrying 39 kg embarking at London heading to Manchester
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 170 carrying 27 kg embarking at London heading to Berlin
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 171 carrying 25 kg embarking at London heading to Manchester
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 172 carrying 45 kg embarking at London heading to Glasgow
+2017-04-27 14:23:15 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 14:23:15 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 14:23:15 INFO  TrainState$3 - Generic European Train enroute to Paris Station!
+2017-04-27 14:23:15 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 14:23:15 INFO  TrainState$3 - Train#2 enroute to Berlin Station!
+2017-04-27 14:23:15 INFO  TrainState$4 - Pets is awaiting entry Vienna Station..!
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 173 carrying 25 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 174 carrying 6 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 175 carrying 24 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:15 INFO  CargoStation - Passenger 176 carrying 22 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:16 INFO  TrainState$1 - Pets is in Vienna Station.
+2017-04-27 14:23:16 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:23:16 INFO  CargoStation - Passenger 177 carrying 36 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:16 INFO  CargoStation - Passenger 178 carrying 15 kg embarking at Glasgow heading to London
+2017-04-27 14:23:16 INFO  TrainState$2 - Pets is ready to depart for Vienna Station!
+2017-04-27 14:23:16 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:23:16 INFO  Train - Passenger 146 is disembarking at Glasgow
+2017-04-27 14:23:16 INFO  Train - Passenger 163 is disembarking at Glasgow
+2017-04-27 14:23:16 INFO  Train - Passenger 166 is disembarking at Glasgow
+2017-04-27 14:23:16 INFO  TrainState$3 - Pets enroute to Berlin Station!
+2017-04-27 14:23:16 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:23:16 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:16 INFO  TrainState$4 - Generic European Train is awaiting entry Paris Station..!
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 129 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 130 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 167 carrying 0 kg cargo embarking at Paris heading to Amsterdam
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 168 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 179 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 180 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:16 INFO  ActiveStation - Passenger 181 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:16 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 14:23:16 INFO  Train - Passenger 66 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 67 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 96 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 97 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 98 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 99 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 117 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 118 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 119 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 120 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 140 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 141 is disembarking at Paris
+2017-04-27 14:23:16 INFO  Train - Passenger 142 is disembarking at Paris
+2017-04-27 14:23:16 INFO  TrainState$4 - Train#2 is awaiting entry Berlin Station..!
+2017-04-27 14:23:16 INFO  CargoStation - Passenger 182 carrying 26 kg embarking at Berlin heading to Vienna
+2017-04-27 14:23:16 INFO  CargoStation - Passenger 183 carrying 36 kg embarking at Berlin heading to London
+2017-04-27 14:23:16 INFO  CargoStation - Passenger 184 carrying 38 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:23:16 INFO  CargoStation - Passenger 185 carrying 28 kg embarking at Berlin heading to London
+2017-04-27 14:23:16 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 14:23:16 INFO  Train - Passenger 106 is disembarking at Berlin
+2017-04-27 14:23:16 INFO  Train - Passenger 108 is disembarking at Berlin
+2017-04-27 14:23:16 INFO  Train - Passenger 109 is disembarking at Berlin
+2017-04-27 14:23:16 INFO  Train - Passenger 121 is disembarking at Berlin
+2017-04-27 14:23:16 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 14:23:16 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 14:23:17 INFO  TrainState$4 - Pets is awaiting entry Berlin Station..!
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 182 carrying 26 kg cargo embarking at Berlin heading to Vienna
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 186 carrying 39 kg embarking at Berlin heading to London
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 187 carrying 45 kg embarking at Berlin heading to London
+2017-04-27 14:23:17 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Paris Station!
+2017-04-27 14:23:17 INFO  TrainState$1 - Pets is in Berlin Station.
+2017-04-27 14:23:17 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 14:23:17 INFO  TrainState$2 - Pets is ready to depart for Berlin Station!
+2017-04-27 14:23:17 INFO  TrainState$3 - Pets enroute to Paris Station!
+2017-04-27 14:23:17 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 188 carrying 47 kg embarking at Manchester heading to London
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 189 carrying 48 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 190 carrying 48 kg embarking at Manchester heading to London
+2017-04-27 14:23:17 INFO  CargoStation - Passenger 191 carrying 38 kg embarking at Manchester heading to London
+2017-04-27 14:23:17 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:17 INFO  Train - Passenger 177 is disembarking at Manchester
+2017-04-27 14:23:17 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:17 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:23:17 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:17 INFO  ActiveStation - Passenger 159 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:17 INFO  ActiveStation - Passenger 192 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:17 INFO  ActiveStation - Passenger 193 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:17 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 14:23:18 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 182 carrying 26 kg cargo embarking at Berlin heading to Vienna
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 183 carrying 36 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 184 carrying 38 kg cargo embarking at Berlin heading to Bucharest
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 185 carrying 28 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 186 carrying 39 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 187 carrying 45 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 194 carrying 38 kg embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 195 carrying 35 kg embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 196 carrying 50 kg embarking at Berlin heading to London
+2017-04-27 14:23:18 INFO  TrainState$1 - Vlad the Impalator is in Berlin Station.
+2017-04-27 14:23:18 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-27 14:23:18 INFO  TrainState$4 - Pets is awaiting entry Paris Station..!
+2017-04-27 14:23:18 INFO  ActiveStation - Passenger 197 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:23:18 INFO  ActiveStation - Passenger 198 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:23:18 INFO  ActiveStation - Passenger 199 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:23:18 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 14:23:18 INFO  TrainState$1 - Pets is in Paris Station.
+2017-04-27 14:23:18 INFO  Train - Passenger 92 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 114 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 115 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 116 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 128 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 152 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 153 is disembarking at Paris
+2017-04-27 14:23:18 INFO  Train - Passenger 154 is disembarking at Paris
+2017-04-27 14:23:18 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 169 carrying 39 kg cargo embarking at London heading to Manchester
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 170 carrying 27 kg cargo embarking at London heading to Berlin
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 171 carrying 25 kg cargo embarking at London heading to Manchester
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 172 carrying 45 kg cargo embarking at London heading to Glasgow
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 200 carrying 46 kg embarking at London heading to Glasgow
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 201 carrying 21 kg embarking at London heading to Berlin
+2017-04-27 14:23:18 INFO  CargoStation - Passenger 202 carrying 0 kg embarking at London heading to Glasgow
+2017-04-27 14:23:18 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:23:18 INFO  Train - Passenger 164 is disembarking at London
+2017-04-27 14:23:18 INFO  Train - Passenger 165 is disembarking at London
+2017-04-27 14:23:18 INFO  Train - Passenger 178 is disembarking at London
+2017-04-27 14:23:18 INFO  Train - Passenger 188 is disembarking at London
+2017-04-27 14:23:18 INFO  Train - Passenger 190 is disembarking at London
+2017-04-27 14:23:18 INFO  Train - Passenger 191 is disembarking at London
+2017-04-27 14:23:18 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:23:18 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:18 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-27 14:23:18 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 14:23:19 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 173 carrying 25 kg cargo embarking at Vienna heading to Bucharest
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 174 carrying 6 kg cargo embarking at Vienna heading to Bucharest
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 175 carrying 24 kg cargo embarking at Vienna heading to Berlin
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 176 carrying 22 kg cargo embarking at Vienna heading to Berlin
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 203 carrying 37 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 204 carrying 16 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 205 carrying 49 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:19 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 14:23:19 INFO  Train - Passenger 182 is disembarking at Vienna
+2017-04-27 14:23:19 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 14:23:19 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 14:23:19 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 202 carrying 0 kg cargo embarking at London heading to Glasgow
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 206 carrying 18 kg embarking at London heading to Glasgow
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 207 carrying 16 kg embarking at London heading to Berlin
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 208 carrying 34 kg embarking at London heading to Berlin
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 209 carrying 41 kg embarking at London heading to Glasgow
+2017-04-27 14:23:19 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 14:23:19 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 210 carrying 15 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:19 INFO  CargoStation - Passenger 211 carrying 3 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:19 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:19 INFO  Train - Passenger 169 is disembarking at Manchester
+2017-04-27 14:23:19 INFO  Train - Passenger 171 is disembarking at Manchester
+2017-04-27 14:23:19 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 14:23:19 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 14:23:19 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:19 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:23:19 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 14:23:19 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 14:23:20 INFO  TrainState$2 - Pets is ready to depart for Paris Station!
+2017-04-27 14:23:20 INFO  TrainState$3 - Pets enroute to Berlin Station!
+2017-04-27 14:23:20 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 212 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:20 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 14:23:20 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 159 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 160 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 161 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 162 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 192 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 193 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 213 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 214 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 215 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  ActiveStation - Passenger 216 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:20 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 14:23:20 INFO  Train - Passenger 167 is disembarking at Amsterdam
+2017-04-27 14:23:20 INFO  Train - Passenger 179 is disembarking at Amsterdam
+2017-04-27 14:23:20 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 217 carrying 46 kg embarking at Glasgow heading to London
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 218 carrying 40 kg embarking at Glasgow heading to London
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 219 carrying 5 kg embarking at Glasgow heading to London
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 220 carrying 6 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:20 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:23:20 INFO  Train - Passenger 189 is disembarking at Glasgow
+2017-04-27 14:23:20 INFO  Train - Passenger 172 is disembarking at Glasgow
+2017-04-27 14:23:20 INFO  Train - Passenger 200 is disembarking at Glasgow
+2017-04-27 14:23:20 INFO  Train - Passenger 210 is disembarking at Glasgow
+2017-04-27 14:23:20 INFO  Train - Passenger 211 is disembarking at Glasgow
+2017-04-27 14:23:20 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 202 carrying 0 kg cargo embarking at London heading to Glasgow
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 221 carrying 41 kg embarking at London heading to Glasgow
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 222 carrying 47 kg embarking at London heading to Glasgow
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 223 carrying 35 kg embarking at London heading to Glasgow
+2017-04-27 14:23:20 INFO  CargoStation - Passenger 224 carrying 2 kg embarking at London heading to Manchester
+2017-04-27 14:23:20 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 14:23:20 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:23:20 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:20 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 14:23:20 INFO  TrainState$3 - Train#2 enroute to Paris Station!
+2017-04-27 14:23:21 INFO  TrainState$4 - Pets is awaiting entry Berlin Station..!
+2017-04-27 14:23:21 INFO  CargoStation - Passenger 225 carrying 19 kg embarking at Berlin heading to London
+2017-04-27 14:23:21 INFO  CargoStation - Passenger 226 carrying 11 kg embarking at Berlin heading to London
+2017-04-27 14:23:21 INFO  CargoStation - Passenger 227 carrying 43 kg embarking at Berlin heading to London
+2017-04-27 14:23:21 INFO  TrainState$1 - Pets is in Berlin Station.
+2017-04-27 14:23:21 INFO  TrainState$2 - Pets is ready to depart for Berlin Station!
+2017-04-27 14:23:21 INFO  TrainState$3 - Pets enroute to Vienna Station!
+2017-04-27 14:23:21 INFO  TrainState$4 - Train#2 is awaiting entry Paris Station..!
+2017-04-27 14:23:21 INFO  ActiveStation - Passenger 198 carrying 0 kg cargo embarking at Paris heading to Amsterdam
+2017-04-27 14:23:21 INFO  ActiveStation - Passenger 228 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:21 INFO  ActiveStation - Passenger 229 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:21 INFO  ActiveStation - Passenger 230 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 14:23:21 INFO  ActiveStation - Passenger 231 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 14:23:21 INFO  TrainState$1 - Train#2 is in Paris Station.
+2017-04-27 14:23:22 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 232 carrying 21 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 233 carrying 13 kg embarking at Manchester heading to London
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 234 carrying 50 kg embarking at Manchester heading to London
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 235 carrying 50 kg embarking at Manchester heading to London
+2017-04-27 14:23:22 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:22 INFO  Train - Passenger 220 is disembarking at Manchester
+2017-04-27 14:23:22 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:22 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:23:22 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 14:23:22 INFO  TrainState$4 - Pets is awaiting entry Vienna Station..!
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 236 carrying 35 kg embarking at Vienna heading to Bucharest
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 237 carrying 50 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 238 carrying 48 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:22 INFO  CargoStation - Passenger 239 carrying 7 kg embarking at Vienna heading to Berlin
+2017-04-27 14:23:22 INFO  TrainState$3 - Vlad the Impalator enroute to Bucharest Station!
+2017-04-27 14:23:22 INFO  TrainState$1 - Pets is in Vienna Station.
+2017-04-27 14:23:22 INFO  TrainState$2 - Pets is ready to depart for Vienna Station!
+2017-04-27 14:23:22 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 14:23:22 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 14:23:22 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-27 14:23:23 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 202 carrying 0 kg cargo embarking at London heading to Glasgow
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 240 carrying 8 kg embarking at London heading to Glasgow
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 241 carrying 15 kg embarking at London heading to Glasgow
+2017-04-27 14:23:23 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 14:23:23 INFO  Train - Passenger 217 is disembarking at London
+2017-04-27 14:23:23 INFO  Train - Passenger 218 is disembarking at London
+2017-04-27 14:23:23 INFO  Train - Passenger 219 is disembarking at London
+2017-04-27 14:23:23 INFO  Train - Passenger 233 is disembarking at London
+2017-04-27 14:23:23 INFO  Train - Passenger 234 is disembarking at London
+2017-04-27 14:23:23 INFO  Train - Passenger 235 is disembarking at London
+2017-04-27 14:23:23 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 14:23:23 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:23 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 225 carrying 19 kg cargo embarking at Berlin heading to London
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 242 carrying 34 kg embarking at Berlin heading to Bucharest
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 243 carrying 8 kg embarking at Berlin heading to London
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 244 carrying 20 kg embarking at Berlin heading to London
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 245 carrying 34 kg embarking at Berlin heading to London
+2017-04-27 14:23:23 INFO  TrainState$1 - Generic European Train is in Berlin Station.
+2017-04-27 14:23:23 INFO  TrainState$2 - Generic European Train is ready to depart for Berlin Station!
+2017-04-27 14:23:23 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 14:23:23 INFO  TrainState$2 - Train#2 is ready to depart for Paris Station!
+2017-04-27 14:23:23 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 14:23:23 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Bucharest Station..!
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 138 carrying 40 kg cargo embarking at Bucharest heading to Vienna
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 246 carrying 15 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 247 carrying 33 kg embarking at Bucharest heading to Berlin
+2017-04-27 14:23:23 INFO  CargoStation - Passenger 248 carrying 32 kg embarking at Bucharest heading to Vienna
+2017-04-27 14:23:23 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-27 14:23:23 INFO  Train - Passenger 148 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 150 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 151 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 155 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 156 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 157 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 184 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 173 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 174 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 203 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  Train - Passenger 204 is disembarking at Bucharest
+2017-04-27 14:23:23 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-27 14:23:23 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 14:23:23 INFO  ActiveStation - Passenger 212 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 14:23:23 INFO  ActiveStation - Passenger 249 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:23 INFO  ActiveStation - Passenger 250 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:23 INFO  ActiveStation - Passenger 251 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:23 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 14:23:23 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 14:23:24 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:24 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:24 INFO  CargoStation - Passenger 252 carrying 16 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:24 INFO  CargoStation - Passenger 253 carrying 28 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:24 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:24 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:24 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 14:23:24 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:24 INFO  ActiveStation - Passenger 254 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:24 INFO  ActiveStation - Passenger 255 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:24 INFO  ActiveStation - Passenger 256 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:24 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 14:23:24 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 14:23:24 INFO  CargoStation - Passenger 202 carrying 0 kg cargo embarking at London heading to Glasgow
+2017-04-27 14:23:24 INFO  CargoStation - Passenger 257 carrying 18 kg embarking at London heading to Glasgow
+2017-04-27 14:23:24 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 14:23:24 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 14:23:24 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 14:23:25 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 258 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 259 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 260 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 261 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 14:23:25 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 14:23:25 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 14:23:25 INFO  CargoStation - Passenger 262 carrying 49 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:25 INFO  CargoStation - Passenger 263 carrying 48 kg embarking at Glasgow heading to London
+2017-04-27 14:23:25 INFO  CargoStation - Passenger 264 carrying 44 kg embarking at Glasgow heading to Manchester
+2017-04-27 14:23:25 INFO  CargoStation - Passenger 265 carrying 2 kg embarking at Glasgow heading to London
+2017-04-27 14:23:25 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 14:23:25 INFO  Train - Passenger 232 is disembarking at Glasgow
+2017-04-27 14:23:25 INFO  Train - Passenger 240 is disembarking at Glasgow
+2017-04-27 14:23:25 INFO  Train - Passenger 241 is disembarking at Glasgow
+2017-04-27 14:23:25 INFO  Train - Passenger 252 is disembarking at Glasgow
+2017-04-27 14:23:25 INFO  Train - Passenger 253 is disembarking at Glasgow
+2017-04-27 14:23:25 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 14:23:25 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 14:23:25 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 266 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 267 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 268 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:25 INFO  ActiveStation - Passenger 269 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 14:23:25 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 14:23:25 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 14:23:25 INFO  TrainState$3 - Pets enroute to Bucharest Station!
+2017-04-27 14:23:26 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 14:23:26 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 14:23:26 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 14:23:26 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 14:23:26 INFO  CargoStation - Passenger 270 carrying 3 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:26 INFO  CargoStation - Passenger 271 carrying 13 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:26 INFO  CargoStation - Passenger 272 carrying 22 kg embarking at Manchester heading to Glasgow
+2017-04-27 14:23:26 INFO  CargoStation - Passenger 273 carrying 33 kg embarking at Manchester heading to London
+2017-04-27 14:23:26 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 14:23:26 INFO  Train - Passenger 262 is disembarking at Manchester
+2017-04-27 14:23:26 INFO  Train - Passenger 264 is disembarking at Manchester
+2017-04-27 14:23:26 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 14:23:26 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 14:23:27 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 14:23:27 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 14:23:27 INFO  TrainState$4 - Pets is awaiting entry Bucharest Station..!
+2017-04-27 14:23:27 INFO  CargoStation - Passenger 274 carrying 45 kg embarking at Bucharest heading to Vienna
+2017-04-27 14:23:27 INFO  CargoStation - Passenger 275 carrying 12 kg embarking at Bucharest heading to Vienna
+2017-04-27 14:23:27 INFO  TrainState$1 - Pets is in Bucharest Station.
+2017-04-27 14:23:27 INFO  TrainState$2 - Pets is ready to depart for Bucharest Station!
+2017-04-27 14:23:27 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 17:09:03 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-27 17:09:03 INFO  ActiveStation - Passenger 1 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 17:09:03 INFO  ActiveStation - Passenger 2 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:03 INFO  ActiveStation - Passenger 3 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:03 INFO  ActiveStation - Passenger 4 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 17:09:03 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-27 17:09:03 INFO  CargoStation - Passenger 5 carrying 13 kg embarking at Bucharest heading to Berlin
+2017-04-27 17:09:03 INFO  CargoStation - Passenger 6 carrying 29 kg embarking at Bucharest heading to Berlin
+2017-04-27 17:09:03 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-27 17:09:03 INFO  CargoStation - Passenger 7 carrying 34 kg embarking at Glasgow heading to Manchester
+2017-04-27 17:09:03 INFO  TrainState$5 - Train#2 is travelling from the depot: Berlin Station...
+2017-04-27 17:09:03 INFO  CargoStation - Passenger 8 carrying 21 kg embarking at Berlin heading to Bucharest
+2017-04-27 17:09:03 INFO  CargoStation - Passenger 9 carrying 40 kg embarking at Berlin heading to Vienna
+2017-04-27 17:09:03 INFO  TrainState$5 - Pets is travelling from the depot: Budapest Station...
+2017-04-27 17:09:03 INFO  ActiveStation - Passenger 10 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:03 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 17:09:03 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-27 17:09:03 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 17:09:03 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 17:09:03 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 17:09:03 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-27 17:09:03 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 17:09:03 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 17:09:03 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 17:09:03 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 17:09:03 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 17:09:04 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 17:09:04 INFO  ActiveStation - Passenger 11 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:04 INFO  ActiveStation - Passenger 12 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:04 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 17:09:04 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 17:09:04 INFO  ActiveStation - Passenger 13 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:04 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 17:09:04 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 17:09:04 INFO  CargoStation - Passenger 14 carrying 27 kg embarking at Manchester heading to Glasgow
+2017-04-27 17:09:04 INFO  CargoStation - Passenger 15 carrying 38 kg embarking at Manchester heading to Glasgow
+2017-04-27 17:09:04 INFO  CargoStation - Passenger 16 carrying 39 kg embarking at Manchester heading to London
+2017-04-27 17:09:04 INFO  CargoStation - Passenger 17 carrying 0 kg embarking at Manchester heading to Glasgow
+2017-04-27 17:09:04 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 17:09:04 INFO  Train - Passenger 7 is disembarking at Manchester
+2017-04-27 17:09:05 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 17:09:05 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 17:09:05 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-27 17:09:05 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 17:09:05 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 17:09:05 INFO  TrainState$3 - Pets enroute to Bucharest Station!
+2017-04-27 17:09:06 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 18 carrying 9 kg embarking at London heading to Berlin
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 19 carrying 40 kg embarking at London heading to Glasgow
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 20 carrying 22 kg embarking at London heading to Berlin
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 21 carrying 29 kg embarking at London heading to Berlin
+2017-04-27 17:09:06 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 17:09:06 INFO  Train - Passenger 16 is disembarking at London
+2017-04-27 17:09:06 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 17:09:06 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 17:09:06 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 22 carrying 47 kg embarking at London heading to Berlin
+2017-04-27 17:09:06 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 17:09:06 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 17:09:06 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 17:09:06 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 17:09:06 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 17:09:06 INFO  TrainState$4 - Pets is awaiting entry Bucharest Station..!
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 23 carrying 12 kg embarking at Bucharest heading to Berlin
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 24 carrying 7 kg embarking at Bucharest heading to Berlin
+2017-04-27 17:09:06 INFO  CargoStation - Passenger 25 carrying 49 kg embarking at Bucharest heading to Berlin
+2017-04-27 17:09:06 INFO  TrainState$1 - Pets is in Bucharest Station.
+2017-04-27 17:09:07 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 17:09:07 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 17:09:07 INFO  TrainState$2 - Pets is ready to depart for Bucharest Station!
+2017-04-27 17:09:07 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 17:09:07 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 26 carrying 7 kg embarking at Manchester heading to Glasgow
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 27 carrying 40 kg embarking at Manchester heading to London
+2017-04-27 17:09:07 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 17:09:07 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 17:09:07 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 17:09:07 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 17:09:07 INFO  ActiveStation - Passenger 11 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 17:09:07 INFO  ActiveStation - Passenger 12 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 17:09:07 INFO  ActiveStation - Passenger 28 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:07 INFO  ActiveStation - Passenger 29 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:07 INFO  ActiveStation - Passenger 30 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:07 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 17:09:07 INFO  Train - Passenger 1 is disembarking at Amsterdam
+2017-04-27 17:09:07 INFO  Train - Passenger 4 is disembarking at Amsterdam
+2017-04-27 17:09:07 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 22 carrying 47 kg cargo embarking at London heading to Berlin
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 31 carrying 31 kg embarking at London heading to Berlin
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 32 carrying 42 kg embarking at London heading to Glasgow
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 33 carrying 18 kg embarking at London heading to Berlin
+2017-04-27 17:09:07 INFO  CargoStation - Passenger 34 carrying 1 kg embarking at London heading to Berlin
+2017-04-27 17:09:07 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 17:09:07 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 17:09:07 INFO  TrainState$3 - Train#2 enroute to Paris Station!
+2017-04-27 17:09:08 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 17:09:08 INFO  CargoStation - Passenger 35 carrying 23 kg embarking at Vienna heading to Berlin
+2017-04-27 17:09:08 INFO  CargoStation - Passenger 36 carrying 34 kg embarking at Vienna heading to Bucharest
+2017-04-27 17:09:08 INFO  CargoStation - Passenger 37 carrying 41 kg embarking at Vienna heading to Bucharest
+2017-04-27 17:09:08 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 17:09:08 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 17:09:08 INFO  ActiveStation - Passenger 13 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 17:09:08 INFO  ActiveStation - Passenger 38 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:08 INFO  ActiveStation - Passenger 39 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:08 INFO  ActiveStation - Passenger 40 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:08 INFO  ActiveStation - Passenger 41 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:08 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 17:09:08 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 17:09:08 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 17:09:08 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 17:09:08 INFO  CargoStation - Passenger 42 carrying 13 kg embarking at Glasgow heading to Manchester
+2017-04-27 17:09:08 INFO  CargoStation - Passenger 43 carrying 20 kg embarking at Glasgow heading to London
+2017-04-27 17:09:08 INFO  CargoStation - Passenger 44 carrying 23 kg embarking at Glasgow heading to London
+2017-04-27 17:09:08 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 17:09:08 INFO  Train - Passenger 14 is disembarking at Glasgow
+2017-04-27 17:09:08 INFO  Train - Passenger 15 is disembarking at Glasgow
+2017-04-27 17:09:08 INFO  Train - Passenger 19 is disembarking at Glasgow
+2017-04-27 17:09:08 INFO  Train - Passenger 26 is disembarking at Glasgow
+2017-04-27 17:09:08 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 17:09:08 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 17:09:08 INFO  TrainState$4 - Train#2 is awaiting entry Paris Station..!
+2017-04-27 17:09:08 INFO  ActiveStation - Passenger 45 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:08 INFO  TrainState$1 - Train#2 is in Paris Station.
+2017-04-27 17:09:09 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-27 17:09:09 INFO  CargoStation - Passenger 46 carrying 13 kg embarking at Berlin heading to London
+2017-04-27 17:09:09 INFO  CargoStation - Passenger 47 carrying 23 kg embarking at Berlin heading to London
+2017-04-27 17:09:09 INFO  CargoStation - Passenger 48 carrying 12 kg embarking at Berlin heading to Vienna
+2017-04-27 17:09:09 INFO  CargoStation - Passenger 49 carrying 28 kg embarking at Berlin heading to London
+2017-04-27 17:09:09 INFO  TrainState$1 - Vlad the Impalator is in Berlin Station.
+2017-04-27 17:09:09 INFO  Train - Passenger 5 is disembarking at Berlin
+2017-04-27 17:09:09 INFO  Train - Passenger 6 is disembarking at Berlin
+2017-04-27 17:09:09 INFO  Train - Passenger 35 is disembarking at Berlin
+2017-04-27 17:09:09 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-27 17:09:09 INFO  TrainState$3 - Vlad the Impalator enroute to Paris Station!
+2017-04-27 17:09:09 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 17:09:09 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 17:09:09 INFO  CargoStation - Passenger 50 carrying 24 kg embarking at Manchester heading to Glasgow
+2017-04-27 17:09:09 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 17:09:09 INFO  Train - Passenger 42 is disembarking at Manchester
+2017-04-27 17:09:09 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 17:09:09 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 17:09:09 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 17:09:09 INFO  TrainState$3 - Generic European Train enroute to Berlin Station!
+2017-04-27 17:09:10 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 17:09:10 INFO  TrainState$3 - Pets enroute to Vienna Station!
+2017-04-27 17:09:10 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Paris Station..!
+2017-04-27 17:09:10 INFO  ActiveStation - Passenger 45 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 17:09:10 INFO  ActiveStation - Passenger 51 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:10 INFO  ActiveStation - Passenger 52 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 17:09:10 INFO  TrainState$1 - Vlad the Impalator is in Paris Station.
+2017-04-27 17:09:10 INFO  TrainState$4 - Generic European Train is awaiting entry Berlin Station..!
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 53 carrying 29 kg embarking at Berlin heading to London
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 54 carrying 44 kg embarking at Berlin heading to Bucharest
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 55 carrying 40 kg embarking at Berlin heading to London
+2017-04-27 17:09:10 INFO  TrainState$1 - Generic European Train is in Berlin Station.
+2017-04-27 17:09:10 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 56 carrying 14 kg embarking at London heading to Glasgow
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 57 carrying 42 kg embarking at London heading to Berlin
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 58 carrying 3 kg embarking at London heading to Glasgow
+2017-04-27 17:09:10 INFO  CargoStation - Passenger 59 carrying 39 kg embarking at London heading to Glasgow
+2017-04-27 17:09:10 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 17:09:10 INFO  Train - Passenger 27 is disembarking at London
+2017-04-27 17:09:10 INFO  Train - Passenger 43 is disembarking at London
+2017-04-27 17:09:10 INFO  Train - Passenger 44 is disembarking at London
+2017-04-27 17:09:10 INFO  TrainState$2 - Generic European Train is ready to depart for Berlin Station!
+2017-04-27 17:09:10 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 17:09:10 INFO  TrainState$2 - Train#2 is ready to depart for Paris Station!
+2017-04-27 17:09:10 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 17:09:10 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 17:09:10 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 17:09:11 INFO  TrainState$4 - Pets is awaiting entry Vienna Station..!
+2017-04-27 17:09:11 INFO  CargoStation - Passenger 60 carrying 17 kg embarking at Vienna heading to Berlin
+2017-04-27 17:09:11 INFO  TrainState$1 - Pets is in Vienna Station.
+2017-04-27 17:09:11 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 17:09:11 INFO  ActiveStation - Passenger 61 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:11 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 17:09:11 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 17:09:11 INFO  CargoStation - Passenger 62 carrying 37 kg embarking at London heading to Berlin
+2017-04-27 17:09:11 INFO  TrainState$2 - Pets is ready to depart for Vienna Station!
+2017-04-27 17:09:11 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 17:09:11 INFO  TrainState$3 - Pets enroute to Berlin Station!
+2017-04-27 17:09:11 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 17:09:11 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 17:09:11 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 17:09:11 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 17:09:11 INFO  CargoStation - Passenger 63 carrying 8 kg embarking at Manchester heading to London
+2017-04-27 17:09:11 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 17:09:11 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 17:09:11 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 17:09:12 INFO  TrainState$4 - Pets is awaiting entry Berlin Station..!
+2017-04-27 17:09:12 INFO  CargoStation - Passenger 53 carrying 29 kg cargo embarking at Berlin heading to London
+2017-04-27 17:09:12 INFO  CargoStation - Passenger 64 carrying 19 kg embarking at Berlin heading to London
+2017-04-27 17:09:12 INFO  CargoStation - Passenger 65 carrying 11 kg embarking at Berlin heading to London
+2017-04-27 17:09:12 INFO  TrainState$1 - Pets is in Berlin Station.
+2017-04-27 17:09:12 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Paris Station!
+2017-04-27 17:09:12 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 17:09:12 INFO  TrainState$2 - Pets is ready to depart for Berlin Station!
+2017-04-27 17:09:12 INFO  TrainState$3 - Pets enroute to Paris Station!
+2017-04-27 17:09:12 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 17:09:12 INFO  ActiveStation - Passenger 66 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:12 INFO  ActiveStation - Passenger 67 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 17:09:12 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 17:09:13 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 68 carrying 47 kg embarking at Glasgow heading to Manchester
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 69 carrying 33 kg embarking at Glasgow heading to Manchester
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 70 carrying 18 kg embarking at Glasgow heading to London
+2017-04-27 17:09:13 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 17:09:13 INFO  Train - Passenger 50 is disembarking at Glasgow
+2017-04-27 17:09:13 INFO  Train - Passenger 56 is disembarking at Glasgow
+2017-04-27 17:09:13 INFO  Train - Passenger 58 is disembarking at Glasgow
+2017-04-27 17:09:13 INFO  Train - Passenger 59 is disembarking at Glasgow
+2017-04-27 17:09:13 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 17:09:13 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 17:09:13 INFO  TrainState$2 - Generic European Train is ready to depart for Amsterdam Station!
+2017-04-27 17:09:13 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 17:09:13 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Berlin Station..!
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 53 carrying 29 kg cargo embarking at Berlin heading to London
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 54 carrying 44 kg cargo embarking at Berlin heading to Bucharest
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 55 carrying 40 kg cargo embarking at Berlin heading to London
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 64 carrying 19 kg cargo embarking at Berlin heading to London
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 65 carrying 11 kg cargo embarking at Berlin heading to London
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 71 carrying 45 kg embarking at Berlin heading to Vienna
+2017-04-27 17:09:13 INFO  CargoStation - Passenger 72 carrying 50 kg embarking at Berlin heading to London
+2017-04-27 17:09:13 INFO  TrainState$1 - Vlad the Impalator is in Berlin Station.
+2017-04-27 17:09:13 INFO  TrainState$4 - Pets is awaiting entry Paris Station..!
+2017-04-27 17:09:13 INFO  ActiveStation - Passenger 45 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 17:09:13 INFO  ActiveStation - Passenger 51 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 17:09:13 INFO  ActiveStation - Passenger 52 carrying 0 kg cargo embarking at Paris heading to Amsterdam
+2017-04-27 17:09:13 INFO  ActiveStation - Passenger 73 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:13 INFO  ActiveStation - Passenger 74 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:13 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Berlin Station!
+2017-04-27 17:09:13 INFO  TrainState$1 - Pets is in Paris Station.
+2017-04-27 17:09:13 INFO  Train - Passenger 10 is disembarking at Paris
+2017-04-27 17:09:13 INFO  Train - Passenger 13 is disembarking at Paris
+2017-04-27 17:09:13 INFO  Train - Passenger 38 is disembarking at Paris
+2017-04-27 17:09:13 INFO  Train - Passenger 39 is disembarking at Paris
+2017-04-27 17:09:13 INFO  Train - Passenger 40 is disembarking at Paris
+2017-04-27 17:09:13 INFO  Train - Passenger 41 is disembarking at Paris
+2017-04-27 17:09:13 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 17:09:14 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 75 carrying 49 kg embarking at Manchester heading to London
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 76 carrying 13 kg embarking at Manchester heading to Glasgow
+2017-04-27 17:09:14 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 17:09:14 INFO  Train - Passenger 68 is disembarking at Manchester
+2017-04-27 17:09:14 INFO  Train - Passenger 69 is disembarking at Manchester
+2017-04-27 17:09:14 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 17:09:14 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 17:09:14 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 60 carrying 17 kg cargo embarking at Vienna heading to Berlin
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 77 carrying 45 kg embarking at Vienna heading to Berlin
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 78 carrying 24 kg embarking at Vienna heading to Bucharest
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 79 carrying 42 kg embarking at Vienna heading to Berlin
+2017-04-27 17:09:14 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 17:09:14 INFO  Train - Passenger 48 is disembarking at Vienna
+2017-04-27 17:09:14 INFO  Train - Passenger 71 is disembarking at Vienna
+2017-04-27 17:09:14 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 80 carrying 27 kg embarking at London heading to Berlin
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 81 carrying 41 kg embarking at London heading to Berlin
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 82 carrying 20 kg embarking at London heading to Berlin
+2017-04-27 17:09:14 INFO  CargoStation - Passenger 83 carrying 24 kg embarking at London heading to Berlin
+2017-04-27 17:09:14 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 17:09:14 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 17:09:14 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 17:09:14 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 17:09:14 INFO  TrainState$3 - Generic European Train enroute to Paris Station!
+2017-04-27 17:09:14 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 17:09:14 INFO  TrainState$3 - Train#2 enroute to Berlin Station!
+2017-04-27 17:09:15 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 80 carrying 27 kg cargo embarking at London heading to Berlin
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 81 carrying 41 kg cargo embarking at London heading to Berlin
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 82 carrying 20 kg cargo embarking at London heading to Berlin
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 83 carrying 24 kg cargo embarking at London heading to Berlin
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 84 carrying 31 kg embarking at London heading to Berlin
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 85 carrying 10 kg embarking at London heading to Manchester
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 86 carrying 8 kg embarking at London heading to Manchester
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 87 carrying 14 kg embarking at London heading to Manchester
+2017-04-27 17:09:15 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 17:09:15 INFO  Train - Passenger 63 is disembarking at London
+2017-04-27 17:09:15 INFO  Train - Passenger 70 is disembarking at London
+2017-04-27 17:09:15 INFO  Train - Passenger 75 is disembarking at London
+2017-04-27 17:09:15 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 17:09:15 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 17:09:15 INFO  TrainState$4 - Generic European Train is awaiting entry Paris Station..!
+2017-04-27 17:09:15 INFO  ActiveStation - Passenger 74 carrying 0 kg cargo embarking at Paris heading to Budapest
+2017-04-27 17:09:15 INFO  ActiveStation - Passenger 88 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 17:09:15 INFO  TrainState$4 - Train#2 is awaiting entry Berlin Station..!
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 89 carrying 35 kg embarking at Berlin heading to London
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 90 carrying 33 kg embarking at Berlin heading to Vienna
+2017-04-27 17:09:15 INFO  CargoStation - Passenger 91 carrying 43 kg embarking at Berlin heading to London
+2017-04-27 17:09:15 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 17:09:15 INFO  Train - Passenger 11 is disembarking at Paris
+2017-04-27 17:09:15 INFO  Train - Passenger 12 is disembarking at Paris
+2017-04-27 17:09:15 INFO  Train - Passenger 28 is disembarking at Paris
+2017-04-27 17:09:15 INFO  Train - Passenger 29 is disembarking at Paris
+2017-04-27 17:09:15 INFO  Train - Passenger 30 is disembarking at Paris
+2017-04-27 17:09:15 INFO  Train - Passenger 61 is disembarking at Paris
+2017-04-27 17:09:15 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 17:09:15 INFO  Train - Passenger 22 is disembarking at Berlin
+2017-04-27 17:09:15 INFO  Train - Passenger 31 is disembarking at Berlin
+2017-04-27 17:09:15 INFO  Train - Passenger 33 is disembarking at Berlin
+2017-04-27 17:09:15 INFO  Train - Passenger 34 is disembarking at Berlin
+2017-04-27 17:09:15 INFO  Train - Passenger 62 is disembarking at Berlin
+2017-04-27 17:09:15 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 17:09:15 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 17:09:15 INFO  TrainState$2 - Pets is ready to depart for Paris Station!
+2017-04-27 17:09:15 INFO  TrainState$3 - Pets enroute to Berlin Station!
+2017-04-27 17:09:16 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 17:09:16 INFO  ActiveStation - Passenger 92 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 17:09:16 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 21:16:20 INFO  TrainState$5 - Generic European Train is travelling from the depot: Paris Station...
+2017-04-27 21:16:20 INFO  ActiveStation - Passenger 1 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 21:16:20 INFO  ActiveStation - Passenger 2 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 21:16:20 INFO  ActiveStation - Passenger 3 carrying 0 kg embarking at Paris heading to Budapest
+2017-04-27 21:16:20 INFO  ActiveStation - Passenger 4 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 21:16:20 INFO  TrainState$5 - Vlad the Impalator is travelling from the depot: Bucharest Station...
+2017-04-27 21:16:20 INFO  CargoStation - Passenger 5 carrying 13 kg embarking at Bucharest heading to Berlin
+2017-04-27 21:16:20 INFO  CargoStation - Passenger 6 carrying 29 kg embarking at Bucharest heading to Berlin
+2017-04-27 21:16:20 INFO  TrainState$5 - Thomas the Tank Engine is travelling from the depot: Glasgow Station...
+2017-04-27 21:16:20 INFO  CargoStation - Passenger 7 carrying 34 kg embarking at Glasgow heading to Manchester
+2017-04-27 21:16:20 INFO  TrainState$5 - Train#2 is travelling from the depot: Berlin Station...
+2017-04-27 21:16:20 INFO  CargoStation - Passenger 8 carrying 21 kg embarking at Berlin heading to Bucharest
+2017-04-27 21:16:20 INFO  CargoStation - Passenger 9 carrying 40 kg embarking at Berlin heading to Vienna
+2017-04-27 21:16:20 INFO  TrainState$5 - Pets is travelling from the depot: Budapest Station...
+2017-04-27 21:16:20 INFO  ActiveStation - Passenger 10 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 21:16:20 INFO  TrainState$1 - Generic European Train is in Paris Station.
+2017-04-27 21:16:20 INFO  TrainState$1 - Vlad the Impalator is in Bucharest Station.
+2017-04-27 21:16:20 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 21:16:20 INFO  TrainState$1 - Train#2 is in Berlin Station.
+2017-04-27 21:16:20 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 21:16:20 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Bucharest Station!
+2017-04-27 21:16:20 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 21:16:20 INFO  TrainState$3 - Vlad the Impalator enroute to Budapest Station!
+2017-04-27 21:16:20 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 21:16:20 INFO  TrainState$2 - Train#2 is ready to depart for Berlin Station!
+2017-04-27 21:16:20 INFO  TrainState$3 - Train#2 enroute to Amsterdam Station!
+2017-04-27 21:16:21 INFO  TrainState$4 - Train#2 is awaiting entry Amsterdam Station..!
+2017-04-27 21:16:21 INFO  ActiveStation - Passenger 11 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 21:16:21 INFO  ActiveStation - Passenger 12 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 21:16:21 INFO  TrainState$1 - Train#2 is in Amsterdam Station.
+2017-04-27 21:16:21 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Budapest Station..!
+2017-04-27 21:16:21 INFO  ActiveStation - Passenger 13 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 21:16:21 INFO  TrainState$1 - Vlad the Impalator is in Budapest Station.
+2017-04-27 21:16:22 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 21:16:22 INFO  CargoStation - Passenger 14 carrying 27 kg embarking at Manchester heading to Glasgow
+2017-04-27 21:16:22 INFO  CargoStation - Passenger 15 carrying 38 kg embarking at Manchester heading to Glasgow
+2017-04-27 21:16:22 INFO  CargoStation - Passenger 16 carrying 39 kg embarking at Manchester heading to London
+2017-04-27 21:16:22 INFO  CargoStation - Passenger 17 carrying 0 kg embarking at Manchester heading to Glasgow
+2017-04-27 21:16:22 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 21:16:22 INFO  Train - Passenger 7 is disembarking at Manchester
+2017-04-27 21:16:22 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 21:16:22 INFO  TrainState$3 - Thomas the Tank Engine enroute to London Station!
+2017-04-27 21:16:22 INFO  TrainState$2 - Generic European Train is ready to depart for Paris Station!
+2017-04-27 21:16:22 INFO  TrainState$2 - Pets is ready to depart for Budapest Station!
+2017-04-27 21:16:22 INFO  TrainState$3 - Generic European Train enroute to London Station!
+2017-04-27 21:16:22 INFO  TrainState$3 - Pets enroute to Bucharest Station!
+2017-04-27 21:16:23 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry London Station..!
+2017-04-27 21:16:23 INFO  CargoStation - Passenger 18 carrying 9 kg embarking at London heading to Berlin
+2017-04-27 21:16:23 INFO  CargoStation - Passenger 19 carrying 40 kg embarking at London heading to Glasgow
+2017-04-27 21:16:23 INFO  CargoStation - Passenger 20 carrying 22 kg embarking at London heading to Berlin
+2017-04-27 21:16:23 INFO  CargoStation - Passenger 21 carrying 29 kg embarking at London heading to Berlin
+2017-04-27 21:16:23 INFO  TrainState$1 - Thomas the Tank Engine is in London Station.
+2017-04-27 21:16:23 INFO  Train - Passenger 16 is disembarking at London
+2017-04-27 21:16:23 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for London Station!
+2017-04-27 21:16:23 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 21:16:23 INFO  TrainState$4 - Generic European Train is awaiting entry London Station..!
+2017-04-27 21:16:23 INFO  CargoStation - Passenger 22 carrying 47 kg embarking at London heading to Berlin
+2017-04-27 21:16:23 INFO  TrainState$1 - Generic European Train is in London Station.
+2017-04-27 21:16:23 INFO  TrainState$2 - Generic European Train is ready to depart for London Station!
+2017-04-27 21:16:23 INFO  TrainState$2 - Train#2 is ready to depart for Amsterdam Station!
+2017-04-27 21:16:23 INFO  TrainState$3 - Generic European Train enroute to Amsterdam Station!
+2017-04-27 21:16:23 INFO  TrainState$3 - Train#2 enroute to London Station!
+2017-04-27 21:16:24 INFO  TrainState$4 - Pets is awaiting entry Bucharest Station..!
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 23 carrying 12 kg embarking at Bucharest heading to Berlin
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 24 carrying 7 kg embarking at Bucharest heading to Berlin
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 25 carrying 49 kg embarking at Bucharest heading to Berlin
+2017-04-27 21:16:24 INFO  TrainState$1 - Pets is in Bucharest Station.
+2017-04-27 21:16:24 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Budapest Station!
+2017-04-27 21:16:24 INFO  TrainState$3 - Vlad the Impalator enroute to Vienna Station!
+2017-04-27 21:16:24 INFO  TrainState$2 - Pets is ready to depart for Bucharest Station!
+2017-04-27 21:16:24 INFO  TrainState$3 - Pets enroute to Budapest Station!
+2017-04-27 21:16:24 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Manchester Station..!
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 17 carrying 0 kg cargo embarking at Manchester heading to Glasgow
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 26 carrying 7 kg embarking at Manchester heading to Glasgow
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 27 carrying 40 kg embarking at Manchester heading to London
+2017-04-27 21:16:24 INFO  TrainState$1 - Thomas the Tank Engine is in Manchester Station.
+2017-04-27 21:16:24 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Manchester Station!
+2017-04-27 21:16:24 INFO  TrainState$3 - Thomas the Tank Engine enroute to Glasgow Station!
+2017-04-27 21:16:24 INFO  TrainState$4 - Train#2 is awaiting entry London Station..!
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 22 carrying 47 kg cargo embarking at London heading to Berlin
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 28 carrying 35 kg embarking at London heading to Glasgow
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 29 carrying 22 kg embarking at London heading to Glasgow
+2017-04-27 21:16:24 INFO  CargoStation - Passenger 30 carrying 16 kg embarking at London heading to Glasgow
+2017-04-27 21:16:24 INFO  TrainState$4 - Generic European Train is awaiting entry Amsterdam Station..!
+2017-04-27 21:16:24 INFO  ActiveStation - Passenger 11 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 21:16:24 INFO  ActiveStation - Passenger 12 carrying 0 kg cargo embarking at Amsterdam heading to Paris
+2017-04-27 21:16:24 INFO  ActiveStation - Passenger 31 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 21:16:24 INFO  ActiveStation - Passenger 32 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 21:16:24 INFO  ActiveStation - Passenger 33 carrying 0 kg embarking at Amsterdam heading to Paris
+2017-04-27 21:16:24 INFO  TrainState$1 - Train#2 is in London Station.
+2017-04-27 21:16:24 INFO  TrainState$1 - Generic European Train is in Amsterdam Station.
+2017-04-27 21:16:24 INFO  Train - Passenger 1 is disembarking at Amsterdam
+2017-04-27 21:16:24 INFO  Train - Passenger 4 is disembarking at Amsterdam
+2017-04-27 21:16:24 INFO  TrainState$2 - Train#2 is ready to depart for London Station!
+2017-04-27 21:16:24 INFO  TrainState$3 - Train#2 enroute to Paris Station!
+2017-04-27 21:16:25 INFO  TrainState$4 - Vlad the Impalator is awaiting entry Vienna Station..!
+2017-04-27 21:16:25 INFO  CargoStation - Passenger 34 carrying 47 kg embarking at Vienna heading to Bucharest
+2017-04-27 21:16:25 INFO  TrainState$1 - Vlad the Impalator is in Vienna Station.
+2017-04-27 21:16:25 INFO  TrainState$4 - Pets is awaiting entry Budapest Station..!
+2017-04-27 21:16:25 INFO  ActiveStation - Passenger 13 carrying 0 kg cargo embarking at Budapest heading to Paris
+2017-04-27 21:16:25 INFO  ActiveStation - Passenger 35 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 21:16:25 INFO  ActiveStation - Passenger 36 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 21:16:25 INFO  ActiveStation - Passenger 37 carrying 0 kg embarking at Budapest heading to Paris
+2017-04-27 21:16:25 INFO  TrainState$1 - Pets is in Budapest Station.
+2017-04-27 21:16:25 INFO  TrainState$2 - Vlad the Impalator is ready to depart for Vienna Station!
+2017-04-27 21:16:25 INFO  TrainState$3 - Vlad the Impalator enroute to Berlin Station!
+2017-04-27 21:16:25 INFO  TrainState$4 - Thomas the Tank Engine is awaiting entry Glasgow Station..!
+2017-04-27 21:16:25 INFO  CargoStation - Passenger 38 carrying 29 kg embarking at Glasgow heading to London
+2017-04-27 21:16:25 INFO  CargoStation - Passenger 39 carrying 32 kg embarking at Glasgow heading to London
+2017-04-27 21:16:25 INFO  TrainState$1 - Thomas the Tank Engine is in Glasgow Station.
+2017-04-27 21:16:25 INFO  Train - Passenger 14 is disembarking at Glasgow
+2017-04-27 21:16:25 INFO  Train - Passenger 15 is disembarking at Glasgow
+2017-04-27 21:16:25 INFO  Train - Passenger 19 is disembarking at Glasgow
+2017-04-27 21:16:25 INFO  Train - Passenger 26 is disembarking at Glasgow
+2017-04-27 21:16:25 INFO  TrainState$2 - Thomas the Tank Engine is ready to depart for Glasgow Station!
+2017-04-27 21:16:25 INFO  TrainState$3 - Thomas the Tank Engine enroute to Manchester Station!
+2017-04-27 21:16:25 INFO  TrainState$4 - Train#2 is awaiting entry Paris Station..!
+2017-04-27 21:16:25 INFO  ActiveStation - Passenger 40 carrying 0 kg embarking at Paris heading to Amsterdam
+2017-04-27 21:16:25 INFO  TrainState$1 - Train#2 is in Paris Station.

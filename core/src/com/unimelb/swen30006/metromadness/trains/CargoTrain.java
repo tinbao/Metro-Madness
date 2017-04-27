@@ -9,32 +9,11 @@ import com.unimelb.swen30006.metromadness.tracks.Line;
 public class CargoTrain extends Train {
 	
 	// size of the train
-	CSize size;
+	Size size;
 	public final static String TYPE = "Cargo";
-	
-	public enum CSize {
-		BIG (80, 200, Color.LIGHT_GRAY, 20f),
-		SMALL (10, 100, Color.MAROON, 10f);
-		
-		/** How many passengers it can hold */
-		private final int capacity;	
-		/** max luggage capacity (set to 0 when not a cargo train) */
-		private final int luggage;
-		/** color rendered */
-		private final Color color;
-		/** dividing constant to determine color interpolation and size */
-		private final float circleSpec;	
-		
-		CSize(int capacity, int luggage, Color color, float circleSpec) {
-			this.capacity = capacity;
-			this.luggage = luggage;
-			this.color = color;
-			this.circleSpec = circleSpec;
-		}
-	}
 
 	public CargoTrain(Line trainLine, Station start, boolean forward, 
-			String name, CSize size) {
+			String name, Size size) {
 		super(trainLine, start, forward, name);
 		this.size = size;
 	}

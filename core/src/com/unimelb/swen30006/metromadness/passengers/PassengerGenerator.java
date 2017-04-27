@@ -3,6 +3,8 @@ package com.unimelb.swen30006.metromadness.passengers;
 import java.util.ArrayList;
 import java.util.Random;
 
+import com.unimelb.swen30006.metromadness.stations.ActiveStation;
+import com.unimelb.swen30006.metromadness.stations.CargoStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
 import com.unimelb.swen30006.metromadness.tracks.Line;
 
@@ -13,7 +15,6 @@ public class PassengerGenerator {
 	
 	// Passenger id generator
 	static private int idGen = 1;
-	
 	
 	// The station that passengers are getting on
 	public Station s;
@@ -46,20 +47,25 @@ public class PassengerGenerator {
 		// Find the station
 		int index = 0;
 		
+		// Data of the current station
 		String stationType = l.stations.get(currentStation).type;
 		String stationName = l.stations.get(currentStation).name;
 		
 		ArrayList<Station> cargoStations = new ArrayList<Station>();
 		ArrayList<Station> activeStations = new ArrayList<Station>();
 		
+		// Creates a two lists of active and cargo stations except its own
 		for(Station station : l.stations){
-			if(station.type.equals("Cargo") && !station.name.equals(stationName)){
+			if(station.type.equals(CargoStation.STATION_TYPE) 
+					&& !station.name.equals(stationName)){
 				cargoStations.add(station);
-			} else if (station.type.equals("Active") && !station.name.equals(stationName)) {
+			} else if (station.type.equals(ActiveStation.STATION_TYPE) 
+					&& !station.name.equals(stationName)) {
 				activeStations.add(station);
 			}
 		}
 		
+		// Randomly pick a destination station from the list of available
 		Station s = null;
 		if(stationType.equals("Cargo")){
 			index = random.nextInt(cargoStations.size());

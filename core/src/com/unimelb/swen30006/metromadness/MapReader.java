@@ -21,9 +21,8 @@ import com.unimelb.swen30006.metromadness.stations.CargoStation;
 import com.unimelb.swen30006.metromadness.stations.Station;
 import com.unimelb.swen30006.metromadness.tracks.Line;
 import com.unimelb.swen30006.metromadness.trains.CargoTrain;
-import com.unimelb.swen30006.metromadness.trains.CargoTrain.CSize;
 import com.unimelb.swen30006.metromadness.trains.PassengerTrain;
-import com.unimelb.swen30006.metromadness.trains.PassengerTrain.Size;
+import com.unimelb.swen30006.metromadness.trains.Size;
 import com.unimelb.swen30006.metromadness.trains.Train;
 
 public class MapReader {
@@ -46,8 +45,8 @@ public class MapReader {
 	public void process(){
 		try {
 			// Build the doc factory
-			FileHandle file = Gdx.files.internal("../core/assets/maps/melbourne.xml");			
-			//FileHandle file = Gdx.files.internal("../core/assets/maps/world.xml");
+			//FileHandle file = Gdx.files.internal("../core/assets/maps/melbourne.xml");			
+			FileHandle file = Gdx.files.internal("../core/assets/maps/world.xml");
 			XmlReader reader = new XmlReader();
 			Element root = reader.parse(file);
 			
@@ -116,9 +115,9 @@ public class MapReader {
 		} else if (type.equals("SmallPassenger")){
 			return new PassengerTrain(l,s,dir,name, Size.SMALL);
 		} else if (type.equals("BigCargo")) {
-			return new CargoTrain(l, s, dir,name, CSize.BIG);
+			return new CargoTrain(l, s, dir,name, Size.BIG);
 		} else {
-			return new CargoTrain(l, s, dir, name, CSize.SMALL);
+			return new CargoTrain(l, s, dir, name, Size.SMALL);
 		}
 	}
 

@@ -17,6 +17,7 @@ import com.unimelb.swen30006.metromadness.trains.Train;
 public class ActiveStation extends Station {
 	// Logger
 	private static Logger logger = LogManager.getLogger();
+	public static final String STATION_TYPE = "Active";
 	
 	public PassengerGenerator g;
 	public ArrayList<Passenger> waiting;
